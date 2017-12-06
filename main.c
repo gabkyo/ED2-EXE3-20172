@@ -1,4 +1,4 @@
-#include "5.28a5.29-hash-endaberto.c"
+#include "5.28a5.29-hash-endaberto.h"
 
 int main(int argc, char *argv[]) {
 	arq = NULL;
