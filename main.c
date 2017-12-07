@@ -1,11 +1,16 @@
-#include "5.28a5.29-hash-endaberto.h"
+#include "Hash.h"
+#include "ExtraiPalavra.h"
 
 int main(int argc, char *argv[]) {
 	arq = NULL;
 	int i = 0;
-	Inicializa(Tabela);
+	//Inicializa(Tabela);
 
 	Lista_de_Palavras *lista = ler_arquivo(argv[1], argv[2]);
+
+
+
+	/*
 	GeraPesos(p);
 	//LerPalavra(lista->palavras[0], N);
 	strcpy(Elemento.Chave, lista->palavras[0]);
@@ -19,6 +24,6 @@ int main(int argc, char *argv[]) {
 	Imprime(Tabela);
 
 	if (arq != NULL)
-		fclose(arq);
+		fclose(arq);*/
 	return 0;
 }
