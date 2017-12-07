@@ -40,11 +40,11 @@ InsereLista(TipoElemento* aluno, TipoLista* lista){
 }
 /////////////////////////////////////////////////////////////
 TipoElemento* 
-RetiraLista (TipoLista* lista, int mat){
+RetiraLista (TipoLista* lista, char *arquivo){
   celula* ant;
   celula* p = lista->primeiro;
 
-  while(p!= NULL && p->item.matricula != mat){
+  while(p!= NULL && strcmp(p->item.nomeArquivo,arquivo) != 0){
     ant = p;
     p = p->prox;
   }
@@ -79,8 +79,8 @@ ImprimeLista (TipoLista* lista){
   celula* p = lista->primeiro;
 
   while(p != NULL){
-    printf("NOME:%s\nMATRICULA:%d\nENDERECO:%s\n",p->item.nome
-      ,p->item.matricula,p->item.endereco);
+    printf("Arquivo:%s Número de Ocorrências:%i\n",p->item.nomeArquivo
+      ,p->item.ocorrencias);
     p = p->prox;
   }
 }
@@ -91,6 +91,7 @@ LiberaLista (TipoLista* lista){
   celula* proximo = p->prox;
 
   while(p != NULL){
+	free(p->item.nomeArquivo);
     free(p);
     p = proximo;
     proximo = p->prox;
