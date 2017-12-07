@@ -51,23 +51,27 @@ ler_arquivo(char *texto, char *alfabeto) {
 			  	aux = TRUE;
 			}  
 			else if (aux) { 
-				lista->palavras[k] = strdup(Palavra);
-				lista->tamanho++;
-				//puts(Palavra); // jogar palavra na lista
-				//printf("%s\n",lista->palavras[k] );
-				*Palavra = '\0';
-				aux = FALSE;
+				if(Palavra != '\0'){
+					strcpy(lista->palavras[k],Palavra);
+					lista->tamanho++;
+					//puts(Palavra); // jogar palavra na lista
+					//printf("%s\n",lista->palavras[k] );
+					*Palavra = '\0';
+					aux = FALSE;
+					k++;
+				}
 			}
+
 		}
-		k++;
   	}
-			printf("passou1\n");
 
 	if (aux) {
-		lista->palavras[k] = strdup(Palavra);
-		lista->tamanho++;
-		puts(Palavra); //palavra lida
-		*Palavra = '\0';
+		if(Palavra != '\0'){
+			strcpy(lista->palavras[k],Palavra);
+			lista->tamanho++;
+			//puts(Palavra); //palavra lida
+			*Palavra = '\0';
+		}
 	}
 
 
@@ -81,12 +85,12 @@ ler_arquivo(char *texto, char *alfabeto) {
 	fclose(ArqTxt);
 	fclose(ArqAlf);
 
-	/*
+
 	printf("TAMANHO : %d\n",lista->tamanho );
 	for(int i = 0; i < lista->tamanho; i++){
 		if(strcmp(lista->palavras[i], "-1"))
 			printf("%s\n",lista->palavras[i] );
-	}*/
+	}
 
 
 	return lista;

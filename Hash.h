@@ -43,7 +43,7 @@ void Inicializa(TipoDicionario T);
 
 TipoApontador Pesquisa(TipoChave Ch, TipoPesos p, TipoDicionario T);
 
-void Insere(TipoItem x, TipoPesos p, TipoDicionario T);
+void Insere(TipoItem x, TipoPesos p, TipoDicionario T, char *documento);
 
 void Retira(TipoChave Ch, TipoPesos p, TipoDicionario T);
 

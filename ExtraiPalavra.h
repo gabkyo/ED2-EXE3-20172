@@ -31,6 +31,9 @@ typedef struct Lista {
 	char **palavras;
 } Lista_de_Palavras;
 
+Lista_de_Palavras*
+alocaListaPalavras(int tamanhoLista, int tamanhoPalavra);
+
 void DefineAlfabeto(short *Alfabeto);
 
 Lista_de_Palavras *ler_arquivo(char *texto, char *alfabeto);

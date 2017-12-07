@@ -1,8 +1,7 @@
 #include "Hash.h"
 #include "ExtraiPalavra.h"
 
-void 
-GeraPesos(TipoPesos p) { /* -Gera valores randomicos entre 1 e 10.000- */
+void GeraPesos(TipoPesos p) { /* -Gera valores randomicos entre 1 e 10.000- */
 	int i;
 	struct timeval semente;
 	/* Utilizar o tempo como semente para a funcao srand() */
@@ -12,8 +11,7 @@ GeraPesos(TipoPesos p) { /* -Gera valores randomicos entre 1 e 10.000- */
 		p[i] = 1 + (int) (10000.0 * rand() / (RAND_MAX + 1.0));
 }
 
-TipoIndice 
-h (TipoChave Chave, TipoPesos p) {
+TipoIndice h(TipoChave Chave, TipoPesos p) {
 	int i;
 	unsigned int Soma = 0;
 	int comp = strlen(Chave);
@@ -22,32 +20,34 @@ h (TipoChave Chave, TipoPesos p) {
 	return (Soma % M);
 }
 
-void 
-Inicializa(TipoDicionario T) {
+void Inicializa(TipoDicionario T) {
 	int i;
-	for (i = 0; i < M; i++)
-		memcpy(T[i].Chave, VAZIO, N);
+
+	for (i = 0; i < M; i++) {
+		strcpy(T[i].Chave, VAZIO);
+	}
 }
 
-TipoApontador 
-Pesquisa(TipoChave Ch, TipoPesos p, TipoDicionario T) {
+TipoApontador Pesquisa(TipoChave Ch, TipoPesos p, TipoDicionario T) {
 	unsigned int i = 0;
 	unsigned int Inicial;
 	Inicial = h(Ch, p);
 	while (strcmp(T[(Inicial + i) % M].Chave, VAZIO) != 0
 			&& strcmp(T[(Inicial + i) % M].Chave, Ch) != 0 && i < M)
 		i++;
-	if (strcmp(T[(Inicial + i) % M].Chave, Ch) == 0)
+	if (strcmp(T[(Inicial + i) % M].Chave, Ch) == 0){
 		return ((Inicial + i) % M);
-	else
+	}else
 		return M; /* Pesquisa sem sucesso */
 }
 
-void 
-Insere(TipoItem x, TipoPesos p, TipoDicionario T) {
+void Insere(TipoItem x, TipoPesos p, TipoDicionario T, char *documento) {
 	unsigned int i = 0;
 	unsigned int Inicial;
+
 	if (Pesquisa(x.Chave, p, T) < M) {
+		TipoLista *lista = T[Pesquisa(x.Chave, p, T)].listaOcorrencia;
+		ProcuraEsomaNaLista(lista,documento);
 		printf("Elemento ja esta presente\n");
 		return;
 	}
@@ -56,14 +56,22 @@ Insere(TipoItem x, TipoPesos p, TipoDicionario T) {
 			&& strcmp(T[(Inicial + i) % M].Chave, RETIRADO) != 0 && i < M)
 		i++;
 	if (i < M) {
+		puts("passsou12312321312\n");
+
 		strcpy(T[(Inicial + i) % M].Chave, x.Chave);
+		TipoLista *lista = T[(Inicial + i) % M].listaOcorrencia;
+		TipoElemento *elemento = InicializaTipoElemento(documento,1);
+		puts("pass");
+
+		InsereLista(elemento, lista);
+
+
 		/* Copiar os demais campos de x, se existirem */
 	} else
 		printf(" Tabela cheia\n");
 }
 
-void 
-Retira(TipoChave Ch, TipoPesos p, TipoDicionario T) {
+void Retira(TipoChave Ch, TipoPesos p, TipoDicionario T) {
 	TipoIndice i;
 	i = Pesquisa(Ch, p, T);
 	if (i < M)
@@ -72,8 +80,7 @@ Retira(TipoChave Ch, TipoPesos p, TipoDicionario T) {
 		printf("Registro nao esta presente\n");
 }
 
-void 
-Imprime(TipoDicionario tabela) {
+void Imprime(TipoDicionario tabela) {
 	int i, j, tam;
 	for (i = 0; i < M; i++) {
 		printf("%d  ", i);
@@ -84,8 +91,7 @@ Imprime(TipoDicionario tabela) {
 	}
 } /* Imprime */
 
-void 
-LerPalavra(char *p, int Tam) {
+void LerPalavra(char *p, int Tam) {
 	char c;
 	int i, j;
 	fflush(stdin);

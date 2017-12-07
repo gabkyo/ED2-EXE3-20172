@@ -19,3 +19,5 @@ void ImprimeLista (TipoLista* lista);
 TipoLista* LiberaLista (TipoLista* lista);
 //////////////////////////////////////////////////////////////////////////////
 TipoElemento* InicializaTipoElemento(char* nome, int ocorrencias);
+
+void ProcuraEsomaNaLista(TipoLista *lista, char *documento);
