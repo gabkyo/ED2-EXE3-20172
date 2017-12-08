@@ -1,5 +1,24 @@
 #include "ExtraiPalavra.h"
 
+char *ltrim(char *s)
+{
+    while(isspace(*s)) s++;
+    return s;
+}
+
+char *rtrim(char *s)
+{
+    char* back = s + strlen(s);
+    while(isspace(*--back));
+    *(back+1) = '\0';
+    return s;
+}
+
+char *trim(char *s)
+{
+    return rtrim(ltrim(s)); 
+}
+
 Lista_de_Palavras*
 alocaListaPalavras(int tamanhoLista, int tamanhoPalavra){
 
@@ -80,6 +99,7 @@ ler_arquivo(char *texto, char *alfabeto) {
 		for (int j = 0; j < strlen(lista->palavras[i]); ++j) {
 			lista->palavras[i][j] = tolower(lista->palavras[i][j]); //tudo em lowercase
 		}
+		lista->palavras[i] = trim(lista->palavras[i]);
 	}
 
 	fclose(ArqTxt);

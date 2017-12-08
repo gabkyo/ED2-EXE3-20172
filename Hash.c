@@ -21,9 +21,9 @@ TipoIndice h(TipoChave Chave, TipoPesos p) {
 }
 
 void Inicializa(TipoDicionario T) {
-	int i;
-
+	int i = 0;
 	for (i = 0; i < M; i++) {
+		T[i].listaOcorrencia = InicializaLista();
 		strcpy(T[i].Chave, VAZIO);
 	}
 }
@@ -47,7 +47,7 @@ void Insere(TipoItem x, TipoPesos p, TipoDicionario T, char *documento) {
 
 	if (Pesquisa(x.Chave, p, T) < M) {
 		TipoLista *lista = T[Pesquisa(x.Chave, p, T)].listaOcorrencia;
-		ProcuraEsomaNaLista(lista,documento);
+		ProcuraEsomaNaLista(lista, documento);
 		printf("Elemento ja esta presente\n");
 		return;
 	}
@@ -56,12 +56,10 @@ void Insere(TipoItem x, TipoPesos p, TipoDicionario T, char *documento) {
 			&& strcmp(T[(Inicial + i) % M].Chave, RETIRADO) != 0 && i < M)
 		i++;
 	if (i < M) {
-		puts("passsou12312321312\n");
-
 		strcpy(T[(Inicial + i) % M].Chave, x.Chave);
 		TipoLista *lista = T[(Inicial + i) % M].listaOcorrencia;
 		TipoElemento *elemento = InicializaTipoElemento(documento,1);
-		puts("pass");
+
 
 		InsereLista(elemento, lista);
 
@@ -83,11 +81,17 @@ void Retira(TipoChave Ch, TipoPesos p, TipoDicionario T) {
 void Imprime(TipoDicionario tabela) {
 	int i, j, tam;
 	for (i = 0; i < M; i++) {
-		printf("%d  ", i);
-		tam = strlen(tabela[i].Chave);
-		for (j = 0; j < tam; j++)
-			putchar(tabela[i].Chave[j]);
-		putchar('\n');
+		if(strcmp(tabela[i].Chave, VAZIO)){
+			printf("%d  ", i);
+			tam = strlen(tabela[i].Chave);
+			for (j = 0; j < tam; j++){
+				putchar(tabela[i].Chave[j]);
+			}
+			int qtdLista = ImprimeLista(tabela[i].listaOcorrencia);
+
+			//printf("->>>>>>>>>>>>>>>>>>>>> %d\n", qtdLista);
+			putchar('\n');
+		}
 	}
 } /* Imprime */
 

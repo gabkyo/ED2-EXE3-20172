@@ -8,7 +8,7 @@ typedef struct tipoelemento {
 } TipoElemento;
 
 typedef struct Celula {
-	TipoElemento item;
+	TipoElemento *item;
 	struct Celula *prox;
 } celula;
 
@@ -24,15 +24,16 @@ InicializaLista() {
 	return lista;
 }
 /////////////////////////////////////////////////////////////
-void InsereLista(TipoElemento* aluno, TipoLista* lista) {
-	celula* novo = (celula*) malloc(sizeof(celula));
+void InsereLista(TipoElemento* elemento, TipoLista* lista) {
+	celula *novo = (celula*) malloc(sizeof(celula));
+	novo->prox = NULL;
+	novo->item = elemento;
+
 	if (lista->ultimo == NULL && lista->primeiro == NULL) {
 		lista->primeiro = lista->ultimo = novo;
-		puts("ali\n");
 	} else {
 		novo->prox = lista->primeiro;
 		lista->primeiro = novo;
-		puts("acola\n");
 	}
 }
 /////////////////////////////////////////////////////////////
@@ -41,7 +42,7 @@ RetiraLista(TipoLista* lista, char *arquivo) {
 	celula* ant;
 	celula* p = lista->primeiro;
 
-	while (p != NULL && strcmp(p->item.nomeArquivo, arquivo) != 0) {
+	while (p != NULL && strcmp(p->item->nomeArquivo, arquivo) != 0) {
 		ant = p;
 		p = p->prox;
 	}
@@ -70,14 +71,17 @@ RetiraLista(TipoLista* lista, char *arquivo) {
 	return 0;
 }
 /////////////////////////////////////////////////////////
-void ImprimeLista(TipoLista* lista) {
+int
+ImprimeLista(TipoLista* lista) {
 	celula* p = lista->primeiro;
-
+	int qtd = 0;
 	while (p != NULL) {
-		printf("Arquivo:%s Número de Ocorrências:%i\n", p->item.nomeArquivo,
-				p->item.ocorrencias);
+		printf("  [ %s | %i ]\n", p->item->nomeArquivo,
+				p->item->ocorrencias);
+		qtd++;
 		p = p->prox;
 	}
+	return qtd;
 }
 //////////////////////////////////////////////////////////
 TipoLista*
@@ -86,7 +90,7 @@ LiberaLista(TipoLista* lista) {
 	celula* proximo = p->prox;
 
 	while (p != NULL) {
-		free(p->item.nomeArquivo);
+		free(p->item->nomeArquivo);
 		free(p);
 		p = proximo;
 		proximo = p->prox;
@@ -114,8 +118,8 @@ void ProcuraEsomaNaLista(TipoLista *lista, char *documento) {
 	celula* p = lista->primeiro;
 
 	while (p != NULL) {
-		if (strcmp(p->item.nomeArquivo, documento) == 0) {
-			++p->item.ocorrencias;
+		if (strcmp(p->item->nomeArquivo, documento) == 0) {
+			p->item->ocorrencias++;
 			return;
 		}
 		p = p->prox;
