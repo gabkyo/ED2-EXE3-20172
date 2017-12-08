@@ -107,10 +107,10 @@ ler_arquivo(char *texto, char *alfabeto) {
 
 
 	printf("TAMANHO : %d\n",lista->tamanho );
-	for(int i = 0; i < lista->tamanho; i++){
+	/*for(int i = 0; i < lista->tamanho; i++){
 		if(strcmp(lista->palavras[i], "-1"))
 			printf("%s\n",lista->palavras[i] );
-	}
+	}*/
 
 
 	return lista;

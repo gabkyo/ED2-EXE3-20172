@@ -48,7 +48,6 @@ void Insere(TipoItem x, TipoPesos p, TipoDicionario T, char *documento) {
 	if (Pesquisa(x.Chave, p, T) < M) {
 		TipoLista *lista = T[Pesquisa(x.Chave, p, T)].listaOcorrencia;
 		ProcuraEsomaNaLista(lista, documento);
-		printf("Elemento ja esta presente\n");
 		return;
 	}
 	Inicial = h(x.Chave, p);

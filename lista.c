@@ -76,11 +76,12 @@ ImprimeLista(TipoLista* lista) {
 	celula* p = lista->primeiro;
 	int qtd = 0;
 	while (p != NULL) {
-		printf("  [ %s | %i ]\n", p->item->nomeArquivo,
+		printf("  [ %s | %i ] ", p->item->nomeArquivo,
 				p->item->ocorrencias);
 		qtd++;
 		p = p->prox;
 	}
+	printf("\n");
 	return qtd;
 }
 //////////////////////////////////////////////////////////
@@ -110,6 +111,8 @@ InicializaTipoElemento(char* nome, int ocorrencias) {
 	return item;
 }
 
+
+
 void ProcuraEsomaNaLista(TipoLista *lista, char *documento) {
 	if (lista == NULL) {
 		printf("Lista Vazia\n");
@@ -120,6 +123,12 @@ void ProcuraEsomaNaLista(TipoLista *lista, char *documento) {
 	while (p != NULL) {
 		if (strcmp(p->item->nomeArquivo, documento) == 0) {
 			p->item->ocorrencias++;
+			return;
+		}
+		if(p->prox==NULL){
+			p->prox=(celula*) malloc(sizeof(celula));
+			p->prox->prox=NULL;
+			p->prox->item=InicializaTipoElemento(documento,1);
 			return;
 		}
 		p = p->prox;
