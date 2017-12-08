@@ -18,34 +18,24 @@ char documentos[50][256] = { "documentos/m01.txt", "documentos/m02.txt",
 		"documentos/m39.txt", "documentos/m40.txt", "documentos/m41.txt",
 		"documentos/m42.txt", "documentos/m43.txt", "documentos/m44.txt",
 		"documentos/m45.txt", "documentos/m46.txt", "documentos/m47.txt",
-		"documentos/m48.txt", "documentos/m49.txt", "documentos/m50.txt"};
+		"documentos/m48.txt", "documentos/m49.txt", "documentos/m50.txt" };
 
-void sortTabela(){
-	TipoItem aux;
-	for (int i = 0; i < M-1; ++i) {
-		for (int j = i+1; j < M; ++j) {
-			if(strcmp(Tabela[i].Palavra,Tabela[j].Palavra)>0){
-				aux=Tabela[j];
-				Tabela[j]=Tabela[i];
-				Tabela[i]=aux;
-				i=-1;
-				j=0;
-			}
-		}
-	}
+int comparar(const void* a, const void* b) {
+	TipoItem int_a = *((TipoItem*) a);
+	TipoItem int_b = *((TipoItem*) b);
+	return strcmp(int_a.Palavra,int_b.Palavra);
 }
-
 
 int main(int argc, char *argv[]) {
 	arq = NULL;
 	int i;
 	Inicializa(Tabela);
-
+	GeraPesos(p);
 	/*Está faltando iterar os 50 arquivos*/
 	for (int j = 0; j < 50; j++) {
-		i=0;
+		i = 0;
 		Lista_de_Palavras *lista = ler_arquivo(documentos[j], argv[1]);
-		GeraPesos(p);
+
 		//LerPalavra(lista->palavras[0], N);
 		Elemento.Chave[0] = '\0';
 		strcpy(Elemento.Chave, lista->palavras[0]);
@@ -58,7 +48,7 @@ int main(int argc, char *argv[]) {
 			i++;
 		}
 	}
-	sortTabela();
+	qsort(Tabela,M,sizeof(TipoItem),comparar);
 	printf("Tabela apos insercao:\n");
 	Imprime(Tabela);
 

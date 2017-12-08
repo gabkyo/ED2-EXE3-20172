@@ -70,7 +70,7 @@ ler_arquivo(char *texto, char *alfabeto) {
 			  	aux = TRUE;
 			}  
 			else if (aux) { 
-				if(Palavra != '\0'){
+				if(Palavra != '\0' && Palavra != " "){
 					strcpy(lista->palavras[k],Palavra);
 					lista->tamanho++;
 					//puts(Palavra); // jogar palavra na lista
@@ -85,7 +85,7 @@ ler_arquivo(char *texto, char *alfabeto) {
   	}
 
 	if (aux) {
-		if(Palavra != '\0'){
+		if(Palavra != '\0' && Palavra != " "){
 			strcpy(lista->palavras[k],Palavra);
 			lista->tamanho++;
 			//puts(Palavra); //palavra lida
@@ -106,7 +106,7 @@ ler_arquivo(char *texto, char *alfabeto) {
 	fclose(ArqAlf);
 
 
-	printf("TAMANHO : %d\n",lista->tamanho );
+	//printf("TAMANHO : %d\n",lista->tamanho );
 	/*for(int i = 0; i < lista->tamanho; i++){
 		if(strcmp(lista->palavras[i], "-1"))
 			printf("%s\n",lista->palavras[i] );
