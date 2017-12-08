@@ -11,6 +11,7 @@ void GeraPesos(TipoPesos p) { /* -Gera valores randomicos entre 1 e 10.000- */
 		p[i] = 1 + (int) (10000.0 * rand() / (RAND_MAX + 1.0));
 }
 
+
 TipoIndice h(TipoChave Chave, TipoPesos p) {
 	int i;
 	unsigned int Soma = 0;
@@ -77,9 +78,25 @@ void Retira(TipoChave Ch, TipoPesos p, TipoDicionario T) {
 		printf("Registro nao esta presente\n");
 }
 
+void ordenar(TipoDicionario tabela){
+	TipoItem aux;
+	for (int i = 0; i < M-1; ++i) {
+		for (int j = i+1; j < M; ++j) {
+			if(strcmp(tabela[i].Palavra,Tabela[j].Palavra)>0){
+				aux = tabela[j];
+				tabela[j]=tabela[i];
+				tabela[i]=aux;
+				i=-1;
+				j=0;
+			}
+		}
+	}
+}
+
 void Imprime(TipoDicionario tabela) {
 	int i, j, tam;
-	for (i = 0; i < M; i++) {
+	ordenar(tabela);
+	for (i = 1; i < M; i++) {
 		if(strcmp(tabela[i].Chave, VAZIO)){
 			printf("%d  ", i);
 			tam = strlen(tabela[i].Chave);
