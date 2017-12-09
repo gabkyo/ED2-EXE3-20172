@@ -1,0 +1,3767 @@
+Tabela apos insercao:
+3  wait  [ documentos/m22.txt | 1 ]   [ documentos/m26.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+8  goes  [ documentos/m36.txt | 9 ] 
+
+10  certain  [ documentos/m47.txt | 1 ] 
+
+11  determine  [ documentos/m01.txt | 1 ] 
+
+12  flesh  [ documentos/m49.txt | 3 ] 
+
+14  sky  [ documentos/m06.txt | 1 ]   [ documentos/m08.txt | 2 ]   [ documentos/m20.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m45.txt | 2 ]   [ documentos/m46.txt | 3 ]   [ documentos/m48.txt | 6 ]   [ documentos/m50.txt | 1 ] 
+
+19  jealousy  [ documentos/m23.txt | 2 ] 
+
+24  stakes  [ documentos/m38.txt | 1 ] 
+
+29  moving  [ documentos/m34.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+30  eastside  [ documentos/m43.txt | 2 ] 
+
+38  hell  [ documentos/m30.txt | 1 ]   [ documentos/m41.txt | 1 ] 
+
+39  truth  [ documentos/m18.txt | 1 ]   [ documentos/m36.txt | 2 ]   [ documentos/m43.txt | 2 ]   [ documentos/m49.txt | 1 ] 
+
+47  shoulders  [ documentos/m01.txt | 1 ] 
+
+57  motion  [ documentos/m43.txt | 1 ] 
+
+59  quick  [ documentos/m28.txt | 1 ]   [ documentos/m31.txt | 2 ]   [ documentos/m32.txt | 8 ] 
+
+65  prisons  [ documentos/m28.txt | 3 ] 
+
+70  film  [ documentos/m37.txt | 2 ] 
+
+72  seen  [ documentos/m03.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m25.txt | 2 ]   [ documentos/m37.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+73  melody  [ documentos/m01.txt | 4 ] 
+
+77  hop  [ documentos/m43.txt | 2 ] 
+
+80  e  [ documentos/m01.txt | 4 ] 
+
+81  political  [ documentos/m16.txt | 1 ] 
+
+84  conspire  [ documentos/m02.txt | 1 ] 
+
+85  eye  [ documentos/m46.txt | 1 ] 
+
+86  it  [ documentos/m01.txt | 3 ]   [ documentos/m02.txt | 1 ]   [ documentos/m03.txt | 4 ]   [ documentos/m05.txt | 4 ]   [ documentos/m06.txt | 1 ]   [ documentos/m07.txt | 1 ]   [ documentos/m08.txt | 3 ]   [ documentos/m09.txt | 8 ]   [ documentos/m10.txt | 8 ]   [ documentos/m11.txt | 10 ]   [ documentos/m13.txt | 1 ]   [ documentos/m15.txt | 10 ]   [ documentos/m16.txt | 1 ]   [ documentos/m17.txt | 4 ]   [ documentos/m18.txt | 6 ]   [ documentos/m19.txt | 2 ]   [ documentos/m21.txt | 2 ]   [ documentos/m22.txt | 2 ]   [ documentos/m23.txt | 10 ]   [ documentos/m24.txt | 3 ]   [ documentos/m25.txt | 7 ]   [ documentos/m26.txt | 1 ]   [ documentos/m27.txt | 3 ]   [ documentos/m28.txt | 1 ]   [ documentos/m29.txt | 5 ]   [ documentos/m32.txt | 399 ]   [ documentos/m33.txt | 11 ]   [ documentos/m34.txt | 8 ]   [ documentos/m35.txt | 1 ]   [ documentos/m36.txt | 6 ]   [ documentos/m37.txt | 2 ]   [ documentos/m38.txt | 5 ]   [ documentos/m41.txt | 1 ]   [ documentos/m42.txt | 7 ]   [ documentos/m43.txt | 1 ]   [ documentos/m44.txt | 6 ]   [ documentos/m45.txt | 9 ]   [ documentos/m46.txt | 6 ]   [ documentos/m47.txt | 4 ]   [ documentos/m48.txt | 10 ]   [ documentos/m50.txt | 1 ] 
+
+105  deal  [ documentos/m04.txt | 2 ] 
+
+106  surrender  [ documentos/m13.txt | 8 ]   [ documentos/m33.txt | 6 ] 
+
+107  flick  [ documentos/m31.txt | 1 ] 
+
+127  harm  [ documentos/m35.txt | 1 ] 
+
+128  help  [ documentos/m01.txt | 1 ]   [ documentos/m22.txt | 1 ] 
+
+135  knowing  [ documentos/m17.txt | 2 ] 
+
+136  letter  [ documentos/m01.txt | 1 ] 
+
+145  gracious  [ documentos/m01.txt | 1 ] 
+
+146  wall  [ documentos/m22.txt | 2 ]   [ documentos/m35.txt | 1 ]   [ documentos/m47.txt | 8 ] 
+
+147  faced  [ documentos/m01.txt | 1 ] 
+
+148  would  [ documentos/m02.txt | 1 ]   [ documentos/m03.txt | 1 ]   [ documentos/m33.txt | 2 ]   [ documentos/m47.txt | 2 ] 
+
+149  about  [ documentos/m01.txt | 2 ]   [ documentos/m17.txt | 3 ]   [ documentos/m24.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m36.txt | 1 ]   [ documentos/m37.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m44.txt | 1 ] 
+
+150  front  [ documentos/m34.txt | 1 ] 
+
+155  evidence  [ documentos/m36.txt | 2 ] 
+
+169  picking  [ documentos/m20.txt | 2 ]   [ documentos/m25.txt | 1 ] 
+
+175  first  [ documentos/m07.txt | 1 ]   [ documentos/m27.txt | 3 ]   [ documentos/m34.txt | 1 ] 
+
+179  opportunity  [ documentos/m01.txt | 1 ] 
+
+184  donde  [ documentos/m50.txt | 3 ] 
+
+187  sisters  [ documentos/m10.txt | 1 ] 
+
+188  untold  [ documentos/m13.txt | 1 ] 
+
+189  attack  [ documentos/m46.txt | 1 ] 
+
+193  ashes  [ documentos/m30.txt | 1 ] 
+
+194  flags  [ documentos/m25.txt | 1 ] 
+
+195  hopeless  [ documentos/m34.txt | 2 ] 
+
+197  falls  [ documentos/m34.txt | 1 ] 
+
+208  treetop  [ documentos/m43.txt | 1 ] 
+
+210  believe  [ documentos/m25.txt | 2 ]   [ documentos/m45.txt | 3 ] 
+
+220  take  [ documentos/m01.txt | 2 ]   [ documentos/m03.txt | 1 ]   [ documentos/m07.txt | 1 ]   [ documentos/m08.txt | 2 ]   [ documentos/m09.txt | 2 ]   [ documentos/m13.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m33.txt | 8 ]   [ documentos/m34.txt | 3 ]   [ documentos/m36.txt | 1 ]   [ documentos/m37.txt | 2 ]   [ documentos/m42.txt | 2 ] 
+
+222  government  [ documentos/m22.txt | 1 ] 
+
+227  cheap  [ documentos/m33.txt | 1 ] 
+
+229  brothers  [ documentos/m10.txt | 1 ] 
+
+231  incision  [ documentos/m33.txt | 1 ] 
+
+232  lose  [ documentos/m12.txt | 1 ]   [ documentos/m24.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m48.txt | 3 ] 
+
+236  hit  [ documentos/m29.txt | 8 ]   [ documentos/m44.txt | 3 ] 
+
+240  dear  [ documentos/m21.txt | 1 ] 
+
+255  bedouin  [ documentos/m34.txt | 1 ] 
+
+256  great  [ documentos/m09.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+257  alive  [ documentos/m02.txt | 1 ]   [ documentos/m41.txt | 1 ] 
+
+258  bomb  [ documentos/m22.txt | 1 ] 
+
+260  fade  [ documentos/m02.txt | 4 ]   [ documentos/m48.txt | 1 ] 
+
+261  ghosts  [ documentos/m30.txt | 1 ] 
+
+262  bikesheds  [ documentos/m47.txt | 1 ] 
+
+263  rolls  [ documentos/m21.txt | 1 ] 
+
+264  rip  [ documentos/m32.txt | 7 ]   [ documentos/m50.txt | 1 ] 
+
+271  vanity  [ documentos/m28.txt | 1 ] 
+
+278  unicorn  [ documentos/m27.txt | 3 ] 
+
+279  lived  [ documentos/m37.txt | 1 ] 
+
+284  beautiful  [ documentos/m21.txt | 9 ]   [ documentos/m34.txt | 7 ]   [ documentos/m42.txt | 2 ] 
+
+285  waste  [ documentos/m22.txt | 1 ] 
+
+297  drop  [ documentos/m22.txt | 1 ]   [ documentos/m32.txt | 7 ]   [ documentos/m43.txt | 2 ] 
+
+298  swear  [ documentos/m12.txt | 2 ] 
+
+300  swallow  [ documentos/m35.txt | 1 ]   [ documentos/m41.txt | 1 ] 
+
+309  ribbon  [ documentos/m14.txt | 1 ] 
+
+312  things  [ documentos/m45.txt | 1 ] 
+
+316  sweetheart  [ documentos/m43.txt | 1 ] 
+
+318  he  [ documentos/m09.txt | 4 ]   [ documentos/m23.txt | 2 ]   [ documentos/m24.txt | 5 ]   [ documentos/m29.txt | 2 ]   [ documentos/m36.txt | 3 ]   [ documentos/m41.txt | 1 ]   [ documentos/m42.txt | 8 ]   [ documentos/m43.txt | 2 ]   [ documentos/m48.txt | 11 ] 
+
+323  wings  [ documentos/m08.txt | 1 ] 
+
+324  cups  [ documentos/m14.txt | 3 ] 
+
+330  reins  [ documentos/m01.txt | 1 ] 
+
+334  spirits  [ documentos/m43.txt | 2 ] 
+
+335  peter  [ documentos/m36.txt | 1 ] 
+
+336  last  [ documentos/m03.txt | 1 ]   [ documentos/m17.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m44.txt | 5 ] 
+
+340  fighting  [ documentos/m21.txt | 5 ]   [ documentos/m37.txt | 2 ] 
+
+346  teenage  [ documentos/m27.txt | 1 ] 
+
+356  no-no-nothing  [ documentos/m07.txt | 3 ] 
+
+357  fleets  [ documentos/m34.txt | 1 ] 
+
+358  say  [ documentos/m01.txt | 1 ]   [ documentos/m03.txt | 4 ]   [ documentos/m05.txt | 1 ]   [ documentos/m08.txt | 4 ]   [ documentos/m10.txt | 2 ]   [ documentos/m11.txt | 2 ]   [ documentos/m13.txt | 24 ]   [ documentos/m18.txt | 7 ]   [ documentos/m21.txt | 6 ]   [ documentos/m24.txt | 10 ]   [ documentos/m25.txt | 2 ]   [ documentos/m28.txt | 2 ]   [ documentos/m29.txt | 4 ]   [ documentos/m31.txt | 7 ]   [ documentos/m36.txt | 2 ]   [ documentos/m38.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m45.txt | 6 ]   [ documentos/m46.txt | 4 ] 
+
+359  hunt  [ documentos/m05.txt | 1 ] 
+
+360  brown  [ documentos/m40.txt | 2 ] 
+
+361  chop  [ documentos/m43.txt | 2 ] 
+
+374  came  [ documentos/m15.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m39.txt | 2 ]   [ documentos/m48.txt | 1 ] 
+
+378  course  [ documentos/m22.txt | 1 ] 
+
+381  out  [ documentos/m08.txt | 4 ]   [ documentos/m10.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m20.txt | 2 ]   [ documentos/m22.txt | 2 ]   [ documentos/m23.txt | 4 ]   [ documentos/m29.txt | 3 ]   [ documentos/m33.txt | 2 ]   [ documentos/m34.txt | 4 ]   [ documentos/m35.txt | 3 ]   [ documentos/m36.txt | 5 ]   [ documentos/m37.txt | 1 ]   [ documentos/m38.txt | 2 ]   [ documentos/m39.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m43.txt | 3 ]   [ documentos/m44.txt | 2 ]   [ documentos/m45.txt | 1 ]   [ documentos/m48.txt | 2 ]   [ documentos/m49.txt | 11 ] 
+
+382  riot  [ documentos/m08.txt | 1 ] 
+
+383  crimson  [ documentos/m50.txt | 1 ] 
+
+391  guess  [ documentos/m11.txt | 1 ]   [ documentos/m24.txt | 3 ] 
+
+393  complete  [ documentos/m33.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+394  alright  [ documentos/m08.txt | 2 ]   [ documentos/m33.txt | 2 ] 
+
+395  longing  [ documentos/m41.txt | 3 ] 
+
+398  underground  [ documentos/m08.txt | 2 ] 
+
+401  imagined  [ documentos/m42.txt | 2 ] 
+
+402  unpack  [ documentos/m46.txt | 1 ] 
+
+403  it'll  [ documentos/m28.txt | 1 ] 
+
+404  began  [ documentos/m13.txt | 1 ] 
+
+406  forcefield  [ documentos/m04.txt | 1 ] 
+
+417  sleeve  [ documentos/m04.txt | 2 ] 
+
+418  air  [ documentos/m30.txt | 1 ] 
+
+423  clear  [ documentos/m35.txt | 3 ]   [ documentos/m44.txt | 1 ] 
+
+426  cries  [ documentos/m44.txt | 1 ] 
+
+427  bad  [ documentos/m10.txt | 1 ]   [ documentos/m11.txt | 5 ]   [ documentos/m44.txt | 1 ] 
+
+429  upside-down  [ documentos/m09.txt | 1 ] 
+
+433  daddy's  [ documentos/m47.txt | 2 ] 
+
+435  means  [ documentos/m16.txt | 1 ] 
+
+441  awake  [ documentos/m29.txt | 1 ] 
+
+442  one  [ documentos/m03.txt | 1 ]   [ documentos/m06.txt | 1 ]   [ documentos/m08.txt | 2 ]   [ documentos/m10.txt | 15 ]   [ documentos/m11.txt | 1 ]   [ documentos/m13.txt | 8 ]   [ documentos/m15.txt | 3 ]   [ documentos/m17.txt | 2 ]   [ documentos/m26.txt | 29 ]   [ documentos/m29.txt | 4 ]   [ documentos/m31.txt | 4 ]   [ documentos/m33.txt | 1 ]   [ documentos/m36.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m43.txt | 2 ]   [ documentos/m44.txt | 3 ] 
+
+448  till  [ documentos/m08.txt | 2 ] 
+
+462  west  [ documentos/m11.txt | 2 ] 
+
+463  crushed  [ documentos/m18.txt | 1 ] 
+
+466  doh  [ documentos/m17.txt | 3 ] 
+
+467  leading  [ documentos/m43.txt | 1 ] 
+
+473  fright  [ documentos/m48.txt | 1 ] 
+
+479  kick  [ documentos/m17.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+481  planned  [ documentos/m44.txt | 1 ] 
+
+483  rewrite  [ documentos/m32.txt | 8 ] 
+
+484  gangstar  [ documentos/m09.txt | 3 ] 
+
+494  black  [ documentos/m02.txt | 4 ]   [ documentos/m03.txt | 1 ]   [ documentos/m31.txt | 1 ] 
+
+499  louisiana  [ documentos/m03.txt | 1 ] 
+
+500  la's  [ documentos/m28.txt | 1 ] 
+
+502  herd  [ documentos/m29.txt | 1 ] 
+
+504  panorama  [ documentos/m03.txt | 1 ] 
+
+505  economic  [ documentos/m16.txt | 1 ] 
+
+506  worst  [ documentos/m24.txt | 1 ] 
+
+507  ways  [ documentos/m42.txt | 2 ] 
+
+508  breath  [ documentos/m03.txt | 1 ]   [ documentos/m35.txt | 4 ]   [ documentos/m38.txt | 1 ] 
+
+511  its  [ documentos/m15.txt | 3 ]   [ documentos/m16.txt | 4 ]   [ documentos/m23.txt | 2 ]   [ documentos/m27.txt | 1 ] 
+
+514  push  [ documentos/m03.txt | 1 ] 
+
+518  lightning's  [ documentos/m44.txt | 1 ] 
+
+521  mistakes  [ documentos/m16.txt | 1 ] 
+
+523  gravity  [ documentos/m35.txt | 1 ] 
+
+534  fire  [ documentos/m19.txt | 5 ]   [ documentos/m46.txt | 1 ] 
+
+539  law  [ documentos/m10.txt | 2 ] 
+
+547  permanent  [ documentos/m13.txt | 1 ] 
+
+553  channels  [ documentos/m45.txt | 1 ] 
+
+554  love  [ documentos/m01.txt | 3 ]   [ documentos/m03.txt | 1 ]   [ documentos/m04.txt | 2 ]   [ documentos/m05.txt | 1 ]   [ documentos/m06.txt | 2 ]   [ documentos/m10.txt | 8 ]   [ documentos/m12.txt | 1 ]   [ documentos/m17.txt | 13 ]   [ documentos/m21.txt | 6 ]   [ documentos/m28.txt | 6 ]   [ documentos/m33.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m39.txt | 11 ]   [ documentos/m40.txt | 2 ]   [ documentos/m43.txt | 6 ]   [ documentos/m45.txt | 3 ]   [ documentos/m46.txt | 1 ]   [ documentos/m50.txt | 2 ] 
+
+563  t's  [ documentos/m37.txt | 2 ] 
+
+566  stay  [ documentos/m06.txt | 1 ]   [ documentos/m24.txt | 2 ]   [ documentos/m38.txt | 1 ]   [ documentos/m43.txt | 2 ] 
+
+567  spending  [ documentos/m18.txt | 1 ] 
+
+568  nightmares  [ documentos/m22.txt | 1 ] 
+
+573  maniac  [ documentos/m46.txt | 1 ] 
+
+575  talks  [ documentos/m42.txt | 2 ] 
+
+581  supercavitation  [ documentos/m33.txt | 1 ] 
+
+587  hurricane  [ documentos/m18.txt | 1 ]   [ documentos/m42.txt | 1 ] 
+
+589  run  [ documentos/m06.txt | 1 ]   [ documentos/m11.txt | 2 ]   [ documentos/m22.txt | 1 ]   [ documentos/m38.txt | 28 ]   [ documentos/m44.txt | 1 ]   [ documentos/m49.txt | 3 ] 
+
+598  distant  [ documentos/m01.txt | 1 ]   [ documentos/m43.txt | 2 ] 
+
+609  nowhere  [ documentos/m05.txt | 1 ]   [ documentos/m37.txt | 1 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 6 ] 
+
+611  burnin'  [ documentos/m43.txt | 2 ] 
+
+613  ocean  [ documentos/m47.txt | 1 ] 
+
+619  are  [ documentos/m05.txt | 6 ]   [ documentos/m11.txt | 1 ]   [ documentos/m12.txt | 1 ]   [ documentos/m13.txt | 10 ]   [ documentos/m14.txt | 3 ]   [ documentos/m16.txt | 4 ]   [ documentos/m17.txt | 1 ]   [ documentos/m19.txt | 2 ]   [ documentos/m20.txt | 9 ]   [ documentos/m25.txt | 1 ]   [ documentos/m26.txt | 19 ]   [ documentos/m27.txt | 1 ]   [ documentos/m38.txt | 3 ]   [ documentos/m40.txt | 2 ]   [ documentos/m41.txt | 2 ]   [ documentos/m43.txt | 1 ]   [ documentos/m44.txt | 2 ]   [ documentos/m46.txt | 6 ]   [ documentos/m50.txt | 1 ] 
+
+624  parking  [ documentos/m46.txt | 1 ] 
+
+628  except  [ documentos/m50.txt | 1 ] 
+
+630  parade  [ documentos/m38.txt | 1 ] 
+
+635  waited  [ documentos/m01.txt | 1 ] 
+
+636  he'll  [ documentos/m37.txt | 2 ]   [ documentos/m48.txt | 1 ] 
+
+637  dakota  [ documentos/m03.txt | 1 ] 
+
+641  crown  [ documentos/m07.txt | 1 ]   [ documentos/m35.txt | 1 ] 
+
+644  choke  [ documentos/m35.txt | 4 ] 
+
+653  friends  [ documentos/m17.txt | 2 ]   [ documentos/m28.txt | 1 ] 
+
+655  pistol  [ documentos/m43.txt | 2 ] 
+
+657  modern  [ documentos/m28.txt | 3 ] 
+
+659  gone  [ documentos/m03.txt | 1 ]   [ documentos/m12.txt | 1 ]   [ documentos/m15.txt | 2 ]   [ documentos/m35.txt | 1 ] 
+
+664  prove  [ documentos/m01.txt | 1 ]   [ documentos/m03.txt | 1 ] 
+
+665  put  [ documentos/m01.txt | 1 ]   [ documentos/m22.txt | 2 ] 
+
+668  us  [ documentos/m01.txt | 2 ]   [ documentos/m04.txt | 5 ]   [ documentos/m08.txt | 2 ]   [ documentos/m28.txt | 3 ]   [ documentos/m46.txt | 1 ]   [ documentos/m48.txt | 7 ] 
+
+670  knock  [ documentos/m43.txt | 2 ] 
+
+677  tank  [ documentos/m07.txt | 3 ] 
+
+679  choice  [ documentos/m16.txt | 1 ] 
+
+680  birds  [ documentos/m43.txt | 1 ] 
+
+682  far  [ documentos/m02.txt | 7 ]   [ documentos/m11.txt | 1 ]   [ documentos/m14.txt | 3 ]   [ documentos/m27.txt | 1 ]   [ documentos/m29.txt | 2 ]   [ documentos/m33.txt | 3 ]   [ documentos/m43.txt | 2 ]   [ documentos/m48.txt | 1 ]   [ documentos/m49.txt | 2 ] 
+
+684  super  [ documentos/m05.txt | 1 ]   [ documentos/m28.txt | 1 ] 
+
+687  hand  [ documentos/m07.txt | 3 ]   [ documentos/m13.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+689  civilization  [ documentos/m27.txt | 1 ] 
+
+696  silver  [ documentos/m27.txt | 1 ]   [ documentos/m37.txt | 1 ] 
+
+702  heart  [ documentos/m04.txt | 2 ]   [ documentos/m12.txt | 1 ]   [ documentos/m18.txt | 14 ]   [ documentos/m21.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m28.txt | 2 ]   [ documentos/m34.txt | 1 ]   [ documentos/m39.txt | 1 ]   [ documentos/m46.txt | 1 ]   [ documentos/m49.txt | 8 ]   [ documentos/m50.txt | 1 ] 
+
+705  breathe  [ documentos/m01.txt | 1 ]   [ documentos/m38.txt | 1 ] 
+
+709  pan  [ documentos/m09.txt | 1 ] 
+
+710  left  [ documentos/m11.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m39.txt | 1 ] 
+
+716  disappoint  [ documentos/m10.txt | 1 ] 
+
+721  alone  [ documentos/m18.txt | 1 ]   [ documentos/m45.txt | 1 ]   [ documentos/m47.txt | 4 ] 
+
+726  popstar  [ documentos/m09.txt | 1 ] 
+
+730  what's  [ documentos/m13.txt | 2 ]   [ documentos/m19.txt | 3 ] 
+
+734  base  [ documentos/m05.txt | 1 ] 
+
+736  free  [ documentos/m01.txt | 1 ]   [ documentos/m16.txt | 1 ]   [ documentos/m24.txt | 1 ]   [ documentos/m26.txt | 28 ]   [ documentos/m38.txt | 1 ]   [ documentos/m41.txt | 3 ] 
+
+737  singin'  [ documentos/m27.txt | 1 ] 
+
+738  falling  [ documentos/m23.txt | 2 ]   [ documentos/m46.txt | 3 ] 
+
+739  before  [ documentos/m11.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m38.txt | 2 ]   [ documentos/m42.txt | 1 ]   [ documentos/m45.txt | 1 ] 
+
+748  you'll  [ documentos/m22.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m44.txt | 6 ] 
+
+749  glass  [ documentos/m28.txt | 1 ] 
+
+750  sticks  [ documentos/m43.txt | 1 ] 
+
+763  lick  [ documentos/m15.txt | 1 ] 
+
+768  struck  [ documentos/m37.txt | 1 ]   [ documentos/m44.txt | 1 ] 
+
+778  comfort  [ documentos/m30.txt | 1 ] 
+
+783  hallucination  [ documentos/m33.txt | 1 ] 
+
+796  pours  [ documentos/m04.txt | 2 ]   [ documentos/m17.txt | 1 ] 
+
+797  can't  [ documentos/m05.txt | 1 ]   [ documentos/m07.txt | 2 ]   [ documentos/m09.txt | 2 ]   [ documentos/m10.txt | 1 ]   [ documentos/m12.txt | 1 ]   [ documentos/m17.txt | 3 ]   [ documentos/m20.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m26.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m43.txt | 10 ]   [ documentos/m45.txt | 1 ]   [ documentos/m49.txt | 3 ]   [ documentos/m50.txt | 4 ] 
+
+798  savior  [ documentos/m33.txt | 1 ] 
+
+799  motherfucker  [ documentos/m05.txt | 1 ] 
+
+808  blow  [ documentos/m01.txt | 1 ]   [ documentos/m43.txt | 2 ]   [ documentos/m46.txt | 2 ]   [ documentos/m48.txt | 6 ] 
+
+809  stare  [ documentos/m13.txt | 1 ] 
+
+813  send  [ documentos/m13.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m32.txt | 7 ] 
+
+814  darling  [ documentos/m10.txt | 1 ] 
+
+815  smokes  [ documentos/m41.txt | 1 ] 
+
+819  smile  [ documentos/m09.txt | 2 ]   [ documentos/m15.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m30.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+826  con  [ documentos/m31.txt | 1 ] 
+
+828  hidden  [ documentos/m47.txt | 1 ] 
+
+829  phone  [ documentos/m48.txt | 1 ] 
+
+831  tip  [ documentos/m21.txt | 2 ] 
+
+834  astronaut  [ documentos/m46.txt | 1 ] 
+
+838  move  [ documentos/m01.txt | 1 ]   [ documentos/m28.txt | 1 ] 
+
+841  holes  [ documentos/m02.txt | 4 ]   [ documentos/m50.txt | 1 ] 
+
+850  was  [ documentos/m01.txt | 3 ]   [ documentos/m03.txt | 8 ]   [ documentos/m11.txt | 4 ]   [ documentos/m12.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m23.txt | 4 ]   [ documentos/m28.txt | 1 ]   [ documentos/m29.txt | 4 ]   [ documentos/m34.txt | 2 ]   [ documentos/m35.txt | 1 ]   [ documentos/m41.txt | 3 ]   [ documentos/m47.txt | 4 ]   [ documentos/m48.txt | 3 ] 
+
+853  state  [ documentos/m03.txt | 2 ] 
+
+864  beams  [ documentos/m11.txt | 1 ] 
+
+866  penetration  [ documentos/m43.txt | 1 ] 
+
+872  leaving  [ documentos/m36.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+873  sun  [ documentos/m08.txt | 1 ]   [ documentos/m14.txt | 6 ]   [ documentos/m27.txt | 1 ] 
+
+878  positive  [ documentos/m01.txt | 1 ] 
+
+885  suspect  [ documentos/m01.txt | 1 ] 
+
+889  rent  [ documentos/m34.txt | 1 ] 
+
+891  sells  [ documentos/m27.txt | 1 ] 
+
+892  less  [ documentos/m45.txt | 2 ] 
+
+901  hurts  [ documentos/m03.txt | 1 ] 
+
+910  tortured  [ documentos/m37.txt | 1 ] 
+
+911  yet  [ documentos/m44.txt | 1 ] 
+
+912  mice  [ documentos/m37.txt | 1 ] 
+
+913  ibeza  [ documentos/m37.txt | 1 ] 
+
+914  fragile  [ documentos/m41.txt | 3 ] 
+
+917  century  [ documentos/m01.txt | 1 ] 
+
+923  brain  [ documentos/m25.txt | 1 ] 
+
+933  rats  [ documentos/m38.txt | 1 ] 
+
+934  televised  [ documentos/m11.txt | 1 ] 
+
+936  clowns  [ documentos/m37.txt | 1 ] 
+
+943  mirrored  [ documentos/m13.txt | 1 ] 
+
+944  girlfriend  [ documentos/m24.txt | 1 ]   [ documentos/m33.txt | 1 ] 
+
+949  tightly  [ documentos/m16.txt | 1 ] 
+
+950  life  [ documentos/m01.txt | 2 ]   [ documentos/m02.txt | 3 ]   [ documentos/m08.txt | 2 ]   [ documentos/m10.txt | 4 ]   [ documentos/m11.txt | 2 ]   [ documentos/m12.txt | 2 ]   [ documentos/m20.txt | 1 ]   [ documentos/m37.txt | 2 ]   [ documentos/m38.txt | 12 ]   [ documentos/m43.txt | 4 ]   [ documentos/m45.txt | 3 ] 
+
+951  cry  [ documentos/m18.txt | 1 ]   [ documentos/m22.txt | 2 ] 
+
+957  little  [ documentos/m01.txt | 1 ]   [ documentos/m03.txt | 2 ]   [ documentos/m06.txt | 1 ]   [ documentos/m15.txt | 2 ]   [ documentos/m22.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m31.txt | 2 ]   [ documentos/m41.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m45.txt | 1 ] 
+
+960  happened  [ documentos/m09.txt | 2 ] 
+
+963  right  [ documentos/m04.txt | 10 ]   [ documentos/m07.txt | 1 ]   [ documentos/m09.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m26.txt | 6 ]   [ documentos/m29.txt | 8 ]   [ documentos/m33.txt | 4 ]   [ documentos/m34.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m44.txt | 1 ] 
+
+964  today  [ documentos/m29.txt | 1 ] 
+
+968  feary  [ documentos/m49.txt | 1 ] 
+
+974  onto  [ documentos/m12.txt | 1 ] 
+
+976  meaning  [ documentos/m43.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+983  weed  [ documentos/m46.txt | 1 ] 
+
+991  minds  [ documentos/m48.txt | 3 ] 
+
+993  ya  [ documentos/m20.txt | 14 ]   [ documentos/m24.txt | 7 ]   [ documentos/m31.txt | 14 ] 
+
+994  too  [ documentos/m01.txt | 1 ]   [ documentos/m03.txt | 3 ]   [ documentos/m10.txt | 2 ]   [ documentos/m11.txt | 1 ]   [ documentos/m12.txt | 2 ]   [ documentos/m14.txt | 3 ]   [ documentos/m25.txt | 1 ]   [ documentos/m26.txt | 1 ]   [ documentos/m33.txt | 6 ]   [ documentos/m36.txt | 2 ]   [ documentos/m44.txt | 3 ]   [ documentos/m48.txt | 1 ]   [ documentos/m49.txt | 3 ] 
+
+995  thrash  [ documentos/m47.txt | 1 ] 
+
+997  angel  [ documentos/m09.txt | 1 ] 
+
+998  colors  [ documentos/m34.txt | 1 ] 
+
+1000  work  [ documentos/m17.txt | 1 ]   [ documentos/m29.txt | 2 ]   [ documentos/m32.txt | 8 ] 
+
+1001  amerika's  [ documentos/m37.txt | 1 ] 
+
+1002  we're  [ documentos/m10.txt | 5 ]   [ documentos/m13.txt | 1 ]   [ documentos/m14.txt | 27 ]   [ documentos/m17.txt | 1 ]   [ documentos/m30.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+1007  saints  [ documentos/m23.txt | 2 ] 
+
+1008  lovesick  [ documentos/m01.txt | 2 ] 
+
+1015  point  [ documentos/m11.txt | 2 ]   [ documentos/m32.txt | 8 ] 
+
+1017  rattling  [ documentos/m19.txt | 1 ] 
+
+1018  case  [ documentos/m34.txt | 2 ] 
+
+1033  this  [ documentos/m01.txt | 4 ]   [ documentos/m11.txt | 4 ]   [ documentos/m14.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m17.txt | 4 ]   [ documentos/m22.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m25.txt | 1 ]   [ documentos/m27.txt | 2 ]   [ documentos/m28.txt | 2 ]   [ documentos/m33.txt | 1 ]   [ documentos/m34.txt | 3 ]   [ documentos/m35.txt | 4 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 5 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 1 ]   [ documentos/m46.txt | 1 ]   [ documentos/m50.txt | 6 ] 
+
+1034  accident  [ documentos/m44.txt | 1 ] 
+
+1036  shine  [ documentos/m01.txt | 1 ]   [ documentos/m08.txt | 1 ]   [ documentos/m46.txt | 2 ] 
+
+1038  lullabies  [ documentos/m23.txt | 2 ] 
+
+1047  blue  [ documentos/m11.txt | 1 ]   [ documentos/m30.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m40.txt | 2 ]   [ documentos/m44.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+1050  my  [ documentos/m01.txt | 5 ]   [ documentos/m02.txt | 9 ]   [ documentos/m03.txt | 5 ]   [ documentos/m04.txt | 4 ]   [ documentos/m05.txt | 3 ]   [ documentos/m07.txt | 3 ]   [ documentos/m09.txt | 2 ]   [ documentos/m11.txt | 14 ]   [ documentos/m12.txt | 4 ]   [ documentos/m17.txt | 1 ]   [ documentos/m18.txt | 8 ]   [ documentos/m20.txt | 5 ]   [ documentos/m21.txt | 1 ]   [ documentos/m22.txt | 2 ]   [ documentos/m23.txt | 8 ]   [ documentos/m24.txt | 7 ]   [ documentos/m25.txt | 8 ]   [ documentos/m27.txt | 2 ]   [ documentos/m28.txt | 7 ]   [ documentos/m33.txt | 7 ]   [ documentos/m35.txt | 7 ]   [ documentos/m36.txt | 8 ]   [ documentos/m37.txt | 2 ]   [ documentos/m39.txt | 1 ]   [ documentos/m40.txt | 2 ]   [ documentos/m43.txt | 1 ]   [ documentos/m44.txt | 8 ]   [ documentos/m45.txt | 10 ]   [ documentos/m46.txt | 13 ]   [ documentos/m48.txt | 1 ]   [ documentos/m49.txt | 24 ] 
+
+1055  highway  [ documentos/m42.txt | 1 ] 
+
+1061  head  [ documentos/m10.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m12.txt | 2 ]   [ documentos/m13.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m28.txt | 2 ]   [ documentos/m35.txt | 3 ]   [ documentos/m46.txt | 1 ]   [ documentos/m49.txt | 8 ]   [ documentos/m50.txt | 1 ] 
+
+1069  music's  [ documentos/m26.txt | 15 ] 
+
+1072  wake  [ documentos/m38.txt | 9 ] 
+
+1079  boyfriend  [ documentos/m24.txt | 1 ] 
+
+1091  outmaneuvered  [ documentos/m44.txt | 1 ] 
+
+1092  we've  [ documentos/m01.txt | 1 ]   [ documentos/m14.txt | 3 ]   [ documentos/m15.txt | 3 ]   [ documentos/m21.txt | 1 ] 
+
+1097  tend  [ documentos/m28.txt | 1 ] 
+
+1100  all  [ documentos/m01.txt | 4 ]   [ documentos/m02.txt | 1 ]   [ documentos/m06.txt | 1 ]   [ documentos/m09.txt | 8 ]   [ documentos/m10.txt | 2 ]   [ documentos/m11.txt | 11 ]   [ documentos/m13.txt | 5 ]   [ documentos/m14.txt | 40 ]   [ documentos/m17.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m22.txt | 3 ]   [ documentos/m23.txt | 4 ]   [ documentos/m24.txt | 3 ]   [ documentos/m25.txt | 3 ]   [ documentos/m26.txt | 5 ]   [ documentos/m27.txt | 1 ]   [ documentos/m29.txt | 3 ]   [ documentos/m34.txt | 3 ]   [ documentos/m35.txt | 1 ]   [ documentos/m36.txt | 1 ]   [ documentos/m43.txt | 3 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 8 ]   [ documentos/m46.txt | 2 ]   [ documentos/m47.txt | 21 ]   [ documentos/m48.txt | 6 ]   [ documentos/m50.txt | 7 ] 
+
+1103  honey  [ documentos/m46.txt | 1 ] 
+
+1106  she's  [ documentos/m03.txt | 6 ]   [ documentos/m14.txt | 6 ]   [ documentos/m22.txt | 2 ]   [ documentos/m23.txt | 6 ]   [ documentos/m31.txt | 1 ]   [ documentos/m37.txt | 2 ]   [ documentos/m43.txt | 1 ] 
+
+1109  track  [ documentos/m46.txt | 1 ] 
+
+1110  boogie  [ documentos/m48.txt | 2 ] 
+
+1116  'ya  [ documentos/m03.txt | 1 ] 
+
+1117  talking  [ documentos/m09.txt | 1 ]   [ documentos/m19.txt | 2 ] 
+
+1120  wild  [ documentos/m05.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m20.txt | 1 ] 
+
+1126  and  [ documentos/m01.txt | 6 ]   [ documentos/m02.txt | 9 ]   [ documentos/m03.txt | 4 ]   [ documentos/m04.txt | 5 ]   [ documentos/m05.txt | 6 ]   [ documentos/m06.txt | 7 ]   [ documentos/m07.txt | 1 ]   [ documentos/m08.txt | 3 ]   [ documentos/m09.txt | 8 ]   [ documentos/m10.txt | 3 ]   [ documentos/m11.txt | 7 ]   [ documentos/m12.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m14.txt | 3 ]   [ documentos/m15.txt | 7 ]   [ documentos/m16.txt | 3 ]   [ documentos/m17.txt | 3 ]   [ documentos/m19.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m21.txt | 2 ]   [ documentos/m22.txt | 2 ]   [ documentos/m23.txt | 12 ]   [ documentos/m25.txt | 2 ]   [ documentos/m26.txt | 14 ]   [ documentos/m27.txt | 9 ]   [ documentos/m28.txt | 9 ]   [ documentos/m29.txt | 13 ]   [ documentos/m30.txt | 5 ]   [ documentos/m31.txt | 5 ]   [ documentos/m32.txt | 7 ]   [ documentos/m33.txt | 3 ]   [ documentos/m34.txt | 5 ]   [ documentos/m35.txt | 2 ]   [ documentos/m36.txt | 1 ]   [ documentos/m37.txt | 3 ]   [ documentos/m39.txt | 3 ]   [ documentos/m41.txt | 6 ]   [ documentos/m42.txt | 2 ]   [ documentos/m43.txt | 2 ]   [ documentos/m44.txt | 3 ]   [ documentos/m45.txt | 9 ]   [ documentos/m46.txt | 7 ]   [ documentos/m47.txt | 4 ]   [ documentos/m48.txt | 3 ]   [ documentos/m49.txt | 9 ]   [ documentos/m50.txt | 4 ] 
+
+1127  instead  [ documentos/m09.txt | 1 ]   [ documentos/m16.txt | 4 ]   [ documentos/m41.txt | 1 ] 
+
+1128  each  [ documentos/m10.txt | 6 ]   [ documentos/m49.txt | 2 ] 
+
+1129  planet  [ documentos/m14.txt | 1 ] 
+
+1135  ace  [ documentos/m01.txt | 1 ] 
+
+1136  trial  [ documentos/m15.txt | 1 ] 
+
+1140  dangerous  [ documentos/m22.txt | 1 ] 
+
+1143  broads  [ documentos/m37.txt | 1 ] 
+
+1144  rib  [ documentos/m31.txt | 1 ] 
+
+1158  theory  [ documentos/m01.txt | 1 ] 
+
+1165  message  [ documentos/m43.txt | 2 ] 
+
+1168  comin  [ documentos/m03.txt | 1 ] 
+
+1173  concealed  [ documentos/m16.txt | 1 ]   [ documentos/m45.txt | 3 ] 
+
+1174  ring  [ documentos/m07.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m45.txt | 1 ] 
+
+1175  hiding  [ documentos/m08.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+1176  tells  [ documentos/m24.txt | 2 ] 
+
+1177  race  [ documentos/m36.txt | 2 ] 
+
+1178  reasons  [ documentos/m43.txt | 1 ] 
+
+1185  jungle  [ documentos/m43.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+1186  clean  [ documentos/m22.txt | 1 ] 
+
+1192  enter  [ documentos/m10.txt | 1 ] 
+
+1193  cock-blocking  [ documentos/m15.txt | 1 ] 
+
+1196  others  [ documentos/m03.txt | 1 ]   [ documentos/m13.txt | 8 ] 
+
+1197  apart  [ documentos/m22.txt | 1 ] 
+
+1198  nice  [ documentos/m29.txt | 2 ] 
+
+1201  desguise  [ documentos/m18.txt | 1 ] 
+
+1206  pretend  [ documentos/m13.txt | 4 ] 
+
+1209  were  [ documentos/m09.txt | 1 ]   [ documentos/m12.txt | 2 ]   [ documentos/m26.txt | 2 ]   [ documentos/m30.txt | 6 ]   [ documentos/m41.txt | 1 ]   [ documentos/m42.txt | 6 ]   [ documentos/m45.txt | 1 ]   [ documentos/m47.txt | 2 ]   [ documentos/m48.txt | 1 ] 
+
+1213  pray  [ documentos/m17.txt | 2 ] 
+
+1215  feels  [ documentos/m19.txt | 1 ] 
+
+1216  i  [ documentos/m01.txt | 20 ]   [ documentos/m02.txt | 8 ]   [ documentos/m03.txt | 3 ]   [ documentos/m04.txt | 8 ]   [ documentos/m05.txt | 6 ]   [ documentos/m06.txt | 8 ]   [ documentos/m07.txt | 30 ]   [ documentos/m08.txt | 6 ]   [ documentos/m09.txt | 6 ]   [ documentos/m10.txt | 4 ]   [ documentos/m11.txt | 10 ]   [ documentos/m12.txt | 9 ]   [ documentos/m13.txt | 28 ]   [ documentos/m15.txt | 6 ]   [ documentos/m18.txt | 3 ]   [ documentos/m19.txt | 2 ]   [ documentos/m20.txt | 7 ]   [ documentos/m21.txt | 7 ]   [ documentos/m22.txt | 3 ]   [ documentos/m23.txt | 10 ]   [ documentos/m24.txt | 12 ]   [ documentos/m25.txt | 14 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 3 ]   [ documentos/m29.txt | 2 ]   [ documentos/m30.txt | 8 ]   [ documentos/m31.txt | 18 ]   [ documentos/m34.txt | 2 ]   [ documentos/m35.txt | 4 ]   [ documentos/m37.txt | 2 ]   [ documentos/m38.txt | 2 ]   [ documentos/m39.txt | 14 ]   [ documentos/m40.txt | 4 ]   [ documentos/m42.txt | 3 ]   [ documentos/m43.txt | 17 ]   [ documentos/m45.txt | 31 ]   [ documentos/m46.txt | 3 ]   [ documentos/m47.txt | 4 ]   [ documentos/m48.txt | 4 ]   [ documentos/m49.txt | 7 ]   [ documentos/m50.txt | 10 ] 
+
+1217  house  [ documentos/m01.txt | 1 ] 
+
+1218  shadows  [ documentos/m20.txt | 3 ] 
+
+1226  fame  [ documentos/m07.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m37.txt | 1 ] 
+
+1228  direction  [ documentos/m07.txt | 1 ] 
+
+1232  even  [ documentos/m29.txt | 3 ]   [ documentos/m34.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+1241  heal  [ documentos/m12.txt | 1 ] 
+
+1245  above  [ documentos/m35.txt | 1 ]   [ documentos/m39.txt | 1 ] 
+
+1253  weep  [ documentos/m33.txt | 1 ] 
+
+1257  insanity  [ documentos/m17.txt | 1 ] 
+
+1261  cozy  [ documentos/m22.txt | 1 ] 
+
+1265  they'll  [ documentos/m22.txt | 3 ] 
+
+1272  privately  [ documentos/m45.txt | 3 ] 
+
+1274  ends  [ documentos/m01.txt | 1 ]   [ documentos/m14.txt | 1 ] 
+
+1275  find  [ documentos/m01.txt | 1 ]   [ documentos/m08.txt | 2 ]   [ documentos/m20.txt | 14 ]   [ documentos/m22.txt | 1 ]   [ documentos/m32.txt | 5 ]   [ documentos/m33.txt | 2 ]   [ documentos/m46.txt | 1 ] 
+
+1278  their  [ documentos/m12.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m29.txt | 5 ]   [ documentos/m37.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m47.txt | 3 ] 
+
+1279  crazy  [ documentos/m21.txt | 1 ] 
+
+1281  cover  [ documentos/m45.txt | 6 ] 
+
+1282  teachers  [ documentos/m47.txt | 5 ] 
+
+1285  ahh  [ documentos/m10.txt | 6 ] 
+
+1286  snap  [ documentos/m32.txt | 8 ] 
+
+1293  babe  [ documentos/m22.txt | 6 ] 
+
+1294  lord  [ documentos/m29.txt | 1 ] 
+
+1300  will  [ documentos/m01.txt | 2 ]   [ documentos/m02.txt | 1 ]   [ documentos/m05.txt | 4 ]   [ documentos/m08.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m13.txt | 5 ]   [ documentos/m18.txt | 14 ]   [ documentos/m22.txt | 4 ]   [ documentos/m33.txt | 3 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 5 ] 
+
+1303  trust  [ documentos/m01.txt | 1 ]   [ documentos/m12.txt | 3 ]   [ documentos/m22.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+1308  skeletons  [ documentos/m13.txt | 1 ] 
+
+1309  once  [ documentos/m21.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m45.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+1310  closer  [ documentos/m29.txt | 1 ] 
+
+1317  episodes  [ documentos/m01.txt | 1 ] 
+
+1322  ever  [ documentos/m13.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m37.txt | 2 ]   [ documentos/m42.txt | 2 ]   [ documentos/m43.txt | 4 ] 
+
+1326  fax  [ documentos/m32.txt | 7 ] 
+
+1327  split  [ documentos/m01.txt | 1 ] 
+
+1330  westend  [ documentos/m43.txt | 2 ] 
+
+1331  clue  [ documentos/m44.txt | 1 ] 
+
+1333  burn  [ documentos/m08.txt | 1 ]   [ documentos/m32.txt | 7 ] 
+
+1334  running  [ documentos/m29.txt | 4 ]   [ documentos/m30.txt | 2 ]   [ documentos/m45.txt | 3 ] 
+
+1337  pouring  [ documentos/m47.txt | 1 ] 
+
+1344  pretender  [ documentos/m13.txt | 8 ] 
+
+1354  seems  [ documentos/m01.txt | 1 ]   [ documentos/m44.txt | 2 ] 
+
+1355  ozone  [ documentos/m43.txt | 1 ] 
+
+1357  alabama  [ documentos/m03.txt | 1 ] 
+
+1365  within  [ documentos/m47.txt | 1 ] 
+
+1366  slice  [ documentos/m01.txt | 1 ] 
+
+1371  addressed  [ documentos/m11.txt | 1 ] 
+
+1372  gentlemen  [ documentos/m42.txt | 2 ] 
+
+1374  dancing  [ documentos/m26.txt | 5 ]   [ documentos/m49.txt | 1 ] 
+
+1375  very  [ documentos/m27.txt | 4 ]   [ documentos/m28.txt | 1 ] 
+
+1376  hear  [ documentos/m01.txt | 1 ]   [ documentos/m05.txt | 1 ]   [ documentos/m11.txt | 2 ]   [ documentos/m13.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m45.txt | 1 ]   [ documentos/m49.txt | 2 ] 
+
+1379  bound  [ documentos/m28.txt | 1 ] 
+
+1383  ain't  [ documentos/m01.txt | 1 ]   [ documentos/m11.txt | 5 ]   [ documentos/m24.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m44.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+1385  cross  [ documentos/m11.txt | 1 ]   [ documentos/m32.txt | 8 ] 
+
+1387  hey  [ documentos/m15.txt | 5 ]   [ documentos/m24.txt | 1 ]   [ documentos/m26.txt | 1 ]   [ documentos/m45.txt | 12 ]   [ documentos/m47.txt | 2 ]   [ documentos/m48.txt | 1 ] 
+
+1389  stepped  [ documentos/m09.txt | 2 ] 
+
+1408  reservation  [ documentos/m43.txt | 2 ] 
+
+1409  yesterday  [ documentos/m46.txt | 1 ] 
+
+1410  whatever  [ documentos/m33.txt | 1 ] 
+
+1418  open  [ documentos/m11.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m23.txt | 2 ] 
+
+1419  worthwhile  [ documentos/m48.txt | 3 ] 
+
+1421  heat  [ documentos/m43.txt | 1 ] 
+
+1424  upper  [ documentos/m01.txt | 1 ] 
+
+1425  premonitions  [ documentos/m35.txt | 1 ] 
+
+1426  grew  [ documentos/m47.txt | 1 ] 
+
+1427  love's  [ documentos/m17.txt | 1 ] 
+
+1428  rough  [ documentos/m27.txt | 1 ] 
+
+1429  walks  [ documentos/m37.txt | 1 ] 
+
+1432  selling  [ documentos/m37.txt | 2 ] 
+
+1434  forgiveness  [ documentos/m10.txt | 1 ]   [ documentos/m42.txt | 2 ] 
+
+1438  suicide  [ documentos/m41.txt | 1 ] 
+
+1441  authorization  [ documentos/m05.txt | 1 ] 
+
+1442  tongue  [ documentos/m21.txt | 3 ] 
+
+1449  million  [ documentos/m01.txt | 1 ]   [ documentos/m37.txt | 1 ] 
+
+1455  rule  [ documentos/m37.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+1458  sing  [ documentos/m13.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m45.txt | 1 ] 
+
+1472  past  [ documentos/m01.txt | 1 ]   [ documentos/m10.txt | 1 ] 
+
+1481  moon  [ documentos/m01.txt | 1 ] 
+
+1482  every  [ documentos/m01.txt | 1 ]   [ documentos/m24.txt | 4 ]   [ documentos/m25.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m47.txt | 1 ]   [ documentos/m49.txt | 3 ] 
+
+1483  show  [ documentos/m03.txt | 4 ]   [ documentos/m05.txt | 2 ]   [ documentos/m15.txt | 4 ]   [ documentos/m29.txt | 3 ]   [ documentos/m31.txt | 5 ]   [ documentos/m33.txt | 1 ]   [ documentos/m37.txt | 4 ]   [ documentos/m46.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+1484  copper  [ documentos/m03.txt | 1 ] 
+
+1489  deck  [ documentos/m01.txt | 1 ] 
+
+1493  strength  [ documentos/m44.txt | 1 ] 
+
+1494  way  [ documentos/m01.txt | 1 ]   [ documentos/m03.txt | 2 ]   [ documentos/m06.txt | 1 ]   [ documentos/m08.txt | 1 ]   [ documentos/m09.txt | 2 ]   [ documentos/m17.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m24.txt | 16 ]   [ documentos/m25.txt | 1 ]   [ documentos/m29.txt | 2 ]   [ documentos/m31.txt | 8 ]   [ documentos/m47.txt | 1 ] 
+
+1495  clever  [ documentos/m29.txt | 2 ] 
+
+1497  mop  [ documentos/m43.txt | 1 ] 
+
+1500  j  [ documentos/m43.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+1502  mark  [ documentos/m41.txt | 1 ] 
+
+1506  no-nothing  [ documentos/m07.txt | 1 ] 
+
+1508  revelations  [ documentos/m02.txt | 4 ] 
+
+1510  game  [ documentos/m07.txt | 3 ]   [ documentos/m09.txt | 1 ]   [ documentos/m44.txt | 2 ] 
+
+1513  souls  [ documentos/m01.txt | 2 ]   [ documentos/m02.txt | 1 ]   [ documentos/m30.txt | 1 ] 
+
+1515  maker  [ documentos/m11.txt | 5 ] 
+
+1522  monolithic  [ documentos/m16.txt | 1 ] 
+
+1526  job  [ documentos/m24.txt | 7 ]   [ documentos/m31.txt | 1 ]   [ documentos/m41.txt | 1 ] 
+
+1531  pure  [ documentos/m01.txt | 1 ] 
+
+1532  tight  [ documentos/m01.txt | 1 ]   [ documentos/m08.txt | 1 ] 
+
+1539  drifting  [ documentos/m29.txt | 1 ] 
+
+1540  program  [ documentos/m05.txt | 1 ] 
+
+1542  twisted  [ documentos/m20.txt | 1 ] 
+
+1547  balcony  [ documentos/m01.txt | 1 ] 
+
+1549  blinding  [ documentos/m06.txt | 1 ] 
+
+1550  sense  [ documentos/m13.txt | 1 ] 
+
+1551  breaking  [ documentos/m19.txt | 1 ] 
+
+1556  glide  [ documentos/m08.txt | 1 ] 
+
+1566  public  [ documentos/m11.txt | 1 ] 
+
+1569  escape  [ documentos/m20.txt | 2 ] 
+
+1570  secret  [ documentos/m25.txt | 1 ] 
+
+1575  revenue  [ documentos/m01.txt | 1 ] 
+
+1576  some  [ documentos/m01.txt | 1 ]   [ documentos/m14.txt | 6 ]   [ documentos/m17.txt | 2 ]   [ documentos/m35.txt | 10 ]   [ documentos/m38.txt | 2 ]   [ documentos/m42.txt | 2 ]   [ documentos/m43.txt | 2 ]   [ documentos/m48.txt | 2 ] 
+
+1577  pale  [ documentos/m19.txt | 1 ] 
+
+1578  perspective  [ documentos/m28.txt | 3 ] 
+
+1579  zoom  [ documentos/m32.txt | 8 ] 
+
+1580  mated  [ documentos/m50.txt | 1 ] 
+
+1585  thought  [ documentos/m01.txt | 2 ]   [ documentos/m34.txt | 1 ]   [ documentos/m35.txt | 5 ]   [ documentos/m47.txt | 2 ]   [ documentos/m50.txt | 1 ] 
+
+1586  ease  [ documentos/m01.txt | 1 ] 
+
+1587  quite  [ documentos/m44.txt | 1 ] 
+
+1594  ago  [ documentos/m44.txt | 1 ] 
+
+1596  neighborhood  [ documentos/m41.txt | 1 ] 
+
+1613  always  [ documentos/m07.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m22.txt | 2 ]   [ documentos/m24.txt | 1 ]   [ documentos/m44.txt | 2 ] 
+
+1614  rope  [ documentos/m35.txt | 10 ] 
+
+1615  system  [ documentos/m16.txt | 1 ] 
+
+1616  loud  [ documentos/m09.txt | 1 ]   [ documentos/m15.txt | 2 ]   [ documentos/m36.txt | 2 ]   [ documentos/m48.txt | 1 ] 
+
+1617  turn-around  [ documentos/m15.txt | 1 ] 
+
+1618  could  [ documentos/m01.txt | 3 ]   [ documentos/m05.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m37.txt | 1 ]   [ documentos/m40.txt | 2 ]   [ documentos/m47.txt | 1 ] 
+
+1619  call  [ documentos/m32.txt | 5 ]   [ documentos/m49.txt | 2 ] 
+
+1620  press  [ documentos/m32.txt | 8 ] 
+
+1623  brick  [ documentos/m47.txt | 5 ] 
+
+1625  edge  [ documentos/m17.txt | 1 ]   [ documentos/m27.txt | 1 ] 
+
+1626  heavy  [ documentos/m28.txt | 1 ]   [ documentos/m31.txt | 5 ] 
+
+1635  under  [ documentos/m12.txt | 1 ]   [ documentos/m17.txt | 4 ]   [ documentos/m20.txt | 1 ]   [ documentos/m22.txt | 1 ] 
+
+1649  best  [ documentos/m03.txt | 1 ]   [ documentos/m12.txt | 40 ]   [ documentos/m20.txt | 1 ]   [ documentos/m36.txt | 2 ]   [ documentos/m37.txt | 2 ]   [ documentos/m43.txt | 2 ] 
+
+1650  chances  [ documentos/m41.txt | 3 ] 
+
+1651  lennon's  [ documentos/m37.txt | 1 ] 
+
+1658  dictionary  [ documentos/m43.txt | 1 ] 
+
+1662  true  [ documentos/m03.txt | 2 ]   [ documentos/m22.txt | 1 ]   [ documentos/m34.txt | 1 ] 
+
+1666  'round  [ documentos/m09.txt | 1 ] 
+
+1673  golden  [ documentos/m33.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+1678  no  [ documentos/m01.txt | 1 ]   [ documentos/m04.txt | 5 ]   [ documentos/m05.txt | 1 ]   [ documentos/m07.txt | 2 ]   [ documentos/m08.txt | 2 ]   [ documentos/m12.txt | 2 ]   [ documentos/m14.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m17.txt | 1 ]   [ documentos/m24.txt | 15 ]   [ documentos/m26.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m29.txt | 3 ]   [ documentos/m33.txt | 3 ]   [ documentos/m34.txt | 3 ]   [ documentos/m35.txt | 1 ]   [ documentos/m37.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m44.txt | 1 ]   [ documentos/m46.txt | 1 ]   [ documentos/m47.txt | 9 ]   [ documentos/m48.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+1682  mars  [ documentos/m37.txt | 1 ] 
+
+1683  then  [ documentos/m10.txt | 2 ]   [ documentos/m11.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m31.txt | 7 ]   [ documentos/m44.txt | 1 ]   [ documentos/m46.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+1685  marvel  [ documentos/m09.txt | 1 ] 
+
+1691  wooooaaah  [ documentos/m45.txt | 2 ] 
+
+1693  headed  [ documentos/m07.txt | 1 ] 
+
+1700  president  [ documentos/m22.txt | 1 ] 
+
+1704  view  [ documentos/m32.txt | 5 ]   [ documentos/m37.txt | 1 ] 
+
+1705  chase  [ documentos/m28.txt | 1 ]   [ documentos/m38.txt | 1 ] 
+
+1709  loose  [ documentos/m12.txt | 1 ]   [ documentos/m35.txt | 8 ] 
+
+1710  traffic  [ documentos/m34.txt | 1 ] 
+
+1711  move's  [ documentos/m44.txt | 1 ] 
+
+1712  tv  [ documentos/m48.txt | 1 ] 
+
+1713  stars  [ documentos/m06.txt | 1 ]   [ documentos/m14.txt | 3 ]   [ documentos/m20.txt | 1 ] 
+
+1714  breaks  [ documentos/m21.txt | 1 ] 
+
+1717  defense  [ documentos/m13.txt | 1 ] 
+
+1720  sunshine  [ documentos/m49.txt | 1 ] 
+
+1738  me  [ documentos/m01.txt | 11 ]   [ documentos/m02.txt | 2 ]   [ documentos/m03.txt | 5 ]   [ documentos/m04.txt | 4 ]   [ documentos/m05.txt | 9 ]   [ documentos/m07.txt | 5 ]   [ documentos/m08.txt | 1 ]   [ documentos/m09.txt | 1 ]   [ documentos/m10.txt | 4 ]   [ documentos/m11.txt | 4 ]   [ documentos/m12.txt | 2 ]   [ documentos/m13.txt | 1 ]   [ documentos/m15.txt | 12 ]   [ documentos/m17.txt | 5 ]   [ documentos/m18.txt | 3 ]   [ documentos/m20.txt | 15 ]   [ documentos/m21.txt | 1 ]   [ documentos/m22.txt | 4 ]   [ documentos/m23.txt | 6 ]   [ documentos/m24.txt | 7 ]   [ documentos/m26.txt | 15 ]   [ documentos/m27.txt | 2 ]   [ documentos/m29.txt | 3 ]   [ documentos/m31.txt | 3 ]   [ documentos/m33.txt | 2 ]   [ documentos/m34.txt | 6 ]   [ documentos/m35.txt | 3 ]   [ documentos/m38.txt | 12 ]   [ documentos/m39.txt | 11 ]   [ documentos/m43.txt | 3 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 2 ]   [ documentos/m46.txt | 1 ]   [ documentos/m47.txt | 4 ]   [ documentos/m48.txt | 3 ]   [ documentos/m50.txt | 6 ] 
+
+1743  baby  [ documentos/m03.txt | 3 ]   [ documentos/m07.txt | 7 ]   [ documentos/m22.txt | 7 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m40.txt | 2 ] 
+
+1747  ourselves  [ documentos/m17.txt | 3 ] 
+
+1754  neighborhood's  [ documentos/m41.txt | 1 ] 
+
+1755  cavemen  [ documentos/m37.txt | 2 ] 
+
+1756  feeling  [ documentos/m14.txt | 1 ]   [ documentos/m26.txt | 16 ]   [ documentos/m28.txt | 1 ]   [ documentos/m43.txt | 2 ]   [ documentos/m50.txt | 1 ] 
+
+1757  im  [ documentos/m45.txt | 1 ] 
+
+1777  grown  [ documentos/m37.txt | 1 ]   [ documentos/m41.txt | 1 ] 
+
+1778  off  [ documentos/m01.txt | 1 ]   [ documentos/m06.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m29.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+1780  full  [ documentos/m01.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+1783  safe  [ documentos/m01.txt | 1 ] 
+
+1787  expensive  [ documentos/m24.txt | 1 ] 
+
+1792  cow  [ documentos/m37.txt | 1 ] 
+
+1806  enough  [ documentos/m01.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m24.txt | 2 ] 
+
+1816  freakiest  [ documentos/m37.txt | 2 ] 
+
+1818  momma's  [ documentos/m22.txt | 8 ] 
+
+1823  land  [ documentos/m07.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+1825  woods  [ documentos/m15.txt | 1 ] 
+
+1830  layin'  [ documentos/m48.txt | 1 ] 
+
+1833  trains  [ documentos/m43.txt | 2 ] 
+
+1838  type  [ documentos/m11.txt | 1 ] 
+
+1841  songs  [ documentos/m27.txt | 1 ]   [ documentos/m31.txt | 3 ] 
+
+1846  steering  [ documentos/m43.txt | 1 ] 
+
+1853  load  [ documentos/m20.txt | 2 ]   [ documentos/m32.txt | 8 ] 
+
+1856  praise  [ documentos/m27.txt | 1 ] 
+
+1865  book  [ documentos/m01.txt | 1 ] 
+
+1866  know  [ documentos/m01.txt | 1 ]   [ documentos/m02.txt | 1 ]   [ documentos/m07.txt | 3 ]   [ documentos/m11.txt | 4 ]   [ documentos/m13.txt | 4 ]   [ documentos/m15.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m20.txt | 2 ]   [ documentos/m25.txt | 2 ]   [ documentos/m26.txt | 2 ]   [ documentos/m28.txt | 2 ]   [ documentos/m31.txt | 3 ]   [ documentos/m33.txt | 1 ]   [ documentos/m34.txt | 3 ]   [ documentos/m36.txt | 1 ]   [ documentos/m37.txt | 2 ]   [ documentos/m42.txt | 2 ]   [ documentos/m43.txt | 3 ]   [ documentos/m44.txt | 3 ]   [ documentos/m45.txt | 3 ]   [ documentos/m46.txt | 7 ]   [ documentos/m48.txt | 1 ]   [ documentos/m50.txt | 5 ] 
+
+1873  motorway  [ documentos/m06.txt | 1 ] 
+
+1887  plan  [ documentos/m07.txt | 5 ] 
+
+1888  elation  [ documentos/m27.txt | 1 ] 
+
+1893  dreamin'  [ documentos/m28.txt | 1 ] 
+
+1899  pick  [ documentos/m31.txt | 1 ]   [ documentos/m46.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+1900  death  [ documentos/m03.txt | 1 ]   [ documentos/m12.txt | 1 ] 
+
+1903  weak  [ documentos/m12.txt | 1 ] 
+
+1904  big  [ documentos/m04.txt | 2 ]   [ documentos/m41.txt | 1 ]   [ documentos/m43.txt | 2 ] 
+
+1905  good-bye  [ documentos/m08.txt | 4 ] 
+
+1906  open-hearted  [ documentos/m09.txt | 1 ] 
+
+1907  standing  [ documentos/m31.txt | 6 ] 
+
+1908  touch  [ documentos/m32.txt | 7 ]   [ documentos/m34.txt | 2 ]   [ documentos/m46.txt | 1 ] 
+
+1912  comes  [ documentos/m07.txt | 1 ]   [ documentos/m28.txt | 3 ]   [ documentos/m42.txt | 2 ] 
+
+1913  family  [ documentos/m17.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+1914  swimmin'  [ documentos/m30.txt | 1 ] 
+
+1915  wonder  [ documentos/m37.txt | 2 ]   [ documentos/m43.txt | 4 ]   [ documentos/m45.txt | 6 ] 
+
+1918  reach  [ documentos/m34.txt | 1 ] 
+
+1928  creation  [ documentos/m27.txt | 1 ] 
+
+1929  erase  [ documentos/m32.txt | 8 ] 
+
+1934  snowcone  [ documentos/m43.txt | 1 ] 
+
+1935  sea  [ documentos/m11.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m34.txt | 1 ]   [ documentos/m45.txt | 2 ] 
+
+1936  rose  [ documentos/m09.txt | 2 ] 
+
+1939  knuckles  [ documentos/m19.txt | 1 ] 
+
+1942  score  [ documentos/m07.txt | 2 ] 
+
+1944  flow  [ documentos/m01.txt | 1 ] 
+
+1945  express  [ documentos/m01.txt | 1 ] 
+
+1946  town  [ documentos/m18.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m34.txt | 2 ]   [ documentos/m47.txt | 1 ] 
+
+1948  ahead  [ documentos/m44.txt | 1 ] 
+
+1950  maggie  [ documentos/m15.txt | 4 ] 
+
+1951  having  [ documentos/m23.txt | 2 ] 
+
+1960  california  [ documentos/m03.txt | 9 ]   [ documentos/m28.txt | 1 ]   [ documentos/m33.txt | 1 ] 
+
+1961  repeat  [ documentos/m33.txt | 1 ] 
+
+1962  gets  [ documentos/m28.txt | 3 ]   [ documentos/m50.txt | 1 ] 
+
+1963  write  [ documentos/m01.txt | 1 ]   [ documentos/m32.txt | 8 ]   [ documentos/m43.txt | 2 ] 
+
+1968  delicious  [ documentos/m15.txt | 1 ] 
+
+1973  red  [ documentos/m25.txt | 2 ] 
+
+1974  use  [ documentos/m05.txt | 1 ]   [ documentos/m12.txt | 1 ]   [ documentos/m32.txt | 8 ]   [ documentos/m36.txt | 2 ]   [ documentos/m43.txt | 2 ]   [ documentos/m48.txt | 3 ] 
+
+1977  asking  [ documentos/m50.txt | 1 ] 
+
+1983  follows  [ documentos/m06.txt | 1 ] 
+
+1984  definitely  [ documentos/m01.txt | 1 ] 
+
+1985  easier  [ documentos/m10.txt | 1 ] 
+
+1986  hide  [ documentos/m49.txt | 3 ] 
+
+1988  guerrillas  [ documentos/m16.txt | 1 ] 
+
+1993  alibis  [ documentos/m23.txt | 2 ]   [ documentos/m29.txt | 1 ] 
+
+1994  buy  [ documentos/m27.txt | 1 ]   [ documentos/m32.txt | 9 ] 
+
+2002  doesn't  [ documentos/m34.txt | 1 ]   [ documentos/m42.txt | 4 ] 
+
+2012  lied  [ documentos/m40.txt | 2 ] 
+
+2015  openly  [ documentos/m28.txt | 1 ] 
+
+2020  sex  [ documentos/m19.txt | 5 ] 
+
+2024  gonna  [ documentos/m03.txt | 3 ]   [ documentos/m05.txt | 9 ]   [ documentos/m11.txt | 6 ]   [ documentos/m22.txt | 8 ]   [ documentos/m26.txt | 22 ]   [ documentos/m29.txt | 3 ]   [ documentos/m38.txt | 2 ]   [ documentos/m41.txt | 1 ]   [ documentos/m43.txt | 2 ]   [ documentos/m45.txt | 1 ]   [ documentos/m49.txt | 3 ] 
+
+2032  meant  [ documentos/m43.txt | 2 ] 
+
+2034  smell  [ documentos/m28.txt | 1 ] 
+
+2036  easy  [ documentos/m24.txt | 1 ]   [ documentos/m42.txt | 2 ] 
+
+2039  place  [ documentos/m09.txt | 2 ]   [ documentos/m25.txt | 1 ]   [ documentos/m33.txt | 2 ]   [ documentos/m34.txt | 3 ]   [ documentos/m42.txt | 1 ]   [ documentos/m46.txt | 1 ]   [ documentos/m50.txt | 3 ] 
+
+2041  waterfall  [ documentos/m04.txt | 2 ] 
+
+2043  drugs  [ documentos/m47.txt | 1 ] 
+
+2044  lighting  [ documentos/m08.txt | 1 ] 
+
+2051  another  [ documentos/m03.txt | 2 ]   [ documentos/m12.txt | 2 ]   [ documentos/m13.txt | 9 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m33.txt | 18 ]   [ documentos/m38.txt | 9 ]   [ documentos/m45.txt | 6 ]   [ documentos/m47.txt | 4 ] 
+
+2052  bore  [ documentos/m37.txt | 2 ] 
+
+2054  abused  [ documentos/m12.txt | 2 ] 
+
+2056  sign  [ documentos/m25.txt | 1 ] 
+
+2057  spheres  [ documentos/m27.txt | 1 ] 
+
+2068  l  [ documentos/m01.txt | 4 ] 
+
+2070  stands  [ documentos/m09.txt | 3 ] 
+
+2078  throne  [ documentos/m18.txt | 1 ] 
+
+2080  card  [ documentos/m31.txt | 1 ] 
+
+2082  queen  [ documentos/m01.txt | 1 ] 
+
+2085  dropped  [ documentos/m41.txt | 1 ] 
+
+2089  o-kay  [ documentos/m17.txt | 2 ] 
+
+2090  choking  [ documentos/m23.txt | 2 ] 
+
+2106  teeth  [ documentos/m03.txt | 4 ] 
+
+2109  bleeding  [ documentos/m39.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+2121  healthy  [ documentos/m22.txt | 1 ] 
+
+2124  long  [ documentos/m01.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m40.txt | 2 ] 
+
+2125  whoa  [ documentos/m25.txt | 1 ] 
+
+2127  while  [ documentos/m19.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m36.txt | 1 ]   [ documentos/m42.txt | 1 ] 
+
+2131  had  [ documentos/m01.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m12.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m29.txt | 4 ]   [ documentos/m34.txt | 1 ]   [ documentos/m41.txt | 2 ]   [ documentos/m48.txt | 1 ] 
+
+2137  grace  [ documentos/m01.txt | 1 ]   [ documentos/m34.txt | 1 ] 
+
+2139  as  [ documentos/m13.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m25.txt | 2 ]   [ documentos/m29.txt | 1 ]   [ documentos/m36.txt | 3 ]   [ documentos/m37.txt | 2 ]   [ documentos/m40.txt | 6 ]   [ documentos/m44.txt | 2 ]   [ documentos/m45.txt | 6 ]   [ documentos/m46.txt | 1 ]   [ documentos/m50.txt | 2 ] 
+
+2141  bless  [ documentos/m01.txt | 1 ] 
+
+2143  method  [ documentos/m01.txt | 1 ] 
+
+2145  answer  [ documentos/m09.txt | 2 ] 
+
+2147  words  [ documentos/m01.txt | 2 ] 
+
+2148  tiny  [ documentos/m28.txt | 1 ] 
+
+2149  two  [ documentos/m17.txt | 1 ]   [ documentos/m30.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m44.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+2150  did  [ documentos/m10.txt | 2 ]   [ documentos/m15.txt | 1 ]   [ documentos/m20.txt | 14 ]   [ documentos/m22.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m29.txt | 2 ]   [ documentos/m30.txt | 2 ]   [ documentos/m35.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m47.txt | 2 ]   [ documentos/m48.txt | 1 ] 
+
+2151  sunken  [ documentos/m37.txt | 1 ] 
+
+2152  nails  [ documentos/m50.txt | 1 ] 
+
+2153  preparations  [ documentos/m16.txt | 1 ] 
+
+2156  carefully  [ documentos/m47.txt | 1 ] 
+
+2158  perfect  [ documentos/m38.txt | 8 ]   [ documentos/m45.txt | 6 ] 
+
+2162  nile  [ documentos/m11.txt | 2 ] 
+
+2173  nation's  [ documentos/m38.txt | 1 ] 
+
+2174  committed  [ documentos/m41.txt | 1 ] 
+
+2176  strike  [ documentos/m31.txt | 1 ] 
+
+2185  scroll  [ documentos/m32.txt | 8 ] 
+
+2192  climbing  [ documentos/m08.txt | 1 ]   [ documentos/m35.txt | 1 ] 
+
+2193  'til  [ documentos/m14.txt | 6 ] 
+
+2195  these  [ documentos/m01.txt | 1 ]   [ documentos/m06.txt | 8 ]   [ documentos/m17.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m35.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+2197  lead  [ documentos/m01.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m30.txt | 1 ] 
+
+2198  later  [ documentos/m03.txt | 1 ] 
+
+2205  sat  [ documentos/m17.txt | 1 ] 
+
+2208  lights  [ documentos/m48.txt | 1 ]   [ documentos/m50.txt | 2 ] 
+
+2212  history  [ documentos/m01.txt | 1 ] 
+
+2213  disappear  [ documentos/m28.txt | 1 ] 
+
+2215  mic  [ documentos/m31.txt | 1 ] 
+
+2217  travel  [ documentos/m01.txt | 1 ] 
+
+2225  sneaking  [ documentos/m49.txt | 1 ] 
+
+2228  glow  [ documentos/m31.txt | 5 ] 
+
+2229  art  [ documentos/m29.txt | 1 ]   [ documentos/m44.txt | 2 ] 
+
+2242  leaf  [ documentos/m34.txt | 1 ] 
+
+2243  cream  [ documentos/m46.txt | 1 ] 
+
+2245  plain  [ documentos/m39.txt | 1 ] 
+
+2248  made  [ documentos/m03.txt | 1 ]   [ documentos/m27.txt | 1 ] 
+
+2249  cheating  [ documentos/m35.txt | 1 ] 
+
+2250  radio  [ documentos/m18.txt | 7 ]   [ documentos/m48.txt | 1 ] 
+
+2251  chick  [ documentos/m24.txt | 1 ] 
+
+2252  called  [ documentos/m50.txt | 3 ] 
+
+2261  days  [ documentos/m17.txt | 1 ] 
+
+2262  end  [ documentos/m02.txt | 1 ]   [ documentos/m23.txt | 2 ] 
+
+2265  stronger  [ documentos/m28.txt | 5 ]   [ documentos/m50.txt | 1 ] 
+
+2276  trade  [ documentos/m30.txt | 1 ] 
+
+2277  noose  [ documentos/m12.txt | 1 ] 
+
+2280  girls  [ documentos/m25.txt | 6 ]   [ documentos/m27.txt | 1 ]   [ documentos/m31.txt | 1 ] 
+
+2281  hammer  [ documentos/m03.txt | 1 ] 
+
+2282  fair  [ documentos/m28.txt | 1 ] 
+
+2296  inside  [ documentos/m13.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m33.txt | 13 ]   [ documentos/m45.txt | 2 ] 
+
+2304  celebrate  [ documentos/m26.txt | 36 ] 
+
+2307  white  [ documentos/m06.txt | 1 ]   [ documentos/m08.txt | 1 ]   [ documentos/m09.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m25.txt | 2 ]   [ documentos/m43.txt | 1 ]   [ documentos/m45.txt | 6 ] 
+
+2309  went  [ documentos/m47.txt | 1 ] 
+
+2311  an  [ documentos/m01.txt | 1 ]   [ documentos/m09.txt | 1 ]   [ documentos/m17.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m29.txt | 2 ]   [ documentos/m44.txt | 1 ]   [ documentos/m46.txt | 2 ] 
+
+2313  evidently  [ documentos/m01.txt | 3 ] 
+
+2315  memorabilia  [ documentos/m15.txt | 1 ] 
+
+2321  imagination  [ documentos/m34.txt | 1 ] 
+
+2332  however  [ documentos/m47.txt | 1 ] 
+
+2336  core  [ documentos/m27.txt | 3 ] 
+
+2337  shade  [ documentos/m49.txt | 1 ] 
+
+2338  somewhere  [ documentos/m12.txt | 2 ]   [ documentos/m38.txt | 2 ]   [ documentos/m49.txt | 1 ] 
+
+2340  kiddie-like  [ documentos/m19.txt | 1 ] 
+
+2341  utmost  [ documentos/m01.txt | 1 ] 
+
+2342  print  [ documentos/m13.txt | 1 ]   [ documentos/m32.txt | 7 ] 
+
+2343  steakknife  [ documentos/m31.txt | 1 ] 
+
+2344  settles  [ documentos/m27.txt | 1 ] 
+
+2348  streets  [ documentos/m17.txt | 5 ] 
+
+2353  now-  [ documentos/m42.txt | 2 ] 
+
+2354  soft  [ documentos/m19.txt | 1 ]   [ documentos/m27.txt | 3 ]   [ documentos/m31.txt | 1 ] 
+
+2372  sits  [ documentos/m24.txt | 1 ] 
+
+2375  leaves  [ documentos/m10.txt | 1 ]   [ documentos/m40.txt | 2 ] 
+
+2378  mob  [ documentos/m29.txt | 1 ] 
+
+2383  sure  [ documentos/m28.txt | 1 ]   [ documentos/m44.txt | 3 ] 
+
+2384  game's  [ documentos/m44.txt | 2 ] 
+
+2389  metaphors  [ documentos/m01.txt | 1 ] 
+
+2394  supposed  [ documentos/m01.txt | 1 ] 
+
+2395  been  [ documentos/m01.txt | 1 ]   [ documentos/m21.txt | 2 ]   [ documentos/m22.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 2 ]   [ documentos/m34.txt | 2 ]   [ documentos/m35.txt | 1 ] 
+
+2397  merry  [ documentos/m03.txt | 1 ] 
+
+2414  lady  [ documentos/m47.txt | 1 ] 
+
+2422  lean  [ documentos/m07.txt | 1 ] 
+
+2423  poor  [ documentos/m03.txt | 1 ] 
+
+2427  sale  [ documentos/m13.txt | 1 ]   [ documentos/m37.txt | 1 ] 
+
+2431  longer  [ documentos/m15.txt | 1 ] 
+
+2439  reality  [ documentos/m01.txt | 1 ]   [ documentos/m41.txt | 1 ] 
+
+2441  fairy  [ documentos/m27.txt | 1 ] 
+
+2442  trees  [ documentos/m30.txt | 1 ] 
+
+2449  bandana  [ documentos/m03.txt | 1 ] 
+
+2454  global  [ documentos/m11.txt | 1 ] 
+
+2456  poppa  [ documentos/m48.txt | 1 ] 
+
+2463  vibrations  [ documentos/m25.txt | 1 ] 
+
+2467  leap  [ documentos/m11.txt | 1 ] 
+
+2468  fall  [ documentos/m09.txt | 1 ]   [ documentos/m35.txt | 1 ] 
+
+2471  anyone  [ documentos/m22.txt | 1 ]   [ documentos/m28.txt | 1 ] 
+
+2472  forget  [ documentos/m01.txt | 1 ] 
+
+2473  dig  [ documentos/m43.txt | 2 ] 
+
+2476  gave  [ documentos/m10.txt | 1 ]   [ documentos/m12.txt | 1 ] 
+
+2477  thoughts  [ documentos/m01.txt | 1 ] 
+
+2478  fever  [ documentos/m19.txt | 1 ] 
+
+2481  fix  [ documentos/m32.txt | 8 ] 
+
+2482  shining  [ documentos/m06.txt | 1 ] 
+
+2485  loaded  [ documentos/m03.txt | 1 ] 
+
+2486  teach  [ documentos/m07.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+2487  bill  [ documentos/m24.txt | 1 ] 
+
+2494  simultaneous  [ documentos/m03.txt | 4 ] 
+
+2496  definition  [ documentos/m01.txt | 1 ] 
+
+2497  tops  [ documentos/m43.txt | 1 ] 
+
+2498  intimidate  [ documentos/m43.txt | 1 ] 
+
+2499  nic  [ documentos/m31.txt | 1 ] 
+
+2507  lungs  [ documentos/m21.txt | 2 ] 
+
+2513  fashioned  [ documentos/m17.txt | 1 ] 
+
+2514  resist  [ documentos/m12.txt | 2 ] 
+
+2515  found  [ documentos/m30.txt | 2 ]   [ documentos/m33.txt | 1 ]   [ documentos/m34.txt | 1 ] 
+
+2516  tears  [ documentos/m43.txt | 2 ] 
+
+2517  cue  [ documentos/m43.txt | 1 ] 
+
+2520  pressure  [ documentos/m17.txt | 7 ] 
+
+2523  money  [ documentos/m07.txt | 3 ]   [ documentos/m09.txt | 1 ]   [ documentos/m24.txt | 4 ] 
+
+2527  dream  [ documentos/m11.txt | 5 ]   [ documentos/m27.txt | 13 ]   [ documentos/m37.txt | 1 ]   [ documentos/m41.txt | 1 ] 
+
+2531  picked  [ documentos/m48.txt | 1 ] 
+
+2532  spaceship  [ documentos/m43.txt | 1 ] 
+
+2534  roll  [ documentos/m46.txt | 1 ]   [ documentos/m48.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+2535  when  [ documentos/m01.txt | 3 ]   [ documentos/m03.txt | 4 ]   [ documentos/m05.txt | 1 ]   [ documentos/m07.txt | 1 ]   [ documentos/m08.txt | 3 ]   [ documentos/m10.txt | 2 ]   [ documentos/m11.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m29.txt | 4 ]   [ documentos/m33.txt | 1 ]   [ documentos/m35.txt | 3 ]   [ documentos/m40.txt | 5 ]   [ documentos/m41.txt | 2 ]   [ documentos/m42.txt | 6 ]   [ documentos/m43.txt | 5 ]   [ documentos/m45.txt | 8 ]   [ documentos/m47.txt | 2 ] 
+
+2536  zip  [ documentos/m32.txt | 7 ] 
+
+2550  our  [ documentos/m01.txt | 5 ]   [ documentos/m02.txt | 4 ]   [ documentos/m08.txt | 3 ]   [ documentos/m13.txt | 1 ]   [ documentos/m14.txt | 3 ]   [ documentos/m17.txt | 2 ]   [ documentos/m33.txt | 2 ]   [ documentos/m35.txt | 1 ]   [ documentos/m48.txt | 3 ] 
+
+2552  rides  [ documentos/m24.txt | 1 ] 
+
+2555  carry  [ documentos/m01.txt | 1 ]   [ documentos/m07.txt | 1 ]   [ documentos/m10.txt | 4 ] 
+
+2564  ass  [ documentos/m05.txt | 7 ]   [ documentos/m24.txt | 1 ] 
+
+2570  whatcha  [ documentos/m03.txt | 1 ] 
+
+2573  between  [ documentos/m11.txt | 1 ]   [ documentos/m29.txt | 8 ]   [ documentos/m45.txt | 3 ] 
+
+2577  necessities  [ documentos/m46.txt | 6 ] 
+
+2587  chipping  [ documentos/m17.txt | 1 ] 
+
+2590  slashed  [ documentos/m17.txt | 1 ] 
+
+2594  wing  [ documentos/m22.txt | 1 ] 
+
+2596  beast  [ documentos/m18.txt | 1 ] 
+
+2600  flam  [ documentos/m09.txt | 1 ] 
+
+2601  hanging  [ documentos/m35.txt | 3 ] 
+
+2606  got  [ documentos/m01.txt | 1 ]   [ documentos/m03.txt | 1 ]   [ documentos/m07.txt | 18 ]   [ documentos/m09.txt | 1 ]   [ documentos/m10.txt | 5 ]   [ documentos/m12.txt | 3 ]   [ documentos/m15.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m24.txt | 3 ]   [ documentos/m25.txt | 2 ]   [ documentos/m26.txt | 15 ]   [ documentos/m28.txt | 2 ]   [ documentos/m34.txt | 1 ]   [ documentos/m35.txt | 2 ]   [ documentos/m39.txt | 9 ]   [ documentos/m41.txt | 1 ]   [ documentos/m44.txt | 2 ]   [ documentos/m45.txt | 2 ]   [ documentos/m46.txt | 3 ]   [ documentos/m47.txt | 1 ] 
+
+2607  wrote  [ documentos/m01.txt | 2 ]   [ documentos/m37.txt | 1 ] 
+
+2608  shape  [ documentos/m20.txt | 1 ] 
+
+2609  fighter  [ documentos/m03.txt | 1 ] 
+
+2610  rename  [ documentos/m32.txt | 7 ] 
+
+2612  western  [ documentos/m20.txt | 2 ]   [ documentos/m27.txt | 1 ] 
+
+2620  souvenir  [ documentos/m28.txt | 1 ] 
+
+2622  lawman  [ documentos/m37.txt | 2 ] 
+
+2624  blasted  [ documentos/m28.txt | 1 ] 
+
+2635  upgrade  [ documentos/m32.txt | 8 ] 
+
+2636  n  [ documentos/m28.txt | 1 ] 
+
+2637  fucking  [ documentos/m05.txt | 9 ] 
+
+2638  mouse  [ documentos/m37.txt | 1 ] 
+
+2642  exposing  [ documentos/m47.txt | 1 ] 
+
+2650  look-alike  [ documentos/m15.txt | 1 ] 
+
+2651  share  [ documentos/m10.txt | 1 ] 
+
+2652  gonna'  [ documentos/m38.txt | 1 ] 
+
+2655  porn  [ documentos/m27.txt | 3 ] 
+
+2658  hates  [ documentos/m24.txt | 2 ] 
+
+2663  billowing  [ documentos/m18.txt | 1 ] 
+
+2664  everything  [ documentos/m01.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m46.txt | 2 ]   [ documentos/m50.txt | 2 ] 
+
+2669  minute  [ documentos/m43.txt | 1 ] 
+
+2672  classroom  [ documentos/m47.txt | 2 ] 
+
+2676  lonely  [ documentos/m11.txt | 2 ]   [ documentos/m33.txt | 6 ]   [ documentos/m39.txt | 6 ] 
+
+2681  bay  [ documentos/m24.txt | 1 ] 
+
+2694  kind  [ documentos/m24.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m46.txt | 3 ] 
+
+2697  unsuspecting  [ documentos/m29.txt | 1 ] 
+
+2700  responsible  [ documentos/m05.txt | 1 ] 
+
+2701  build  [ documentos/m22.txt | 2 ] 
+
+2704  tic-toc  [ documentos/m15.txt | 1 ] 
+
+2706  mean  [ documentos/m07.txt | 1 ]   [ documentos/m21.txt | 5 ]   [ documentos/m25.txt | 2 ]   [ documentos/m27.txt | 1 ] 
+
+2711  tale  [ documentos/m49.txt | 1 ] 
+
+2712  much  [ documentos/m01.txt | 2 ]   [ documentos/m10.txt | 1 ]   [ documentos/m28.txt | 3 ]   [ documentos/m33.txt | 3 ]   [ documentos/m50.txt | 1 ] 
+
+2716  bank  [ documentos/m03.txt | 1 ]   [ documentos/m07.txt | 3 ] 
+
+2719  brighter  [ documentos/m03.txt | 1 ] 
+
+2720  brandon  [ documentos/m41.txt | 1 ] 
+
+2721  mr  [ documentos/m23.txt | 2 ] 
+
+2724  only  [ documentos/m01.txt | 1 ]   [ documentos/m03.txt | 1 ]   [ documentos/m09.txt | 2 ]   [ documentos/m15.txt | 1 ]   [ documentos/m23.txt | 4 ]   [ documentos/m29.txt | 4 ] 
+
+2725  colours  [ documentos/m01.txt | 1 ] 
+
+2726  keeps  [ documentos/m14.txt | 2 ]   [ documentos/m39.txt | 9 ] 
+
+2732  never-ending  [ documentos/m13.txt | 2 ] 
+
+2738  you'd  [ documentos/m34.txt | 1 ] 
+
+2740  overload  [ documentos/m31.txt | 1 ] 
+
+2742  friend's  [ documentos/m24.txt | 2 ] 
+
+2745  act  [ documentos/m10.txt | 1 ]   [ documentos/m25.txt | 1 ]   [ documentos/m40.txt | 2 ] 
+
+2751  sick  [ documentos/m23.txt | 4 ]   [ documentos/m28.txt | 6 ] 
+
+2752  tried  [ documentos/m31.txt | 7 ]   [ documentos/m33.txt | 6 ]   [ documentos/m45.txt | 1 ] 
+
+2758  intimidation  [ documentos/m16.txt | 1 ] 
+
+2759  wanna  [ documentos/m01.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m25.txt | 2 ] 
+
+2760  have  [ documentos/m01.txt | 1 ]   [ documentos/m10.txt | 3 ]   [ documentos/m11.txt | 1 ]   [ documentos/m12.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m30.txt | 2 ]   [ documentos/m33.txt | 2 ]   [ documentos/m34.txt | 2 ]   [ documentos/m37.txt | 1 ]   [ documentos/m39.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m45.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+2762  ignite  [ documentos/m02.txt | 1 ] 
+
+2764  well-scripted  [ documentos/m01.txt | 1 ] 
+
+2765  feelin'  [ documentos/m26.txt | 1 ] 
+
+2768  raised  [ documentos/m27.txt | 1 ] 
+
+2769  military  [ documentos/m16.txt | 1 ] 
+
+2771  whole  [ documentos/m08.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m41.txt | 1 ] 
+
+2772  transcend  [ documentos/m33.txt | 1 ] 
+
+2776  there's  [ documentos/m01.txt | 2 ]   [ documentos/m04.txt | 5 ]   [ documentos/m21.txt | 5 ]   [ documentos/m29.txt | 1 ]   [ documentos/m31.txt | 5 ]   [ documentos/m34.txt | 1 ]   [ documentos/m38.txt | 2 ]   [ documentos/m45.txt | 6 ]   [ documentos/m48.txt | 6 ] 
+
+2780  lives  [ documentos/m01.txt | 1 ]   [ documentos/m29.txt | 3 ]   [ documentos/m41.txt | 6 ]   [ documentos/m47.txt | 1 ] 
+
+2790  bride  [ documentos/m27.txt | 1 ] 
+
+2803  gotta  [ documentos/m01.txt | 1 ]   [ documentos/m03.txt | 1 ]   [ documentos/m15.txt | 4 ]   [ documentos/m18.txt | 1 ]   [ documentos/m23.txt | 4 ]   [ documentos/m24.txt | 3 ] 
+
+2822  giving  [ documentos/m12.txt | 1 ]   [ documentos/m14.txt | 1 ] 
+
+2846  talk  [ documentos/m28.txt | 1 ]   [ documentos/m36.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+2849  hair  [ documentos/m28.txt | 1 ]   [ documentos/m37.txt | 1 ] 
+
+2863  mud  [ documentos/m34.txt | 1 ] 
+
+2866  field  [ documentos/m04.txt | 1 ]   [ documentos/m30.txt | 1 ]   [ documentos/m45.txt | 3 ] 
+
+2867  transpire  [ documentos/m19.txt | 2 ] 
+
+2868  mummy  [ documentos/m37.txt | 1 ] 
+
+2873  earn  [ documentos/m07.txt | 1 ] 
+
+2875  charade  [ documentos/m38.txt | 1 ] 
+
+2880  cab  [ documentos/m23.txt | 2 ] 
+
+2883  knees  [ documentos/m13.txt | 1 ] 
+
+2890  hot  [ documentos/m03.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m30.txt | 2 ] 
+
+2891  pulling  [ documentos/m35.txt | 3 ] 
+
+2900  snapshot  [ documentos/m47.txt | 1 ] 
+
+2910  changed  [ documentos/m11.txt | 1 ] 
+
+2913  vibration  [ documentos/m27.txt | 1 ] 
+
+2920  o  [ documentos/m01.txt | 4 ] 
+
+2922  told  [ documentos/m01.txt | 1 ]   [ documentos/m05.txt | 2 ]   [ documentos/m15.txt | 6 ]   [ documentos/m31.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m37.txt | 1 ]   [ documentos/m48.txt | 6 ] 
+
+2924  caught  [ documentos/m11.txt | 1 ]   [ documentos/m18.txt | 2 ]   [ documentos/m44.txt | 1 ] 
+
+2943  brand  [ documentos/m06.txt | 1 ] 
+
+2950  get  [ documentos/m05.txt | 1 ]   [ documentos/m08.txt | 5 ]   [ documentos/m10.txt | 3 ]   [ documentos/m14.txt | 27 ]   [ documentos/m15.txt | 1 ]   [ documentos/m22.txt | 2 ]   [ documentos/m24.txt | 8 ]   [ documentos/m28.txt | 3 ]   [ documentos/m29.txt | 1 ]   [ documentos/m30.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m33.txt | 4 ]   [ documentos/m34.txt | 3 ]   [ documentos/m43.txt | 2 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 5 ]   [ documentos/m48.txt | 1 ] 
+
+2951  bird  [ documentos/m31.txt | 1 ]   [ documentos/m34.txt | 1 ] 
+
+2952  control  [ documentos/m05.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m27.txt | 1 ]   [ documentos/m47.txt | 2 ] 
+
+2953  alarming  [ documentos/m36.txt | 1 ] 
+
+2967  image  [ documentos/m43.txt | 1 ] 
+
+2968  twinkle  [ documentos/m50.txt | 1 ] 
+
+2975  looking  [ documentos/m07.txt | 6 ]   [ documentos/m11.txt | 1 ]   [ documentos/m20.txt | 7 ]   [ documentos/m46.txt | 1 ] 
+
+2976  collectors  [ documentos/m24.txt | 1 ] 
+
+2980  i'd  [ documentos/m21.txt | 1 ]   [ documentos/m31.txt | 5 ]   [ documentos/m35.txt | 4 ] 
+
+2992  guitar  [ documentos/m27.txt | 1 ]   [ documentos/m41.txt | 1 ] 
+
+2993  quota  [ documentos/m03.txt | 1 ] 
+
+2994  freeway  [ documentos/m31.txt | 1 ] 
+
+3002  temple  [ documentos/m10.txt | 2 ] 
+
+3006  blood  [ documentos/m10.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m31.txt | 1 ] 
+
+3008  deep  [ documentos/m11.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m45.txt | 3 ] 
+
+3020  inches  [ documentos/m47.txt | 1 ] 
+
+3022  hola  [ documentos/m50.txt | 3 ] 
+
+3024  quotations  [ documentos/m27.txt | 1 ] 
+
+3033  boo  [ documentos/m09.txt | 1 ] 
+
+3034  crept  [ documentos/m44.txt | 1 ] 
+
+3036  hall  [ documentos/m07.txt | 1 ]   [ documentos/m37.txt | 2 ] 
+
+3037  wants  [ documentos/m24.txt | 2 ] 
+
+3038  divine  [ documentos/m01.txt | 1 ] 
+
+3045  connecting  [ documentos/m01.txt | 1 ] 
+
+3054  leaned  [ documentos/m48.txt | 1 ] 
+
+3058  you  [ documentos/m01.txt | 11 ]   [ documentos/m02.txt | 11 ]   [ documentos/m03.txt | 4 ]   [ documentos/m04.txt | 5 ]   [ documentos/m05.txt | 28 ]   [ documentos/m06.txt | 7 ]   [ documentos/m07.txt | 9 ]   [ documentos/m09.txt | 2 ]   [ documentos/m10.txt | 21 ]   [ documentos/m11.txt | 13 ]   [ documentos/m12.txt | 25 ]   [ documentos/m13.txt | 22 ]   [ documentos/m14.txt | 1 ]   [ documentos/m15.txt | 2 ]   [ documentos/m17.txt | 3 ]   [ documentos/m18.txt | 5 ]   [ documentos/m19.txt | 5 ]   [ documentos/m20.txt | 13 ]   [ documentos/m22.txt | 13 ]   [ documentos/m24.txt | 11 ]   [ documentos/m25.txt | 10 ]   [ documentos/m26.txt | 3 ]   [ documentos/m27.txt | 2 ]   [ documentos/m28.txt | 7 ]   [ documentos/m29.txt | 14 ]   [ documentos/m30.txt | 13 ]   [ documentos/m31.txt | 3 ]   [ documentos/m33.txt | 5 ]   [ documentos/m34.txt | 15 ]   [ documentos/m35.txt | 14 ]   [ documentos/m36.txt | 1 ]   [ documentos/m37.txt | 1 ]   [ documentos/m38.txt | 13 ]   [ documentos/m39.txt | 9 ]   [ documentos/m40.txt | 8 ]   [ documentos/m42.txt | 19 ]   [ documentos/m43.txt | 19 ]   [ documentos/m44.txt | 23 ]   [ documentos/m45.txt | 2 ]   [ documentos/m46.txt | 19 ]   [ documentos/m47.txt | 4 ]   [ documentos/m48.txt | 2 ]   [ documentos/m49.txt | 9 ]   [ documentos/m50.txt | 3 ] 
+
+3059  stop  [ documentos/m26.txt | 7 ]   [ documentos/m43.txt | 9 ] 
+
+3060  sicker  [ documentos/m27.txt | 1 ] 
+
+3065  laugh  [ documentos/m03.txt | 1 ]   [ documentos/m28.txt | 1 ] 
+
+3066  portrait  [ documentos/m28.txt | 1 ] 
+
+3068  debunked  [ documentos/m15.txt | 1 ] 
+
+3073  shocking  [ documentos/m43.txt | 2 ] 
+
+3076  dissenters  [ documentos/m16.txt | 1 ] 
+
+3077  bloom  [ documentos/m34.txt | 1 ] 
+
+3080  near  [ documentos/m01.txt | 1 ] 
+
+3088  forward  [ documentos/m11.txt | 1 ] 
+
+3092  'em  [ documentos/m25.txt | 2 ]   [ documentos/m29.txt | 12 ] 
+
+3098  so  [ documentos/m01.txt | 6 ]   [ documentos/m04.txt | 5 ]   [ documentos/m05.txt | 1 ]   [ documentos/m09.txt | 2 ]   [ documentos/m11.txt | 6 ]   [ documentos/m13.txt | 3 ]   [ documentos/m14.txt | 3 ]   [ documentos/m17.txt | 1 ]   [ documentos/m18.txt | 7 ]   [ documentos/m22.txt | 1 ]   [ documentos/m26.txt | 28 ]   [ documentos/m28.txt | 4 ]   [ documentos/m29.txt | 2 ]   [ documentos/m30.txt | 3 ]   [ documentos/m31.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m39.txt | 2 ]   [ documentos/m40.txt | 4 ]   [ documentos/m41.txt | 3 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 3 ]   [ documentos/m44.txt | 5 ]   [ documentos/m45.txt | 9 ]   [ documentos/m46.txt | 2 ]   [ documentos/m48.txt | 2 ]   [ documentos/m50.txt | 1 ] 
+
+3101  sweden  [ documentos/m27.txt | 1 ] 
+
+3104  affair  [ documentos/m37.txt | 1 ] 
+
+3111  cruelest  [ documentos/m41.txt | 1 ] 
+
+3112  makes  [ documentos/m01.txt | 4 ]   [ documentos/m15.txt | 3 ] 
+
+3115  influence  [ documentos/m16.txt | 1 ] 
+
+3123  innocent  [ documentos/m40.txt | 2 ] 
+
+3124  canine  [ documentos/m01.txt | 1 ] 
+
+3125  mama  [ documentos/m39.txt | 1 ] 
+
+3134  won't  [ documentos/m05.txt | 1 ]   [ documentos/m22.txt | 2 ]   [ documentos/m24.txt | 7 ]   [ documentos/m44.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+3135  becomes  [ documentos/m49.txt | 1 ] 
+
+3136  yelling  [ documentos/m37.txt | 1 ] 
+
+3137  captivity  [ documentos/m01.txt | 1 ] 
+
+3139  wages  [ documentos/m01.txt | 1 ] 
+
+3140  cause  [ documentos/m11.txt | 1 ]   [ documentos/m17.txt | 1 ]   [ documentos/m24.txt | 1 ]   [ documentos/m25.txt | 2 ]   [ documentos/m33.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m48.txt | 3 ]   [ documentos/m49.txt | 6 ] 
+
+3141  which  [ documentos/m16.txt | 1 ] 
+
+3150  kids  [ documentos/m41.txt | 2 ]   [ documentos/m47.txt | 5 ] 
+
+3151  chasing  [ documentos/m02.txt | 1 ] 
+
+3155  arrivals  [ documentos/m33.txt | 1 ] 
+
+3156  semi-infinitely  [ documentos/m01.txt | 1 ] 
+
+3157  also  [ documentos/m27.txt | 1 ] 
+
+3162  process  [ documentos/m01.txt | 1 ] 
+
+3163  chemistry  [ documentos/m01.txt | 1 ] 
+
+3167  virus  [ documentos/m05.txt | 1 ] 
+
+3168  price  [ documentos/m03.txt | 1 ]   [ documentos/m23.txt | 2 ] 
+
+3172  hurt  [ documentos/m10.txt | 2 ]   [ documentos/m47.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+3173  stony  [ documentos/m34.txt | 1 ] 
+
+3176  still  [ documentos/m01.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m41.txt | 4 ]   [ documentos/m47.txt | 1 ] 
+
+3177  vast  [ documentos/m16.txt | 1 ] 
+
+3182  addicted  [ documentos/m43.txt | 2 ] 
+
+3185  soon  [ documentos/m25.txt | 1 ]   [ documentos/m40.txt | 2 ] 
+
+3186  centre  [ documentos/m09.txt | 8 ] 
+
+3189  persevering  [ documentos/m43.txt | 1 ] 
+
+3190  wash  [ documentos/m28.txt | 3 ] 
+
+3204  developing  [ documentos/m01.txt | 1 ] 
+
+3208  clearing  [ documentos/m34.txt | 1 ] 
+
+3210  next  [ documentos/m08.txt | 12 ]   [ documentos/m11.txt | 1 ]   [ documentos/m44.txt | 1 ] 
+
+3212  how  [ documentos/m01.txt | 4 ]   [ documentos/m09.txt | 3 ]   [ documentos/m15.txt | 2 ]   [ documentos/m20.txt | 14 ]   [ documentos/m23.txt | 2 ]   [ documentos/m28.txt | 3 ]   [ documentos/m29.txt | 1 ]   [ documentos/m30.txt | 5 ]   [ documentos/m33.txt | 1 ]   [ documentos/m35.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m44.txt | 1 ]   [ documentos/m49.txt | 3 ]   [ documentos/m50.txt | 3 ] 
+
+3214  bells  [ documentos/m25.txt | 1 ] 
+
+3215  population  [ documentos/m27.txt | 1 ] 
+
+3217  code  [ documentos/m32.txt | 5 ] 
+
+3226  jumps  [ documentos/m29.txt | 1 ] 
+
+3231  daydreams  [ documentos/m09.txt | 1 ] 
+
+3239  anything  [ documentos/m03.txt | 1 ]   [ documentos/m43.txt | 2 ]   [ documentos/m47.txt | 3 ] 
+
+3240  dani  [ documentos/m03.txt | 1 ]   [ documentos/m31.txt | 3 ] 
+
+3241  diamond  [ documentos/m01.txt | 1 ] 
+
+3242  arrest  [ documentos/m12.txt | 1 ] 
+
+3243  opposed  [ documentos/m16.txt | 1 ] 
+
+3244  bah  [ documentos/m17.txt | 31 ] 
+
+3249  day  [ documentos/m01.txt | 1 ]   [ documentos/m03.txt | 1 ]   [ documentos/m06.txt | 1 ]   [ documentos/m09.txt | 5 ]   [ documentos/m16.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m20.txt | 2 ]   [ documentos/m24.txt | 3 ]   [ documentos/m29.txt | 1 ]   [ documentos/m34.txt | 6 ]   [ documentos/m46.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+3262  mind  [ documentos/m01.txt | 1 ]   [ documentos/m05.txt | 1 ]   [ documentos/m11.txt | 11 ]   [ documentos/m25.txt | 7 ]   [ documentos/m39.txt | 1 ]   [ documentos/m44.txt | 3 ]   [ documentos/m46.txt | 3 ]   [ documentos/m49.txt | 5 ]   [ documentos/m50.txt | 1 ] 
+
+3263  story  [ documentos/m13.txt | 2 ]   [ documentos/m25.txt | 1 ]   [ documentos/m31.txt | 1 ] 
+
+3275  prerogative  [ documentos/m01.txt | 1 ] 
+
+3276  unzip  [ documentos/m32.txt | 7 ] 
+
+3282  jail  [ documentos/m05.txt | 1 ] 
+
+3284  it's  [ documentos/m02.txt | 1 ]   [ documentos/m04.txt | 2 ]   [ documentos/m06.txt | 8 ]   [ documentos/m10.txt | 3 ]   [ documentos/m11.txt | 12 ]   [ documentos/m12.txt | 3 ]   [ documentos/m13.txt | 1 ]   [ documentos/m17.txt | 3 ]   [ documentos/m19.txt | 3 ]   [ documentos/m21.txt | 9 ]   [ documentos/m23.txt | 4 ]   [ documentos/m27.txt | 5 ]   [ documentos/m28.txt | 3 ]   [ documentos/m29.txt | 2 ]   [ documentos/m33.txt | 4 ]   [ documentos/m34.txt | 5 ]   [ documentos/m37.txt | 4 ]   [ documentos/m39.txt | 1 ]   [ documentos/m41.txt | 3 ]   [ documentos/m43.txt | 4 ]   [ documentos/m44.txt | 6 ]   [ documentos/m45.txt | 8 ]   [ documentos/m46.txt | 1 ]   [ documentos/m47.txt | 2 ]   [ documentos/m48.txt | 3 ]   [ documentos/m50.txt | 3 ] 
+
+3289  or  [ documentos/m02.txt | 2 ]   [ documentos/m06.txt | 1 ]   [ documentos/m10.txt | 2 ]   [ documentos/m12.txt | 3 ]   [ documentos/m27.txt | 1 ]   [ documentos/m36.txt | 2 ]   [ documentos/m37.txt | 2 ]   [ documentos/m43.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+3295  passing  [ documentos/m43.txt | 1 ] 
+
+3306  feed  [ documentos/m43.txt | 1 ] 
+
+3307  shadow's  [ documentos/m46.txt | 1 ] 
+
+3309  combines  [ documentos/m16.txt | 1 ] 
+
+3310  start  [ documentos/m32.txt | 7 ]   [ documentos/m43.txt | 1 ] 
+
+3311  isn't  [ documentos/m15.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m24.txt | 2 ] 
+
+3313  killing  [ documentos/m05.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m45.txt | 2 ] 
+
+3315  deeper  [ documentos/m46.txt | 1 ] 
+
+3325  zipping  [ documentos/m11.txt | 1 ] 
+
+3328  rains  [ documentos/m17.txt | 1 ] 
+
+3336  commotion  [ documentos/m19.txt | 1 ] 
+
+3352  yours  [ documentos/m50.txt | 3 ] 
+
+3360  sit  [ documentos/m42.txt | 2 ]   [ documentos/m45.txt | 1 ] 
+
+3361  spell  [ documentos/m27.txt | 2 ] 
+
+3363  'cause  [ documentos/m01.txt | 4 ]   [ documentos/m07.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m23.txt | 3 ]   [ documentos/m37.txt | 2 ] 
+
+3368  everyone's  [ documentos/m12.txt | 1 ] 
+
+3370  format  [ documentos/m32.txt | 7 ] 
+
+3371  runner  [ documentos/m03.txt | 1 ] 
+
+3373  haunt  [ documentos/m11.txt | 1 ] 
+
+3374  coming  [ documentos/m08.txt | 12 ]   [ documentos/m17.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m35.txt | 10 ]   [ documentos/m44.txt | 5 ]   [ documentos/m46.txt | 2 ] 
+
+3380  any  [ documentos/m39.txt | 2 ]   [ documentos/m43.txt | 2 ]   [ documentos/m47.txt | 1 ] 
+
+3382  to  [ documentos/m01.txt | 15 ]   [ documentos/m02.txt | 8 ]   [ documentos/m03.txt | 7 ]   [ documentos/m04.txt | 5 ]   [ documentos/m05.txt | 9 ]   [ documentos/m06.txt | 5 ]   [ documentos/m07.txt | 5 ]   [ documentos/m08.txt | 1 ]   [ documentos/m10.txt | 12 ]   [ documentos/m11.txt | 6 ]   [ documentos/m12.txt | 8 ]   [ documentos/m13.txt | 3 ]   [ documentos/m14.txt | 34 ]   [ documentos/m15.txt | 18 ]   [ documentos/m17.txt | 2 ]   [ documentos/m18.txt | 1 ]   [ documentos/m19.txt | 3 ]   [ documentos/m20.txt | 2 ]   [ documentos/m22.txt | 4 ]   [ documentos/m23.txt | 2 ]   [ documentos/m24.txt | 5 ]   [ documentos/m27.txt | 7 ]   [ documentos/m28.txt | 7 ]   [ documentos/m29.txt | 7 ]   [ documentos/m30.txt | 1 ]   [ documentos/m31.txt | 18 ]   [ documentos/m33.txt | 15 ]   [ documentos/m34.txt | 5 ]   [ documentos/m36.txt | 1 ]   [ documentos/m37.txt | 10 ]   [ documentos/m38.txt | 9 ]   [ documentos/m39.txt | 4 ]   [ documentos/m40.txt | 2 ]   [ documentos/m41.txt | 6 ]   [ documentos/m42.txt | 4 ]   [ documentos/m43.txt | 19 ]   [ documentos/m44.txt | 4 ]   [ documentos/m45.txt | 28 ]   [ documentos/m46.txt | 7 ]   [ documentos/m47.txt | 2 ]   [ documentos/m48.txt | 8 ]   [ documentos/m49.txt | 1 ]   [ documentos/m50.txt | 3 ] 
+
+3383  lets  [ documentos/m02.txt | 1 ] 
+
+3384  body  [ documentos/m15.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m33.txt | 1 ] 
+
+3385  reverend  [ documentos/m18.txt | 14 ] 
+
+3386  rarely  [ documentos/m28.txt | 1 ] 
+
+3387  expanding  [ documentos/m16.txt | 1 ] 
+
+3393  candle  [ documentos/m09.txt | 3 ] 
+
+3395  until  [ documentos/m02.txt | 1 ]   [ documentos/m22.txt | 1 ] 
+
+3399  interfering  [ documentos/m43.txt | 1 ] 
+
+3400  through  [ documentos/m22.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m25.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m35.txt | 1 ]   [ documentos/m37.txt | 1 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 3 ] 
+
+3405  daddy  [ documentos/m37.txt | 1 ]   [ documentos/m39.txt | 1 ]   [ documentos/m47.txt | 2 ] 
+
+3407  scientific  [ documentos/m16.txt | 1 ] 
+
+3408  ice  [ documentos/m46.txt | 1 ] 
+
+3409  laying  [ documentos/m19.txt | 1 ] 
+
+3410  writing  [ documentos/m47.txt | 1 ] 
+
+3412  though  [ documentos/m50.txt | 1 ] 
+
+3413  guy  [ documentos/m37.txt | 2 ] 
+
+3415  ripped  [ documentos/m11.txt | 1 ] 
+
+3417  lock  [ documentos/m32.txt | 5 ] 
+
+3418  matter  [ documentos/m33.txt | 1 ] 
+
+3422  genesis  [ documentos/m01.txt | 1 ] 
+
+3423  page  [ documentos/m13.txt | 1 ] 
+
+3425  cloud  [ documentos/m15.txt | 3 ]   [ documentos/m34.txt | 1 ]   [ documentos/m44.txt | 1 ] 
+
+3427  passport  [ documentos/m09.txt | 1 ] 
+
+3428  if  [ documentos/m01.txt | 1 ]   [ documentos/m02.txt | 5 ]   [ documentos/m05.txt | 3 ]   [ documentos/m08.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m13.txt | 24 ]   [ documentos/m14.txt | 1 ]   [ documentos/m19.txt | 2 ]   [ documentos/m27.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m33.txt | 2 ]   [ documentos/m34.txt | 1 ]   [ documentos/m37.txt | 2 ]   [ documentos/m38.txt | 6 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 3 ]   [ documentos/m48.txt | 1 ] 
+
+3432  crack  [ documentos/m32.txt | 8 ] 
+
+3434  couldn't  [ documentos/m27.txt | 1 ] 
+
+3435  bullets  [ documentos/m50.txt | 1 ] 
+
+3437  minnessota  [ documentos/m03.txt | 1 ] 
+
+3438  dip  [ documentos/m42.txt | 1 ] 
+
+3439  plays  [ documentos/m13.txt | 8 ]   [ documentos/m41.txt | 1 ] 
+
+3440  future  [ documentos/m33.txt | 1 ]   [ documentos/m41.txt | 1 ] 
+
+3443  gift  [ documentos/m14.txt | 1 ] 
+
+3444  aging  [ documentos/m27.txt | 2 ] 
+
+3445  something  [ documentos/m09.txt | 2 ]   [ documentos/m12.txt | 1 ]   [ documentos/m18.txt | 2 ]   [ documentos/m21.txt | 5 ]   [ documentos/m29.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m50.txt | 3 ] 
+
+3446  tell  [ documentos/m09.txt | 1 ]   [ documentos/m24.txt | 4 ]   [ documentos/m25.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m30.txt | 3 ]   [ documentos/m43.txt | 2 ]   [ documentos/m45.txt | 3 ]   [ documentos/m46.txt | 3 ]   [ documentos/m48.txt | 1 ] 
+
+3456  couple  [ documentos/m41.txt | 1 ] 
+
+3457  gas  [ documentos/m07.txt | 3 ] 
+
+3462  brow  [ documentos/m37.txt | 1 ] 
+
+3469  memory  [ documentos/m47.txt | 1 ] 
+
+3471  quarter  [ documentos/m01.txt | 1 ] 
+
+3472  subversion  [ documentos/m16.txt | 1 ] 
+
+3481  diplomatic  [ documentos/m16.txt | 1 ] 
+
+3485  top  [ documentos/m21.txt | 2 ]   [ documentos/m31.txt | 1 ]   [ documentos/m43.txt | 2 ] 
+
+3486  feel  [ documentos/m01.txt | 4 ]   [ documentos/m02.txt | 1 ]   [ documentos/m04.txt | 5 ]   [ documentos/m07.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m12.txt | 3 ]   [ documentos/m33.txt | 1 ]   [ documentos/m34.txt | 2 ]   [ documentos/m43.txt | 1 ]   [ documentos/m49.txt | 3 ]   [ documentos/m50.txt | 5 ] 
+
+3494  empty  [ documentos/m28.txt | 1 ] 
+
+3496  pleiades  [ documentos/m43.txt | 1 ] 
+
+3498  name  [ documentos/m03.txt | 1 ]   [ documentos/m07.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m32.txt | 7 ]   [ documentos/m33.txt | 1 ] 
+
+3500  hard  [ documentos/m27.txt | 3 ]   [ documentos/m29.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m41.txt | 6 ] 
+
+3516  he's  [ documentos/m23.txt | 2 ]   [ documentos/m36.txt | 3 ]   [ documentos/m37.txt | 2 ]   [ documentos/m41.txt | 1 ]   [ documentos/m48.txt | 3 ] 
+
+3517  who  [ documentos/m02.txt | 2 ]   [ documentos/m03.txt | 2 ]   [ documentos/m05.txt | 1 ]   [ documentos/m13.txt | 7 ]   [ documentos/m14.txt | 3 ]   [ documentos/m15.txt | 2 ]   [ documentos/m18.txt | 1 ]   [ documentos/m20.txt | 2 ]   [ documentos/m27.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+3519  school  [ documentos/m47.txt | 1 ] 
+
+3520  phoenix  [ documentos/m14.txt | 1 ] 
+
+3526  both  [ documentos/m46.txt | 1 ] 
+
+3533  frozen  [ documentos/m01.txt | 1 ] 
+
+3537  hopin'  [ documentos/m11.txt | 1 ] 
+
+3543  fader  [ documentos/m03.txt | 1 ] 
+
+3545  voice  [ documentos/m01.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+3551  mad  [ documentos/m11.txt | 5 ]   [ documentos/m38.txt | 1 ] 
+
+3557  road  [ documentos/m06.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m45.txt | 2 ] 
+
+3559  darkness  [ documentos/m46.txt | 2 ] 
+
+3567  vinyl  [ documentos/m15.txt | 1 ] 
+
+3572  pettibon  [ documentos/m28.txt | 1 ] 
+
+3578  shoots  [ documentos/m34.txt | 1 ] 
+
+3581  valley  [ documentos/m15.txt | 1 ] 
+
+3582  sweet  [ documentos/m03.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+3583  eager  [ documentos/m23.txt | 2 ] 
+
+3590  depart  [ documentos/m33.txt | 1 ] 
+
+3591  derision  [ documentos/m47.txt | 1 ] 
+
+3592  position  [ documentos/m11.txt | 1 ]   [ documentos/m35.txt | 1 ] 
+
+3606  earthquakes  [ documentos/m27.txt | 1 ] 
+
+3608  watch  [ documentos/m32.txt | 7 ]   [ documentos/m36.txt | 3 ]   [ documentos/m42.txt | 3 ] 
+
+3609  i've  [ documentos/m09.txt | 1 ]   [ documentos/m12.txt | 3 ]   [ documentos/m21.txt | 2 ]   [ documentos/m23.txt | 2 ]   [ documentos/m25.txt | 1 ]   [ documentos/m35.txt | 1 ] 
+
+3611  forever  [ documentos/m19.txt | 1 ] 
+
+3613  norfolk  [ documentos/m37.txt | 1 ] 
+
+3614  purgatory  [ documentos/m01.txt | 1 ] 
+
+3621  jus  [ documentos/m26.txt | 1 ] 
+
+3623  fill  [ documentos/m32.txt | 5 ] 
+
+3625  seem  [ documentos/m01.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+3631  give  [ documentos/m01.txt | 1 ]   [ documentos/m06.txt | 4 ]   [ documentos/m07.txt | 3 ]   [ documentos/m11.txt | 1 ]   [ documentos/m12.txt | 3 ]   [ documentos/m14.txt | 3 ]   [ documentos/m17.txt | 7 ]   [ documentos/m18.txt | 3 ]   [ documentos/m24.txt | 3 ]   [ documentos/m50.txt | 4 ] 
+
+3633  oh  [ documentos/m01.txt | 2 ]   [ documentos/m10.txt | 2 ]   [ documentos/m11.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m15.txt | 8 ]   [ documentos/m19.txt | 1 ]   [ documentos/m25.txt | 5 ]   [ documentos/m26.txt | 6 ]   [ documentos/m30.txt | 1 ]   [ documentos/m31.txt | 8 ]   [ documentos/m37.txt | 4 ]   [ documentos/m39.txt | 27 ]   [ documentos/m41.txt | 10 ]   [ documentos/m45.txt | 20 ]   [ documentos/m50.txt | 4 ] 
+
+3634  sarcasm  [ documentos/m47.txt | 2 ] 
+
+3635  junkie  [ documentos/m15.txt | 1 ] 
+
+3642  sort  [ documentos/m46.txt | 1 ] 
+
+3651  hearts  [ documentos/m01.txt | 1 ]   [ documentos/m12.txt | 1 ] 
+
+3654  hopes  [ documentos/m02.txt | 4 ]   [ documentos/m35.txt | 1 ] 
+
+3659  filmstar  [ documentos/m09.txt | 1 ] 
+
+3663  thresholds  [ documentos/m05.txt | 1 ] 
+
+3664  wasn't  [ documentos/m11.txt | 1 ] 
+
+3665  jam  [ documentos/m32.txt | 5 ] 
+
+3666  feet  [ documentos/m29.txt | 1 ]   [ documentos/m42.txt | 1 ] 
+
+3668  saddening  [ documentos/m37.txt | 2 ] 
+
+3671  unclean  [ documentos/m25.txt | 2 ] 
+
+3683  nation  [ documentos/m43.txt | 1 ] 
+
+3691  rebel  [ documentos/m03.txt | 1 ] 
+
+3692  dares  [ documentos/m17.txt | 2 ] 
+
+3693  steal  [ documentos/m27.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m33.txt | 1 ] 
+
+3694  veil  [ documentos/m30.txt | 1 ] 
+
+3696  covert  [ documentos/m16.txt | 1 ] 
+
+3698  walk  [ documentos/m25.txt | 8 ]   [ documentos/m29.txt | 4 ]   [ documentos/m30.txt | 1 ] 
+
+3707  nobody  [ documentos/m21.txt | 1 ] 
+
+3710  peace  [ documentos/m03.txt | 4 ] 
+
+3714  swing  [ documentos/m03.txt | 1 ] 
+
+3720  dont  [ documentos/m02.txt | 1 ]   [ documentos/m47.txt | 2 ] 
+
+3736  children  [ documentos/m47.txt | 1 ]   [ documentos/m48.txt | 9 ] 
+
+3741  has  [ documentos/m01.txt | 1 ]   [ documentos/m12.txt | 3 ]   [ documentos/m14.txt | 1 ]   [ documentos/m16.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m37.txt | 2 ]   [ documentos/m46.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+3742  paperback  [ documentos/m46.txt | 1 ] 
+
+3747  devil's  [ documentos/m42.txt | 1 ] 
+
+3749  oil  [ documentos/m34.txt | 1 ] 
+
+3751  think  [ documentos/m11.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m22.txt | 5 ]   [ documentos/m30.txt | 2 ]   [ documentos/m44.txt | 3 ]   [ documentos/m47.txt | 2 ] 
+
+3754  heard  [ documentos/m01.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+3763  drive  [ documentos/m33.txt | 1 ] 
+
+3764  myself  [ documentos/m45.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+3768  smiles  [ documentos/m25.txt | 1 ] 
+
+3775  blackstar  [ documentos/m09.txt | 18 ] 
+
+3779  destiny  [ documentos/m23.txt | 2 ] 
+
+3781  steel  [ documentos/m30.txt | 1 ] 
+
+3784  soul  [ documentos/m13.txt | 2 ]   [ documentos/m31.txt | 2 ]   [ documentos/m48.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+3790  enemy  [ documentos/m13.txt | 1 ] 
+
+3791  torn  [ documentos/m17.txt | 1 ]   [ documentos/m41.txt | 1 ] 
+
+3802  connected  [ documentos/m28.txt | 3 ] 
+
+3804  eagles  [ documentos/m09.txt | 1 ] 
+
+3815  transmission  [ documentos/m11.txt | 1 ] 
+
+3816  getaway  [ documentos/m33.txt | 3 ] 
+
+3818  sayin'  [ documentos/m03.txt | 1 ] 
+
+3819  sharper  [ documentos/m01.txt | 1 ] 
+
+3820  confession  [ documentos/m12.txt | 2 ] 
+
+3821  delta  [ documentos/m25.txt | 1 ] 
+
+3827  canyons  [ documentos/m34.txt | 1 ] 
+
+3829  trash  [ documentos/m32.txt | 8 ] 
+
+3830  getting  [ documentos/m10.txt | 1 ]   [ documentos/m12.txt | 11 ]   [ documentos/m27.txt | 1 ]   [ documentos/m29.txt | 1 ] 
+
+3836  strapped  [ documentos/m08.txt | 1 ] 
+
+3837  lover  [ documentos/m03.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m33.txt | 6 ] 
+
+3838  north  [ documentos/m03.txt | 1 ] 
+
+3839  around  [ documentos/m16.txt | 1 ]   [ documentos/m17.txt | 2 ]   [ documentos/m18.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m36.txt | 2 ]   [ documentos/m44.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+3840  but  [ documentos/m01.txt | 7 ]   [ documentos/m02.txt | 1 ]   [ documentos/m07.txt | 1 ]   [ documentos/m09.txt | 1 ]   [ documentos/m10.txt | 4 ]   [ documentos/m11.txt | 4 ]   [ documentos/m12.txt | 3 ]   [ documentos/m15.txt | 2 ]   [ documentos/m17.txt | 3 ]   [ documentos/m22.txt | 1 ]   [ documentos/m23.txt | 4 ]   [ documentos/m24.txt | 2 ]   [ documentos/m27.txt | 2 ]   [ documentos/m28.txt | 4 ]   [ documentos/m31.txt | 3 ]   [ documentos/m34.txt | 1 ]   [ documentos/m37.txt | 4 ]   [ documentos/m39.txt | 3 ]   [ documentos/m40.txt | 2 ]   [ documentos/m41.txt | 1 ]   [ documentos/m42.txt | 4 ]   [ documentos/m43.txt | 4 ]   [ documentos/m44.txt | 3 ]   [ documentos/m45.txt | 1 ]   [ documentos/m46.txt | 2 ]   [ documentos/m47.txt | 1 ]   [ documentos/m48.txt | 3 ]   [ documentos/m49.txt | 3 ]   [ documentos/m50.txt | 1 ] 
+
+3852  win  [ documentos/m43.txt | 3 ] 
+
+3872  brains  [ documentos/m17.txt | 1 ] 
+
+3875  mouth  [ documentos/m10.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m49.txt | 3 ] 
+
+3878  reminisce  [ documentos/m01.txt | 1 ] 
+
+3883  kept  [ documentos/m39.txt | 1 ] 
+
+3885  i'll  [ documentos/m01.txt | 1 ]   [ documentos/m02.txt | 2 ]   [ documentos/m05.txt | 2 ]   [ documentos/m08.txt | 12 ]   [ documentos/m12.txt | 2 ]   [ documentos/m13.txt | 4 ]   [ documentos/m15.txt | 2 ]   [ documentos/m31.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+3901  read  [ documentos/m32.txt | 7 ]   [ documentos/m43.txt | 1 ] 
+
+3906  wearing  [ documentos/m15.txt | 1 ] 
+
+3909  heaven  [ documentos/m30.txt | 1 ] 
+
+3915  along  [ documentos/m24.txt | 1 ] 
+
+3919  back  [ documentos/m01.txt | 1 ]   [ documentos/m06.txt | 1 ]   [ documentos/m07.txt | 2 ]   [ documentos/m11.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m18.txt | 2 ]   [ documentos/m21.txt | 1 ]   [ documentos/m25.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m45.txt | 1 ]   [ documentos/m48.txt | 2 ] 
+
+3931  middle  [ documentos/m18.txt | 2 ] 
+
+3932  away  [ documentos/m01.txt | 1 ]   [ documentos/m02.txt | 10 ]   [ documentos/m06.txt | 2 ]   [ documentos/m17.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m25.txt | 10 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 3 ]   [ documentos/m29.txt | 5 ]   [ documentos/m33.txt | 3 ]   [ documentos/m34.txt | 3 ]   [ documentos/m46.txt | 3 ]   [ documentos/m49.txt | 1 ] 
+
+3933  spirit  [ documentos/m01.txt | 1 ]   [ documentos/m09.txt | 2 ] 
+
+3934  listen  [ documentos/m45.txt | 5 ] 
+
+3938  bowl  [ documentos/m30.txt | 1 ]   [ documentos/m31.txt | 1 ] 
+
+3941  faith  [ documentos/m12.txt | 3 ] 
+
+3943  company  [ documentos/m03.txt | 1 ] 
+
+3946  i'm  [ documentos/m01.txt | 2 ]   [ documentos/m03.txt | 4 ]   [ documentos/m05.txt | 13 ]   [ documentos/m06.txt | 5 ]   [ documentos/m07.txt | 19 ]   [ documentos/m08.txt | 3 ]   [ documentos/m09.txt | 31 ]   [ documentos/m11.txt | 4 ]   [ documentos/m12.txt | 3 ]   [ documentos/m13.txt | 24 ]   [ documentos/m14.txt | 8 ]   [ documentos/m19.txt | 2 ]   [ documentos/m20.txt | 1 ]   [ documentos/m23.txt | 7 ]   [ documentos/m25.txt | 3 ]   [ documentos/m26.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m34.txt | 2 ]   [ documentos/m35.txt | 17 ]   [ documentos/m39.txt | 7 ]   [ documentos/m43.txt | 3 ]   [ documentos/m44.txt | 3 ]   [ documentos/m46.txt | 4 ]   [ documentos/m49.txt | 7 ]   [ documentos/m50.txt | 3 ] 
+
+3947  survive  [ documentos/m03.txt | 1 ] 
+
+3957  disregarding  [ documentos/m11.txt | 1 ] 
+
+3965  superstar  [ documentos/m33.txt | 6 ] 
+
+3967  hollywood  [ documentos/m27.txt | 2 ] 
+
+3973  sheila  [ documentos/m15.txt | 1 ] 
+
+3980  playing  [ documentos/m46.txt | 1 ] 
+
+3984  star  [ documentos/m09.txt | 6 ]   [ documentos/m11.txt | 5 ]   [ documentos/m27.txt | 1 ] 
+
+3996  changing  [ documentos/m05.txt | 1 ] 
+
+4012  proper  [ documentos/m05.txt | 1 ] 
+
+4015  screen  [ documentos/m27.txt | 1 ]   [ documentos/m37.txt | 1 ] 
+
+4021  pictures  [ documentos/m36.txt | 1 ] 
+
+4026  lot  [ documentos/m10.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+4031  design  [ documentos/m46.txt | 5 ] 
+
+4039  dirty  [ documentos/m22.txt | 1 ] 
+
+4041  music  [ documentos/m01.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m50.txt | 2 ] 
+
+4043  metre  [ documentos/m09.txt | 2 ] 
+
+4046  pavement  [ documentos/m43.txt | 2 ] 
+
+4049  locked  [ documentos/m48.txt | 1 ] 
+
+4055  weren't  [ documentos/m48.txt | 1 ] 
+
+4056  s  [ documentos/m15.txt | 1 ]   [ documentos/m50.txt | 3 ] 
+
+4058  tracks  [ documentos/m45.txt | 3 ] 
+
+4061  ready  [ documentos/m13.txt | 2 ]   [ documentos/m14.txt | 1 ] 
+
+4068  else  [ documentos/m09.txt | 2 ]   [ documentos/m47.txt | 1 ] 
+
+4075  gifted  [ documentos/m03.txt | 1 ]   [ documentos/m07.txt | 1 ] 
+
+4081  real  [ documentos/m12.txt | 3 ] 
+
+4085  information  [ documentos/m27.txt | 1 ] 
+
+4086  times  [ documentos/m06.txt | 8 ]   [ documentos/m09.txt | 1 ]   [ documentos/m25.txt | 6 ]   [ documentos/m37.txt | 2 ] 
+
+4089  ask  [ documentos/m05.txt | 1 ]   [ documentos/m10.txt | 2 ]   [ documentos/m17.txt | 1 ]   [ documentos/m37.txt | 2 ]   [ documentos/m43.txt | 1 ] 
+
+4092  wasted  [ documentos/m01.txt | 1 ] 
+
+4093  finished  [ documentos/m13.txt | 1 ] 
+
+4098  heroes  [ documentos/m28.txt | 1 ]   [ documentos/m30.txt | 1 ] 
+
+4100  here  [ documentos/m08.txt | 2 ]   [ documentos/m10.txt | 2 ]   [ documentos/m15.txt | 1 ]   [ documentos/m21.txt | 2 ]   [ documentos/m22.txt | 1 ]   [ documentos/m30.txt | 5 ]   [ documentos/m42.txt | 2 ] 
+
+4107  claim  [ documentos/m11.txt | 1 ] 
+
+4111  facing  [ documentos/m18.txt | 1 ] 
+
+4112  song  [ documentos/m01.txt | 2 ]   [ documentos/m15.txt | 2 ]   [ documentos/m22.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m33.txt | 1 ] 
+
+4113  metal  [ documentos/m03.txt | 1 ] 
+
+4119  bones  [ documentos/m13.txt | 1 ]   [ documentos/m19.txt | 1 ] 
+
+4120  harmony  [ documentos/m01.txt | 1 ] 
+
+4124  cut  [ documentos/m11.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m32.txt | 8 ] 
+
+4133  diamonds  [ documentos/m09.txt | 1 ] 
+
+4134  mail  [ documentos/m32.txt | 8 ] 
+
+4135  mind's  [ documentos/m27.txt | 1 ] 
+
+4136  stage  [ documentos/m01.txt | 1 ] 
+
+4137  snow  [ documentos/m45.txt | 6 ] 
+
+4138  bravely  [ documentos/m09.txt | 2 ] 
+
+4139  kid  [ documentos/m29.txt | 2 ]   [ documentos/m41.txt | 1 ] 
+
+4142  flood  [ documentos/m34.txt | 1 ] 
+
+4145  lost  [ documentos/m01.txt | 1 ]   [ documentos/m05.txt | 1 ]   [ documentos/m30.txt | 1 ]   [ documentos/m33.txt | 1 ] 
+
+4150  pawn  [ documentos/m31.txt | 1 ] 
+
+4162  over  [ documentos/m11.txt | 2 ]   [ documentos/m25.txt | 1 ]   [ documentos/m30.txt | 2 ]   [ documentos/m34.txt | 2 ]   [ documentos/m35.txt | 1 ] 
+
+4168  can  [ documentos/m07.txt | 6 ]   [ documentos/m08.txt | 4 ]   [ documentos/m09.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m30.txt | 3 ]   [ documentos/m34.txt | 1 ]   [ documentos/m38.txt | 5 ]   [ documentos/m41.txt | 1 ]   [ documentos/m42.txt | 3 ]   [ documentos/m43.txt | 1 ]   [ documentos/m48.txt | 2 ]   [ documentos/m49.txt | 7 ]   [ documentos/m50.txt | 7 ] 
+
+4179  main  [ documentos/m31.txt | 1 ] 
+
+4183  come  [ documentos/m03.txt | 1 ]   [ documentos/m05.txt | 1 ]   [ documentos/m07.txt | 3 ]   [ documentos/m08.txt | 5 ]   [ documentos/m10.txt | 3 ]   [ documentos/m14.txt | 3 ]   [ documentos/m20.txt | 2 ]   [ documentos/m21.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m24.txt | 1 ]   [ documentos/m26.txt | 1 ]   [ documentos/m35.txt | 4 ]   [ documentos/m43.txt | 6 ]   [ documentos/m45.txt | 7 ]   [ documentos/m48.txt | 3 ] 
+
+4186  tomorrow  [ documentos/m01.txt | 1 ]   [ documentos/m17.txt | 2 ] 
+
+4187  flying  [ documentos/m25.txt | 1 ] 
+
+4196  sights  [ documentos/m29.txt | 1 ] 
+
+4199  eleven  [ documentos/m03.txt | 1 ] 
+
+4201  hooked  [ documentos/m37.txt | 1 ] 
+
+4212  shin  [ documentos/m43.txt | 2 ] 
+
+4214  sailors  [ documentos/m37.txt | 2 ] 
+
+4219  sometimes  [ documentos/m01.txt | 3 ]   [ documentos/m11.txt | 2 ]   [ documentos/m42.txt | 1 ] 
+
+4224  used  [ documentos/m11.txt | 2 ]   [ documentos/m41.txt | 3 ]   [ documentos/m42.txt | 1 ] 
+
+4227  drone  [ documentos/m05.txt | 2 ] 
+
+4233  lam  [ documentos/m18.txt | 1 ] 
+
+4240  sitting  [ documentos/m01.txt | 1 ]   [ documentos/m33.txt | 1 ] 
+
+4242  living  [ documentos/m01.txt | 1 ]   [ documentos/m08.txt | 2 ]   [ documentos/m28.txt | 1 ]   [ documentos/m43.txt | 2 ] 
+
+4249  ignorance  [ documentos/m13.txt | 1 ] 
+
+4252  friend  [ documentos/m12.txt | 1 ]   [ documentos/m24.txt | 3 ]   [ documentos/m33.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m37.txt | 1 ]   [ documentos/m43.txt | 2 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 1 ] 
+
+4253  him  [ documentos/m29.txt | 1 ]   [ documentos/m36.txt | 3 ]   [ documentos/m48.txt | 2 ] 
+
+4257  ship  [ documentos/m02.txt | 2 ] 
+
+4263  shattered  [ documentos/m21.txt | 1 ]   [ documentos/m41.txt | 3 ] 
+
+4266  taken  [ documentos/m12.txt | 3 ] 
+
+4267  surprise  [ documentos/m44.txt | 3 ] 
+
+4272  news  [ documentos/m01.txt | 1 ]   [ documentos/m07.txt | 6 ] 
+
+4274  mystery  [ documentos/m01.txt | 1 ] 
+
+4276  splits  [ documentos/m17.txt | 1 ] 
+
+4293  avenue  [ documentos/m01.txt | 1 ] 
+
+4298  papa  [ documentos/m03.txt | 1 ] 
+
+4299  well  [ documentos/m10.txt | 2 ]   [ documentos/m11.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m24.txt | 5 ]   [ documentos/m27.txt | 2 ]   [ documentos/m28.txt | 3 ]   [ documentos/m29.txt | 1 ]   [ documentos/m39.txt | 3 ]   [ documentos/m41.txt | 1 ]   [ documentos/m45.txt | 1 ]   [ documentos/m46.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+4304  tonight  [ documentos/m06.txt | 1 ]   [ documentos/m08.txt | 2 ]   [ documentos/m10.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m26.txt | 2 ]   [ documentos/m31.txt | 5 ]   [ documentos/m33.txt | 2 ]   [ documentos/m48.txt | 1 ] 
+
+4314  drug  [ documentos/m15.txt | 1 ] 
+
+4318  weight  [ documentos/m43.txt | 1 ] 
+
+4319  sensitivity  [ documentos/m01.txt | 1 ] 
+
+4321  skyline  [ documentos/m42.txt | 1 ] 
+
+4325  hero  [ documentos/m36.txt | 8 ] 
+
+4326  defunkt  [ documentos/m43.txt | 2 ] 
+
+4327  'n'  [ documentos/m48.txt | 1 ] 
+
+4328  fools  [ documentos/m37.txt | 1 ] 
+
+4329  neck  [ documentos/m15.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+4330  hang  [ documentos/m06.txt | 1 ]   [ documentos/m12.txt | 1 ] 
+
+4331  bounds  [ documentos/m37.txt | 1 ] 
+
+4332  fun  [ documentos/m14.txt | 6 ]   [ documentos/m50.txt | 1 ] 
+
+4335  advances  [ documentos/m15.txt | 1 ] 
+
+4340  t  [ documentos/m44.txt | 1 ] 
+
+4345  wish  [ documentos/m30.txt | 8 ]   [ documentos/m33.txt | 1 ]   [ documentos/m50.txt | 2 ] 
+
+4348  low  [ documentos/m01.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+4350  flash  [ documentos/m09.txt | 1 ]   [ documentos/m18.txt | 1 ] 
+
+4357  vacation  [ documentos/m27.txt | 1 ] 
+
+4361  spaceman  [ documentos/m11.txt | 5 ] 
+
+4370  let  [ documentos/m01.txt | 3 ]   [ documentos/m02.txt | 2 ]   [ documentos/m17.txt | 2 ]   [ documentos/m18.txt | 7 ]   [ documentos/m22.txt | 3 ]   [ documentos/m23.txt | 2 ]   [ documentos/m24.txt | 1 ]   [ documentos/m34.txt | 3 ]   [ documentos/m45.txt | 2 ]   [ documentos/m48.txt | 9 ] 
+
+4373  from  [ documentos/m01.txt | 1 ]   [ documentos/m02.txt | 2 ]   [ documentos/m11.txt | 4 ]   [ documentos/m14.txt | 1 ]   [ documentos/m17.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m20.txt | 3 ]   [ documentos/m27.txt | 3 ]   [ documentos/m30.txt | 4 ]   [ documentos/m31.txt | 1 ]   [ documentos/m37.txt | 1 ]   [ documentos/m42.txt | 2 ]   [ documentos/m43.txt | 2 ]   [ documentos/m45.txt | 2 ]   [ documentos/m46.txt | 4 ]   [ documentos/m49.txt | 1 ] 
+
+4380  bite  [ documentos/m21.txt | 2 ]   [ documentos/m31.txt | 1 ] 
+
+4387  warm  [ documentos/m22.txt | 1 ] 
+
+4405  pressing  [ documentos/m17.txt | 1 ] 
+
+4406  china  [ documentos/m27.txt | 1 ]   [ documentos/m34.txt | 1 ] 
+
+4407  catorce  [ documentos/m50.txt | 1 ] 
+
+4410  revelation  [ documentos/m01.txt | 1 ] 
+
+4411  is  [ documentos/m01.txt | 3 ]   [ documentos/m02.txt | 2 ]   [ documentos/m05.txt | 1 ]   [ documentos/m10.txt | 7 ]   [ documentos/m12.txt | 12 ]   [ documentos/m13.txt | 2 ]   [ documentos/m14.txt | 1 ]   [ documentos/m15.txt | 3 ]   [ documentos/m16.txt | 1 ]   [ documentos/m17.txt | 4 ]   [ documentos/m19.txt | 5 ]   [ documentos/m21.txt | 3 ]   [ documentos/m22.txt | 1 ]   [ documentos/m23.txt | 4 ]   [ documentos/m25.txt | 2 ]   [ documentos/m27.txt | 4 ]   [ documentos/m28.txt | 12 ]   [ documentos/m29.txt | 2 ]   [ documentos/m31.txt | 3 ]   [ documentos/m33.txt | 2 ]   [ documentos/m34.txt | 2 ]   [ documentos/m37.txt | 7 ]   [ documentos/m41.txt | 1 ]   [ documentos/m43.txt | 9 ]   [ documentos/m44.txt | 3 ]   [ documentos/m46.txt | 2 ]   [ documentos/m49.txt | 3 ]   [ documentos/m50.txt | 5 ] 
+
+4412  moonlight  [ documentos/m49.txt | 1 ] 
+
+4416  such  [ documentos/m17.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m31.txt | 1 ] 
+
+4418  word  [ documentos/m17.txt | 1 ]   [ documentos/m25.txt | 2 ]   [ documentos/m29.txt | 1 ] 
+
+4427  what'd'ja  [ documentos/m47.txt | 1 ] 
+
+4429  anymore  [ documentos/m02.txt | 1 ] 
+
+4432  goods  [ documentos/m15.txt | 1 ] 
+
+4433  brightside  [ documentos/m23.txt | 2 ] 
+
+4434  friday  [ documentos/m07.txt | 1 ] 
+
+4436  damn  [ documentos/m07.txt | 3 ]   [ documentos/m41.txt | 1 ] 
+
+4444  oz  [ documentos/m28.txt | 1 ] 
+
+4447  better  [ documentos/m10.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m43.txt | 2 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 1 ] 
+
+4461  improve  [ documentos/m05.txt | 1 ] 
+
+4463  resting  [ documentos/m01.txt | 1 ] 
+
+4465  execution  [ documentos/m09.txt | 3 ] 
+
+4469  mix  [ documentos/m01.txt | 1 ] 
+
+4472  joker  [ documentos/m01.txt | 1 ] 
+
+4474  invasion  [ documentos/m16.txt | 1 ] 
+
+4481  steps  [ documentos/m44.txt | 1 ] 
+
+4483  jive  [ documentos/m48.txt | 1 ] 
+
+4485  change  [ documentos/m17.txt | 1 ]   [ documentos/m30.txt | 1 ]   [ documentos/m32.txt | 8 ] 
+
+4491  for  [ documentos/m01.txt | 9 ]   [ documentos/m03.txt | 5 ]   [ documentos/m07.txt | 6 ]   [ documentos/m10.txt | 2 ]   [ documentos/m13.txt | 1 ]   [ documentos/m14.txt | 6 ]   [ documentos/m15.txt | 2 ]   [ documentos/m16.txt | 3 ]   [ documentos/m17.txt | 2 ]   [ documentos/m20.txt | 7 ]   [ documentos/m21.txt | 5 ]   [ documentos/m22.txt | 3 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 2 ]   [ documentos/m29.txt | 4 ]   [ documentos/m30.txt | 5 ]   [ documentos/m31.txt | 5 ]   [ documentos/m33.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m35.txt | 7 ]   [ documentos/m37.txt | 2 ]   [ documentos/m38.txt | 8 ]   [ documentos/m41.txt | 3 ]   [ documentos/m43.txt | 9 ]   [ documentos/m44.txt | 6 ]   [ documentos/m45.txt | 1 ]   [ documentos/m46.txt | 3 ]   [ documentos/m47.txt | 2 ]   [ documentos/m49.txt | 3 ]   [ documentos/m50.txt | 1 ] 
+
+4494  thrown  [ documentos/m41.txt | 3 ] 
+
+4495  boulevard  [ documentos/m27.txt | 1 ] 
+
+4497  pussy  [ documentos/m05.txt | 1 ] 
+
+4499  senses  [ documentos/m01.txt | 1 ] 
+
+4500  chains  [ documentos/m12.txt | 1 ] 
+
+4502  blew  [ documentos/m25.txt | 2 ] 
+
+4507  present  [ documentos/m14.txt | 1 ] 
+
+4514  thing  [ documentos/m11.txt | 1 ]   [ documentos/m33.txt | 2 ]   [ documentos/m42.txt | 4 ] 
+
+4515  across  [ documentos/m25.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+4527  dust  [ documentos/m43.txt | 1 ] 
+
+4528  californication  [ documentos/m27.txt | 16 ] 
+
+4533  kisses  [ documentos/m25.txt | 2 ] 
+
+4543  intelligence  [ documentos/m16.txt | 1 ] 
+
+4545  seat  [ documentos/m37.txt | 1 ] 
+
+4548  silenced  [ documentos/m16.txt | 1 ] 
+
+4551  down  [ documentos/m03.txt | 2 ]   [ documentos/m04.txt | 2 ]   [ documentos/m05.txt | 1 ]   [ documentos/m07.txt | 4 ]   [ documentos/m08.txt | 3 ]   [ documentos/m11.txt | 5 ]   [ documentos/m13.txt | 1 ]   [ documentos/m17.txt | 3 ]   [ documentos/m18.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m25.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m36.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 1 ]   [ documentos/m46.txt | 1 ]   [ documentos/m48.txt | 1 ]   [ documentos/m50.txt | 2 ] 
+
+4552  drag  [ documentos/m10.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m32.txt | 7 ] 
+
+4553  girl  [ documentos/m15.txt | 6 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m31.txt | 3 ]   [ documentos/m37.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+4568  rather  [ documentos/m21.txt | 1 ] 
+
+4571  trod  [ documentos/m09.txt | 1 ] 
+
+4572  bricks  [ documentos/m47.txt | 3 ] 
+
+4574  making  [ documentos/m13.txt | 1 ]   [ documentos/m21.txt | 1 ] 
+
+4575  charge  [ documentos/m32.txt | 8 ] 
+
+4578  we  [ documentos/m01.txt | 7 ]   [ documentos/m08.txt | 3 ]   [ documentos/m09.txt | 1 ]   [ documentos/m10.txt | 5 ]   [ documentos/m13.txt | 1 ]   [ documentos/m14.txt | 3 ]   [ documentos/m15.txt | 4 ]   [ documentos/m16.txt | 1 ]   [ documentos/m17.txt | 3 ]   [ documentos/m26.txt | 21 ]   [ documentos/m30.txt | 2 ]   [ documentos/m31.txt | 1 ]   [ documentos/m33.txt | 7 ]   [ documentos/m38.txt | 13 ]   [ documentos/m40.txt | 4 ]   [ documentos/m41.txt | 1 ]   [ documentos/m42.txt | 3 ]   [ documentos/m45.txt | 2 ]   [ documentos/m46.txt | 2 ]   [ documentos/m47.txt | 6 ]   [ documentos/m48.txt | 2 ] 
+
+4580  bed  [ documentos/m11.txt | 1 ]   [ documentos/m23.txt | 2 ] 
+
+4581  dwell  [ documentos/m11.txt | 1 ] 
+
+4583  in  [ documentos/m01.txt | 12 ]   [ documentos/m02.txt | 6 ]   [ documentos/m03.txt | 9 ]   [ documentos/m05.txt | 3 ]   [ documentos/m07.txt | 10 ]   [ documentos/m08.txt | 3 ]   [ documentos/m09.txt | 13 ]   [ documentos/m10.txt | 3 ]   [ documentos/m11.txt | 12 ]   [ documentos/m12.txt | 3 ]   [ documentos/m13.txt | 9 ]   [ documentos/m15.txt | 6 ]   [ documentos/m17.txt | 1 ]   [ documentos/m18.txt | 5 ]   [ documentos/m20.txt | 4 ]   [ documentos/m21.txt | 1 ]   [ documentos/m22.txt | 2 ]   [ documentos/m23.txt | 2 ]   [ documentos/m24.txt | 1 ]   [ documentos/m25.txt | 1 ]   [ documentos/m27.txt | 3 ]   [ documentos/m28.txt | 2 ]   [ documentos/m29.txt | 6 ]   [ documentos/m30.txt | 3 ]   [ documentos/m31.txt | 5 ]   [ documentos/m33.txt | 2 ]   [ documentos/m34.txt | 7 ]   [ documentos/m35.txt | 2 ]   [ documentos/m37.txt | 6 ]   [ documentos/m38.txt | 8 ]   [ documentos/m40.txt | 6 ]   [ documentos/m42.txt | 3 ]   [ documentos/m43.txt | 7 ]   [ documentos/m44.txt | 7 ]   [ documentos/m45.txt | 4 ]   [ documentos/m46.txt | 2 ]   [ documentos/m47.txt | 21 ]   [ documentos/m48.txt | 7 ]   [ documentos/m49.txt | 3 ] 
+
+4594  not  [ documentos/m02.txt | 2 ]   [ documentos/m05.txt | 1 ]   [ documentos/m09.txt | 10 ]   [ documentos/m10.txt | 3 ]   [ documentos/m13.txt | 17 ]   [ documentos/m15.txt | 2 ]   [ documentos/m16.txt | 3 ]   [ documentos/m19.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m31.txt | 3 ]   [ documentos/m33.txt | 2 ]   [ documentos/m34.txt | 3 ]   [ documentos/m41.txt | 1 ]   [ documentos/m43.txt | 2 ]   [ documentos/m44.txt | 3 ]   [ documentos/m45.txt | 1 ]   [ documentos/m48.txt | 3 ]   [ documentos/m49.txt | 4 ] 
+
+4597  beats  [ documentos/m50.txt | 1 ] 
+
+4601  waging  [ documentos/m27.txt | 1 ] 
+
+4606  britannia  [ documentos/m37.txt | 1 ] 
+
+4612  thirsty  [ documentos/m28.txt | 1 ] 
+
+4614  somehow  [ documentos/m15.txt | 4 ]   [ documentos/m34.txt | 1 ] 
+
+4617  zodiac  [ documentos/m46.txt | 1 ] 
+
+4619  vision  [ documentos/m28.txt | 3 ] 
+
+4620  pull  [ documentos/m39.txt | 1 ] 
+
+4630  belongs  [ documentos/m05.txt | 6 ] 
+
+4631  breeze  [ documentos/m30.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+4641  die  [ documentos/m02.txt | 3 ]   [ documentos/m12.txt | 1 ]   [ documentos/m43.txt | 2 ] 
+
+4643  worn  [ documentos/m41.txt | 1 ] 
+
+4645  gate  [ documentos/m33.txt | 1 ] 
+
+4649  fence  [ documentos/m17.txt | 1 ] 
+
+4653  cousin  [ documentos/m43.txt | 2 ] 
+
+4654  met  [ documentos/m40.txt | 4 ] 
+
+4656  unless  [ documentos/m05.txt | 1 ]   [ documentos/m21.txt | 5 ] 
+
+4661  cash  [ documentos/m31.txt | 1 ] 
+
+4666  frontier  [ documentos/m27.txt | 1 ] 
+
+4668  gods  [ documentos/m43.txt | 1 ] 
+
+4674  fucker  [ documentos/m29.txt | 4 ] 
+
+4678  really  [ documentos/m20.txt | 1 ]   [ documentos/m24.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m29.txt | 4 ]   [ documentos/m41.txt | 1 ]   [ documentos/m45.txt | 3 ] 
+
+4685  relativity  [ documentos/m01.txt | 1 ] 
+
+4690  touching  [ documentos/m23.txt | 2 ] 
+
+4694  warmer  [ documentos/m01.txt | 1 ] 
+
+4695  cheque  [ documentos/m50.txt | 1 ] 
+
+4705  look  [ documentos/m01.txt | 1 ]   [ documentos/m11.txt | 6 ]   [ documentos/m23.txt | 2 ]   [ documentos/m37.txt | 4 ]   [ documentos/m42.txt | 4 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 3 ]   [ documentos/m48.txt | 1 ] 
+
+4706  fight  [ documentos/m18.txt | 1 ] 
+
+4709  ah-ah  [ documentos/m09.txt | 10 ] 
+
+4715  turning  [ documentos/m11.txt | 2 ]   [ documentos/m23.txt | 2 ]   [ documentos/m29.txt | 1 ]   [ documentos/m42.txt | 1 ] 
+
+4717  summer  [ documentos/m40.txt | 4 ] 
+
+4720  brave  [ documentos/m33.txt | 6 ] 
+
+4722  lips  [ documentos/m19.txt | 1 ] 
+
+4723  heartbeat  [ documentos/m40.txt | 2 ] 
+
+4729  knit  [ documentos/m16.txt | 1 ] 
+
+4735  efficient  [ documentos/m16.txt | 1 ] 
+
+4737  territory  [ documentos/m01.txt | 1 ] 
+
+4741  everybody  [ documentos/m11.txt | 5 ]   [ documentos/m18.txt | 1 ] 
+
+4748  see  [ documentos/m01.txt | 4 ]   [ documentos/m07.txt | 1 ]   [ documentos/m09.txt | 1 ]   [ documentos/m20.txt | 3 ]   [ documentos/m25.txt | 3 ]   [ documentos/m28.txt | 1 ]   [ documentos/m29.txt | 8 ]   [ documentos/m31.txt | 5 ]   [ documentos/m34.txt | 7 ]   [ documentos/m37.txt | 1 ]   [ documentos/m39.txt | 1 ]   [ documentos/m41.txt | 3 ]   [ documentos/m42.txt | 1 ]   [ documentos/m44.txt | 6 ]   [ documentos/m45.txt | 3 ]   [ documentos/m46.txt | 2 ]   [ documentos/m48.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+4749  waves  [ documentos/m01.txt | 1 ]   [ documentos/m27.txt | 1 ] 
+
+4750  never  [ documentos/m01.txt | 1 ]   [ documentos/m02.txt | 4 ]   [ documentos/m03.txt | 2 ]   [ documentos/m10.txt | 1 ]   [ documentos/m12.txt | 2 ]   [ documentos/m13.txt | 8 ]   [ documentos/m17.txt | 1 ]   [ documentos/m18.txt | 15 ]   [ documentos/m23.txt | 4 ]   [ documentos/m25.txt | 2 ]   [ documentos/m29.txt | 4 ]   [ documentos/m31.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m44.txt | 3 ] 
+
+4755  understood  [ documentos/m27.txt | 1 ] 
+
+4756  elections  [ documentos/m16.txt | 1 ] 
+
+4760  kiss  [ documentos/m07.txt | 1 ]   [ documentos/m23.txt | 6 ]   [ documentos/m31.txt | 1 ]   [ documentos/m35.txt | 4 ] 
+
+4762  quit  [ documentos/m32.txt | 8 ] 
+
+4765  because  [ documentos/m23.txt | 2 ]   [ documentos/m29.txt | 1 ] 
+
+4767  mickey  [ documentos/m37.txt | 1 ] 
+
+4769  relax  [ documentos/m01.txt | 1 ] 
+
+4774  reason  [ documentos/m34.txt | 1 ] 
+
+4784  tear  [ documentos/m22.txt | 1 ] 
+
+4789  dope  [ documentos/m31.txt | 1 ] 
+
+4790  momma  [ documentos/m03.txt | 1 ]   [ documentos/m22.txt | 3 ] 
+
+4798  passes  [ documentos/m18.txt | 1 ] 
+
+4802  yo  [ documentos/m01.txt | 2 ] 
+
+4805  armies  [ documentos/m16.txt | 1 ] 
+
+4809  infinity  [ documentos/m13.txt | 1 ] 
+
+4812  cat  [ documentos/m48.txt | 1 ] 
+
+4822  constellation  [ documentos/m27.txt | 1 ]   [ documentos/m33.txt | 1 ] 
+
+4823  ride  [ documentos/m08.txt | 1 ]   [ documentos/m33.txt | 3 ]   [ documentos/m45.txt | 1 ] 
+
+4828  expected  [ documentos/m28.txt | 3 ] 
+
+4831  sacrifice  [ documentos/m01.txt | 1 ]   [ documentos/m45.txt | 2 ] 
+
+4834  out'  [ documentos/m17.txt | 2 ] 
+
+4835  maybe  [ documentos/m33.txt | 2 ]   [ documentos/m43.txt | 1 ] 
+
+4838  gettin'  [ documentos/m03.txt | 2 ] 
+
+4857  star's  [ documentos/m09.txt | 2 ] 
+
+4859  workers  [ documentos/m37.txt | 1 ] 
+
+4863  gender  [ documentos/m43.txt | 1 ] 
+
+4869  caring  [ documentos/m17.txt | 1 ] 
+
+4872  fine  [ documentos/m11.txt | 2 ]   [ documentos/m23.txt | 2 ]   [ documentos/m33.txt | 2 ]   [ documentos/m44.txt | 2 ] 
+
+4887  cliche  [ documentos/m28.txt | 3 ] 
+
+4889  don't  [ documentos/m07.txt | 6 ]   [ documentos/m10.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m17.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m21.txt | 6 ]   [ documentos/m22.txt | 2 ]   [ documentos/m24.txt | 9 ]   [ documentos/m25.txt | 14 ]   [ documentos/m26.txt | 7 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 2 ]   [ documentos/m33.txt | 3 ]   [ documentos/m34.txt | 9 ]   [ documentos/m36.txt | 1 ]   [ documentos/m39.txt | 1 ]   [ documentos/m42.txt | 2 ]   [ documentos/m43.txt | 3 ]   [ documentos/m44.txt | 2 ]   [ documentos/m46.txt | 6 ]   [ documentos/m47.txt | 6 ]   [ documentos/m48.txt | 1 ] 
+
+4895  we'll  [ documentos/m08.txt | 1 ] 
+
+4896  his  [ documentos/m09.txt | 2 ]   [ documentos/m18.txt | 2 ]   [ documentos/m23.txt | 2 ]   [ documentos/m24.txt | 3 ]   [ documentos/m48.txt | 1 ] 
+
+4901  shop  [ documentos/m31.txt | 1 ] 
+
+4902  resolve  [ documentos/m44.txt | 1 ] 
+
+4908  v  [ documentos/m01.txt | 4 ] 
+
+4910  december  [ documentos/m33.txt | 1 ] 
+
+4912  defective  [ documentos/m28.txt | 1 ] 
+
+4913  choose  [ documentos/m01.txt | 1 ]   [ documentos/m12.txt | 1 ]   [ documentos/m43.txt | 2 ] 
+
+4914  justify  [ documentos/m11.txt | 1 ] 
+
+4916  now  [ documentos/m01.txt | 2 ]   [ documentos/m03.txt | 1 ]   [ documentos/m04.txt | 9 ]   [ documentos/m05.txt | 6 ]   [ documentos/m08.txt | 2 ]   [ documentos/m10.txt | 2 ]   [ documentos/m11.txt | 1 ]   [ documentos/m15.txt | 5 ]   [ documentos/m20.txt | 1 ]   [ documentos/m22.txt | 2 ]   [ documentos/m23.txt | 8 ]   [ documentos/m24.txt | 1 ]   [ documentos/m29.txt | 6 ]   [ documentos/m34.txt | 3 ]   [ documentos/m35.txt | 3 ]   [ documentos/m36.txt | 1 ]   [ documentos/m37.txt | 2 ]   [ documentos/m40.txt | 2 ]   [ documentos/m41.txt | 1 ]   [ documentos/m42.txt | 3 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 5 ]   [ documentos/m46.txt | 2 ]   [ documentos/m49.txt | 3 ] 
+
+4918  same  [ documentos/m10.txt | 4 ]   [ documentos/m13.txt | 2 ]   [ documentos/m30.txt | 4 ]   [ documentos/m39.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+4920  face  [ documentos/m05.txt | 2 ]   [ documentos/m13.txt | 2 ]   [ documentos/m20.txt | 1 ]   [ documentos/m25.txt | 2 ] 
+
+4926  birth  [ documentos/m43.txt | 1 ] 
+
+4927  breeds  [ documentos/m27.txt | 1 ] 
+
+4935  holding  [ documentos/m10.txt | 1 ] 
+
+4938  net  [ documentos/m44.txt | 2 ] 
+
+4939  indecision  [ documentos/m35.txt | 1 ] 
+
+4950  actor  [ documentos/m01.txt | 1 ] 
+
+4952  stick  [ documentos/m28.txt | 1 ] 
+
+4953  jay  [ documentos/m41.txt | 1 ] 
+
+4958  animator  [ documentos/m03.txt | 1 ] 
+
+4964  didn't  [ documentos/m12.txt | 1 ]   [ documentos/m44.txt | 2 ]   [ documentos/m48.txt | 2 ]   [ documentos/m50.txt | 2 ] 
+
+4965  at  [ documentos/m01.txt | 1 ]   [ documentos/m07.txt | 6 ]   [ documentos/m09.txt | 4 ]   [ documentos/m11.txt | 3 ]   [ documentos/m24.txt | 4 ]   [ documentos/m25.txt | 6 ]   [ documentos/m27.txt | 1 ]   [ documentos/m34.txt | 2 ]   [ documentos/m37.txt | 4 ]   [ documentos/m41.txt | 1 ]   [ documentos/m45.txt | 1 ]   [ documentos/m47.txt | 3 ]   [ documentos/m50.txt | 4 ] 
+
+4977  close  [ documentos/m04.txt | 5 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+4981  smart  [ documentos/m33.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+4992  ruthless  [ documentos/m16.txt | 1 ] 
+
+4996  keep  [ documentos/m08.txt | 2 ]   [ documentos/m13.txt | 7 ]   [ documentos/m17.txt | 1 ]   [ documentos/m22.txt | 3 ]   [ documentos/m24.txt | 1 ]   [ documentos/m33.txt | 2 ]   [ documentos/m39.txt | 2 ]   [ documentos/m46.txt | 2 ] 
+
+5008  helps  [ documentos/m46.txt | 2 ] 
+
+5009  started  [ documentos/m11.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m42.txt | 1 ] 
+
+5016  smoke  [ documentos/m20.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m35.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+5027  tres  [ documentos/m50.txt | 1 ] 
+
+5031  pain  [ documentos/m07.txt | 1 ]   [ documentos/m09.txt | 1 ]   [ documentos/m12.txt | 3 ]   [ documentos/m30.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+5043  kill  [ documentos/m05.txt | 2 ] 
+
+5047  floor  [ documentos/m11.txt | 1 ]   [ documentos/m17.txt | 1 ] 
+
+5048  spinning  [ documentos/m13.txt | 2 ]   [ documentos/m14.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+5050  mountain  [ documentos/m42.txt | 1 ] 
+
+5051  live  [ documentos/m01.txt | 1 ]   [ documentos/m02.txt | 2 ]   [ documentos/m06.txt | 2 ]   [ documentos/m11.txt | 1 ]   [ documentos/m42.txt | 1 ] 
+
+5054  unlock  [ documentos/m32.txt | 5 ] 
+
+5062  human  [ documentos/m05.txt | 1 ]   [ documentos/m16.txt | 1 ] 
+
+5066  green  [ documentos/m30.txt | 1 ]   [ documentos/m34.txt | 1 ] 
+
+5068  plug  [ documentos/m32.txt | 7 ] 
+
+5075  saving  [ documentos/m03.txt | 1 ] 
+
+5076  cried  [ documentos/m09.txt | 3 ] 
+
+5077  by  [ documentos/m08.txt | 3 ]   [ documentos/m11.txt | 1 ]   [ documentos/m16.txt | 3 ]   [ documentos/m18.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m31.txt | 8 ]   [ documentos/m34.txt | 1 ]   [ documentos/m44.txt | 5 ]   [ documentos/m45.txt | 3 ]   [ documentos/m46.txt | 1 ]   [ documentos/m47.txt | 2 ] 
+
+5078  cruise  [ documentos/m01.txt | 1 ] 
+
+5079  catch  [ documentos/m08.txt | 1 ]   [ documentos/m44.txt | 2 ] 
+
+5082  shark  [ documentos/m31.txt | 1 ] 
+
+5089  punished  [ documentos/m05.txt | 1 ] 
+
+5092  speak  [ documentos/m01.txt | 4 ] 
+
+5098  beneath  [ documentos/m31.txt | 3 ]   [ documentos/m45.txt | 3 ] 
+
+5100  takes  [ documentos/m17.txt | 2 ]   [ documentos/m23.txt | 2 ] 
+
+5106  dying  [ documentos/m19.txt | 2 ] 
+
+5107  side  [ documentos/m03.txt | 1 ]   [ documentos/m08.txt | 2 ]   [ documentos/m20.txt | 1 ] 
+
+5121  rock  [ documentos/m15.txt | 2 ]   [ documentos/m48.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+5122  secrets  [ documentos/m13.txt | 1 ] 
+
+5123  impression  [ documentos/m11.txt | 1 ] 
+
+5126  dog  [ documentos/m01.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m37.txt | 1 ] 
+
+5131  cracked  [ documentos/m41.txt | 1 ] 
+
+5132  of  [ documentos/m01.txt | 11 ]   [ documentos/m02.txt | 3 ]   [ documentos/m03.txt | 4 ]   [ documentos/m07.txt | 4 ]   [ documentos/m09.txt | 17 ]   [ documentos/m12.txt | 11 ]   [ documentos/m13.txt | 9 ]   [ documentos/m14.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m16.txt | 6 ]   [ documentos/m17.txt | 4 ]   [ documentos/m18.txt | 6 ]   [ documentos/m19.txt | 2 ]   [ documentos/m21.txt | 5 ]   [ documentos/m22.txt | 4 ]   [ documentos/m23.txt | 2 ]   [ documentos/m24.txt | 1 ]   [ documentos/m25.txt | 1 ]   [ documentos/m27.txt | 20 ]   [ documentos/m28.txt | 4 ]   [ documentos/m29.txt | 4 ]   [ documentos/m31.txt | 2 ]   [ documentos/m34.txt | 4 ]   [ documentos/m35.txt | 3 ]   [ documentos/m36.txt | 2 ]   [ documentos/m37.txt | 2 ]   [ documentos/m39.txt | 2 ]   [ documentos/m41.txt | 2 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 11 ]   [ documentos/m44.txt | 2 ]   [ documentos/m45.txt | 6 ]   [ documentos/m46.txt | 11 ]   [ documentos/m47.txt | 1 ]   [ documentos/m48.txt | 1 ]   [ documentos/m49.txt | 16 ]   [ documentos/m50.txt | 6 ] 
+
+5136  bombs  [ documentos/m11.txt | 1 ] 
+
+5138  beating  [ documentos/m37.txt | 2 ] 
+
+5139  writ  [ documentos/m37.txt | 1 ] 
+
+5149  god-awful  [ documentos/m37.txt | 1 ] 
+
+5153  sedatives  [ documentos/m09.txt | 1 ] 
+
+5154  fascination  [ documentos/m33.txt | 1 ] 
+
+5158  defrost  [ documentos/m01.txt | 1 ] 
+
+5162  pot  [ documentos/m41.txt | 1 ] 
+
+5167  systems  [ documentos/m11.txt | 1 ] 
+
+5173  tug  [ documentos/m15.txt | 1 ] 
+
+5176  more  [ documentos/m03.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m17.txt | 2 ]   [ documentos/m21.txt | 1 ]   [ documentos/m24.txt | 2 ]   [ documentos/m26.txt | 28 ]   [ documentos/m29.txt | 4 ]   [ documentos/m37.txt | 2 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 5 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 6 ]   [ documentos/m49.txt | 2 ] 
+
+5180  electrify  [ documentos/m02.txt | 1 ] 
+
+5192  remember  [ documentos/m01.txt | 2 ] 
+
+5193  girlfriends  [ documentos/m22.txt | 1 ] 
+
+5194  plains  [ documentos/m25.txt | 1 ] 
+
+5200  color  [ documentos/m33.txt | 2 ] 
+
+5204  nothing  [ documentos/m01.txt | 1 ]   [ documentos/m07.txt | 3 ]   [ documentos/m10.txt | 1 ]   [ documentos/m21.txt | 5 ]   [ documentos/m24.txt | 1 ]   [ documentos/m29.txt | 4 ] 
+
+5209  driving  [ documentos/m19.txt | 2 ] 
+
+5214  calm  [ documentos/m47.txt | 1 ] 
+
+5236  them  [ documentos/m07.txt | 2 ]   [ documentos/m36.txt | 2 ]   [ documentos/m47.txt | 5 ] 
+
+5241  usda  [ documentos/m07.txt | 1 ] 
+
+5242  generation  [ documentos/m43.txt | 1 ] 
+
+5245  cold  [ documentos/m01.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m30.txt | 2 ]   [ documentos/m44.txt | 1 ] 
+
+5248  jesus  [ documentos/m10.txt | 1 ]   [ documentos/m42.txt | 4 ]   [ documentos/m50.txt | 1 ] 
+
+5249  chance  [ documentos/m17.txt | 2 ]   [ documentos/m29.txt | 4 ]   [ documentos/m41.txt | 1 ]   [ documentos/m45.txt | 1 ] 
+
+5254  wander  [ documentos/m50.txt | 1 ] 
+
+5257  arms  [ documentos/m02.txt | 6 ]   [ documentos/m47.txt | 1 ] 
+
+5260  new  [ documentos/m01.txt | 3 ]   [ documentos/m06.txt | 2 ]   [ documentos/m12.txt | 2 ]   [ documentos/m43.txt | 1 ] 
+
+5271  teaching  [ documentos/m50.txt | 2 ] 
+
+5276  thank  [ documentos/m30.txt | 1 ] 
+
+5277  machine  [ documentos/m05.txt | 1 ]   [ documentos/m16.txt | 1 ] 
+
+5279  supersoaker  [ documentos/m25.txt | 2 ] 
+
+5281  robbin'  [ documentos/m03.txt | 1 ] 
+
+5285  shades  [ documentos/m01.txt | 1 ] 
+
+5297  stormy  [ documentos/m44.txt | 1 ] 
+
+5305  consequence  [ documentos/m36.txt | 2 ] 
+
+5307  want  [ documentos/m09.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m14.txt | 1 ]   [ documentos/m15.txt | 3 ]   [ documentos/m18.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m38.txt | 5 ]   [ documentos/m43.txt | 2 ]   [ documentos/m46.txt | 6 ]   [ documentos/m50.txt | 1 ] 
+
+5308  again  [ documentos/m06.txt | 7 ]   [ documentos/m10.txt | 1 ]   [ documentos/m12.txt | 2 ]   [ documentos/m13.txt | 1 ]   [ documentos/m37.txt | 2 ]   [ documentos/m44.txt | 3 ]   [ documentos/m49.txt | 1 ] 
+
+5312  scream  [ documentos/m05.txt | 2 ] 
+
+5321  water  [ documentos/m42.txt | 1 ] 
+
+5326  location  [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 2 ] 
+
+5328  miss  [ documentos/m25.txt | 5 ] 
+
+5332  aside  [ documentos/m09.txt | 2 ] 
+
+5333  swimming  [ documentos/m23.txt | 2 ] 
+
+5337  uh  [ documentos/m10.txt | 3 ] 
+
+5338  plus  [ documentos/m01.txt | 5 ] 
+
+5340  priestess  [ documentos/m03.txt | 4 ] 
+
+5350  killer  [ documentos/m05.txt | 4 ] 
+
+5354  questions  [ documentos/m05.txt | 1 ] 
+
+5355  disguise  [ documentos/m29.txt | 3 ] 
+
+5361  gunning  [ documentos/m03.txt | 1 ] 
+
+5363  dress  [ documentos/m23.txt | 2 ] 
+
+5367  spin  [ documentos/m33.txt | 1 ] 
+
+5370  sets  [ documentos/m29.txt | 1 ] 
+
+5380  badlands  [ documentos/m03.txt | 1 ] 
+
+5381  horizon  [ documentos/m44.txt | 1 ] 
+
+5382  without  [ documentos/m05.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m12.txt | 1 ] 
+
+5383  make  [ documentos/m01.txt | 1 ]   [ documentos/m05.txt | 6 ]   [ documentos/m10.txt | 5 ]   [ documentos/m11.txt | 6 ]   [ documentos/m12.txt | 1 ]   [ documentos/m15.txt | 6 ]   [ documentos/m19.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 1 ]   [ documentos/m49.txt | 3 ] 
+
+5385  warmth  [ documentos/m21.txt | 1 ] 
+
+5389  own  [ documentos/m05.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 1 ] 
+
+5390  rearranger  [ documentos/m33.txt | 1 ] 
+
+5392  kissed  [ documentos/m31.txt | 7 ] 
+
+5393  hush  [ documentos/m22.txt | 2 ] 
+
+5395  marry  [ documentos/m27.txt | 1 ] 
+
+5397  saying  [ documentos/m01.txt | 1 ] 
+
+5398  other  [ documentos/m03.txt | 1 ]   [ documentos/m07.txt | 2 ]   [ documentos/m10.txt | 6 ]   [ documentos/m24.txt | 1 ]   [ documentos/m34.txt | 2 ]   [ documentos/m43.txt | 1 ] 
+
+5399  phase  [ documentos/m48.txt | 1 ] 
+
+5403  her  [ documentos/m03.txt | 1 ]   [ documentos/m15.txt | 4 ]   [ documentos/m22.txt | 2 ]   [ documentos/m23.txt | 2 ]   [ documentos/m24.txt | 3 ]   [ documentos/m31.txt | 2 ]   [ documentos/m34.txt | 2 ]   [ documentos/m37.txt | 6 ]   [ documentos/m43.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+5407  window  [ documentos/m21.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+5410  cosmic  [ documentos/m48.txt | 1 ] 
+
+5414  fires  [ documentos/m34.txt | 1 ] 
+
+5423  destruction  [ documentos/m27.txt | 1 ] 
+
+5424  waiting  [ documentos/m20.txt | 1 ]   [ documentos/m31.txt | 6 ]   [ documentos/m35.txt | 1 ]   [ documentos/m39.txt | 14 ]   [ documentos/m42.txt | 2 ]   [ documentos/m48.txt | 6 ] 
+
+5425  girl's  [ documentos/m24.txt | 1 ]   [ documentos/m27.txt | 1 ] 
+
+5428  buried  [ documentos/m13.txt | 1 ]   [ documentos/m16.txt | 1 ] 
+
+5430  foretold  [ documentos/m44.txt | 1 ] 
+
+5436  least  [ documentos/m21.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+5439  blame  [ documentos/m10.txt | 1 ] 
+
+5446  stays  [ documentos/m33.txt | 1 ] 
+
+5447  paste  [ documentos/m32.txt | 8 ] 
+
+5450  conspiracy  [ documentos/m16.txt | 1 ] 
+
+5451  doing  [ documentos/m21.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m24.txt | 1 ] 
+
+5466  satellites  [ documentos/m11.txt | 1 ] 
+
+5476  dreams  [ documentos/m27.txt | 1 ]   [ documentos/m41.txt | 2 ] 
+
+5479  crawl  [ documentos/m10.txt | 1 ] 
+
+5485  building  [ documentos/m16.txt | 1 ]   [ documentos/m17.txt | 1 ] 
+
+5495  record  [ documentos/m46.txt | 1 ] 
+
+5499  east  [ documentos/m11.txt | 2 ]   [ documentos/m27.txt | 1 ] 
+
+5502  boys  [ documentos/m07.txt | 2 ]   [ documentos/m50.txt | 1 ] 
+
+5503  spit  [ documentos/m37.txt | 1 ] 
+
+5506  they  [ documentos/m07.txt | 1 ]   [ documentos/m11.txt | 7 ]   [ documentos/m13.txt | 5 ]   [ documentos/m15.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m30.txt | 2 ]   [ documentos/m37.txt | 1 ]   [ documentos/m38.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 3 ]   [ documentos/m47.txt | 2 ]   [ documentos/m50.txt | 4 ] 
+
+5510  war  [ documentos/m05.txt | 2 ]   [ documentos/m21.txt | 8 ]   [ documentos/m27.txt | 1 ]   [ documentos/m30.txt | 1 ]   [ documentos/m44.txt | 1 ] 
+
+5521  lay  [ documentos/m07.txt | 1 ]   [ documentos/m19.txt | 2 ]   [ documentos/m25.txt | 1 ]   [ documentos/m45.txt | 2 ] 
+
+5522  dinero  [ documentos/m24.txt | 2 ] 
+
+5526  psychic  [ documentos/m27.txt | 2 ] 
+
+5529  sir  [ documentos/m05.txt | 8 ] 
+
+5539  skin  [ documentos/m07.txt | 3 ]   [ documentos/m27.txt | 1 ]   [ documentos/m31.txt | 1 ] 
+
+5540  ground  [ documentos/m09.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m30.txt | 2 ]   [ documentos/m34.txt | 1 ] 
+
+5546  scene  [ documentos/m21.txt | 1 ]   [ documentos/m29.txt | 1 ] 
+
+5547  destination  [ documentos/m34.txt | 1 ] 
+
+5551  young  [ documentos/m41.txt | 1 ]   [ documentos/m42.txt | 6 ]   [ documentos/m49.txt | 1 ] 
+
+5552  storm  [ documentos/m35.txt | 1 ] 
+
+5554  rail  [ documentos/m30.txt | 1 ] 
+
+5559  knew  [ documentos/m01.txt | 3 ]   [ documentos/m03.txt | 3 ]   [ documentos/m11.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m29.txt | 3 ]   [ documentos/m43.txt | 2 ] 
+
+5562  web  [ documentos/m44.txt | 1 ] 
+
+5567  hands  [ documentos/m24.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+5571  yes  [ documentos/m25.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+5578  need  [ documentos/m07.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m12.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m26.txt | 2 ]   [ documentos/m28.txt | 1 ]   [ documentos/m34.txt | 3 ]   [ documentos/m38.txt | 2 ]   [ documentos/m43.txt | 4 ]   [ documentos/m45.txt | 4 ]   [ documentos/m47.txt | 8 ] 
+
+5582  follow  [ documentos/m20.txt | 1 ] 
+
+5595  coded  [ documentos/m33.txt | 2 ] 
+
+5596  together  [ documentos/m01.txt | 1 ]   [ documentos/m40.txt | 2 ] 
+
+5599  rain  [ documentos/m15.txt | 5 ] 
+
+5600  no-one  [ documentos/m50.txt | 1 ] 
+
+5603  home  [ documentos/m06.txt | 1 ]   [ documentos/m08.txt | 12 ]   [ documentos/m09.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m24.txt | 2 ]   [ documentos/m25.txt | 1 ]   [ documentos/m28.txt | 3 ]   [ documentos/m41.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+5604  uno  [ documentos/m50.txt | 2 ] 
+
+5606  haven't  [ documentos/m01.txt | 1 ] 
+
+5607  stunner  [ documentos/m03.txt | 1 ] 
+
+5622  barrel  [ documentos/m03.txt | 1 ] 
+
+5623  your  [ documentos/m01.txt | 2 ]   [ documentos/m03.txt | 9 ]   [ documentos/m04.txt | 2 ]   [ documentos/m05.txt | 12 ]   [ documentos/m08.txt | 2 ]   [ documentos/m09.txt | 9 ]   [ documentos/m10.txt | 3 ]   [ documentos/m11.txt | 5 ]   [ documentos/m12.txt | 5 ]   [ documentos/m13.txt | 12 ]   [ documentos/m14.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m18.txt | 6 ]   [ documentos/m19.txt | 5 ]   [ documentos/m20.txt | 5 ]   [ documentos/m21.txt | 7 ]   [ documentos/m22.txt | 3 ]   [ documentos/m23.txt | 2 ]   [ documentos/m24.txt | 1 ]   [ documentos/m27.txt | 5 ]   [ documentos/m28.txt | 10 ]   [ documentos/m29.txt | 6 ]   [ documentos/m30.txt | 1 ]   [ documentos/m33.txt | 9 ]   [ documentos/m35.txt | 2 ]   [ documentos/m36.txt | 1 ]   [ documentos/m38.txt | 8 ]   [ documentos/m39.txt | 2 ]   [ documentos/m42.txt | 6 ]   [ documentos/m43.txt | 7 ]   [ documentos/m44.txt | 9 ]   [ documentos/m45.txt | 2 ]   [ documentos/m46.txt | 1 ]   [ documentos/m48.txt | 2 ]   [ documentos/m49.txt | 7 ]   [ documentos/m50.txt | 7 ] 
+
+5624  rising  [ documentos/m06.txt | 1 ] 
+
+5629  -  [ documentos/m32.txt | 58 ] 
+
+5634  final  [ documentos/m15.txt | 1 ]   [ documentos/m27.txt | 2 ] 
+
+5635  broken  [ documentos/m12.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m45.txt | 1 ] 
+
+5636  wear  [ documentos/m04.txt | 2 ] 
+
+5637  slow  [ documentos/m33.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+5642  dick  [ documentos/m24.txt | 1 ]   [ documentos/m31.txt | 1 ] 
+
+5643  deceived  [ documentos/m29.txt | 1 ] 
+
+5644  boot  [ documentos/m31.txt | 1 ] 
+
+5645  belly  [ documentos/m43.txt | 1 ] 
+
+5646  amend  [ documentos/m45.txt | 1 ] 
+
+5647  oooo  [ documentos/m22.txt | 4 ] 
+
+5649  everyone  [ documentos/m08.txt | 1 ] 
+
+5650  primarily  [ documentos/m16.txt | 1 ] 
+
+5651  indiana  [ documentos/m03.txt | 1 ] 
+
+5652  those  [ documentos/m11.txt | 2 ]   [ documentos/m27.txt | 1 ]   [ documentos/m37.txt | 2 ] 
+
+5654  meet  [ documentos/m48.txt | 3 ] 
+
+5655  sphere  [ documentos/m16.txt | 1 ] 
+
+5656  god  [ documentos/m01.txt | 1 ]   [ documentos/m07.txt | 1 ] 
+
+5658  said  [ documentos/m15.txt | 3 ]   [ documentos/m18.txt | 1 ]   [ documentos/m28.txt | 2 ]   [ documentos/m42.txt | 1 ]   [ documentos/m45.txt | 2 ]   [ documentos/m48.txt | 1 ] 
+
+5659  three  [ documentos/m15.txt | 1 ] 
+
+5664  fat  [ documentos/m47.txt | 1 ] 
+
+5666  wrong  [ documentos/m09.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m37.txt | 2 ] 
+
+5669  psycho  [ documentos/m05.txt | 13 ] 
+
+5672  resources  [ documentos/m16.txt | 1 ] 
+
+5675  hours  [ documentos/m50.txt | 1 ] 
+
+5678  care  [ documentos/m02.txt | 2 ]   [ documentos/m10.txt | 1 ]   [ documentos/m17.txt | 1 ]   [ documentos/m34.txt | 1 ] 
+
+5681  greatest  [ documentos/m19.txt | 2 ] 
+
+5682  sunlight  [ documentos/m01.txt | 1 ] 
+
+5683  bit  [ documentos/m15.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+5684  awaiting  [ documentos/m49.txt | 1 ] 
+
+5685  hello  [ documentos/m50.txt | 6 ] 
+
+5687  psychopathic  [ documentos/m47.txt | 1 ] 
+
+5688  fears  [ documentos/m22.txt | 1 ]   [ documentos/m30.txt | 2 ] 
+
+5694  maker's  [ documentos/m11.txt | 5 ] 
+
+5697  answers  [ documentos/m43.txt | 1 ] 
+
+5699  who's  [ documentos/m07.txt | 12 ] 
+
+5706  somebody  [ documentos/m09.txt | 2 ]   [ documentos/m43.txt | 1 ] 
+
+5710  play  [ documentos/m10.txt | 1 ]   [ documentos/m19.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m32.txt | 7 ]   [ documentos/m42.txt | 2 ]   [ documentos/m45.txt | 2 ]   [ documentos/m50.txt | 1 ] 
+
+5714  and-  [ documentos/m11.txt | 1 ] 
+
+5717  surrounds  [ documentos/m04.txt | 2 ] 
+
+5722  marching  [ documentos/m13.txt | 1 ] 
+
+5723  trap  [ documentos/m18.txt | 1 ]   [ documentos/m44.txt | 1 ] 
+
+5737  erased  [ documentos/m38.txt | 2 ] 
+
+5747  cool  [ documentos/m30.txt | 1 ] 
+
+5748  there  [ documentos/m01.txt | 1 ]   [ documentos/m03.txt | 1 ]   [ documentos/m08.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m25.txt | 2 ]   [ documentos/m27.txt | 2 ]   [ documentos/m28.txt | 1 ]   [ documentos/m31.txt | 7 ]   [ documentos/m36.txt | 6 ]   [ documentos/m37.txt | 2 ]   [ documentos/m42.txt | 2 ]   [ documentos/m47.txt | 1 ] 
+
+5749  lightning  [ documentos/m29.txt | 4 ] 
+
+5754  villa  [ documentos/m09.txt | 5 ] 
+
+5758  communicator  [ documentos/m43.txt | 1 ] 
+
+5759  oof  [ documentos/m47.txt | 1 ] 
+
+5760  bebop  [ documentos/m43.txt | 1 ] 
+
+5765  be  [ documentos/m01.txt | 2 ]   [ documentos/m02.txt | 1 ]   [ documentos/m05.txt | 2 ]   [ documentos/m08.txt | 12 ]   [ documentos/m10.txt | 1 ]   [ documentos/m12.txt | 2 ]   [ documentos/m15.txt | 2 ]   [ documentos/m22.txt | 2 ]   [ documentos/m23.txt | 2 ]   [ documentos/m25.txt | 2 ]   [ documentos/m27.txt | 3 ]   [ documentos/m28.txt | 1 ]   [ documentos/m31.txt | 6 ]   [ documentos/m33.txt | 3 ]   [ documentos/m37.txt | 2 ]   [ documentos/m40.txt | 2 ]   [ documentos/m41.txt | 4 ]   [ documentos/m43.txt | 7 ]   [ documentos/m45.txt | 3 ]   [ documentos/m50.txt | 4 ] 
+
+5775  flies  [ documentos/m29.txt | 1 ] 
+
+5776  doubt  [ documentos/m01.txt | 1 ] 
+
+5778  try  [ documentos/m01.txt | 1 ]   [ documentos/m07.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m44.txt | 1 ] 
+
+5783  fast  [ documentos/m03.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m44.txt | 5 ] 
+
+5786  eloquently  [ documentos/m01.txt | 4 ] 
+
+5805  may  [ documentos/m27.txt | 2 ]   [ documentos/m33.txt | 1 ]   [ documentos/m48.txt | 2 ] 
+
+5813  ormen  [ documentos/m09.txt | 5 ] 
+
+5815  fields  [ documentos/m34.txt | 1 ] 
+
+5823  celebrity  [ documentos/m27.txt | 1 ] 
+
+5829  goodbye  [ documentos/m03.txt | 1 ]   [ documentos/m28.txt | 1 ] 
+
+5830  born  [ documentos/m03.txt | 1 ]   [ documentos/m09.txt | 2 ]   [ documentos/m12.txt | 2 ]   [ documentos/m27.txt | 4 ]   [ documentos/m28.txt | 1 ]   [ documentos/m39.txt | 1 ] 
+
+5836  rivers  [ documentos/m28.txt | 3 ] 
+
+5838  allowed  [ documentos/m15.txt | 1 ] 
+
+5848  clearest  [ documentos/m37.txt | 1 ] 
+
+5854  midnite  [ documentos/m01.txt | 1 ] 
+
+5859  prozac  [ documentos/m28.txt | 1 ] 
+
+5880  works  [ documentos/m24.txt | 1 ] 
+
+5881  testimony  [ documentos/m07.txt | 1 ] 
+
+5884  someone  [ documentos/m05.txt | 2 ]   [ documentos/m10.txt | 1 ]   [ documentos/m12.txt | 14 ]   [ documentos/m15.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+5885  save  [ documentos/m27.txt | 1 ]   [ documentos/m32.txt | 8 ]   [ documentos/m35.txt | 4 ]   [ documentos/m42.txt | 2 ] 
+
+5904  wives  [ documentos/m47.txt | 1 ] 
+
+5909  scan  [ documentos/m32.txt | 7 ] 
+
+5911  known  [ documentos/m45.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+5915  blind  [ documentos/m01.txt | 1 ]   [ documentos/m17.txt | 1 ] 
+
+5916  break  [ documentos/m03.txt | 1 ]   [ documentos/m05.txt | 3 ]   [ documentos/m07.txt | 8 ]   [ documentos/m12.txt | 2 ]   [ documentos/m22.txt | 2 ]   [ documentos/m27.txt | 2 ]   [ documentos/m32.txt | 8 ] 
+
+5917  household  [ documentos/m07.txt | 1 ] 
+
+5918  strange  [ documentos/m11.txt | 1 ] 
+
+5919  od'd  [ documentos/m41.txt | 1 ] 
+
+5920  education  [ documentos/m47.txt | 2 ] 
+
+5923  round  [ documentos/m07.txt | 3 ]   [ documentos/m08.txt | 2 ]   [ documentos/m18.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+5925  hope  [ documentos/m12.txt | 1 ] 
+
+5926  lies  [ documentos/m29.txt | 3 ] 
+
+5927  blues  [ documentos/m01.txt | 1 ] 
+
+5929  elected  [ documentos/m28.txt | 1 ] 
+
+5932  stopping  [ documentos/m04.txt | 5 ] 
+
+5934  expectations  [ documentos/m02.txt | 4 ] 
+
+5935  pushing  [ documentos/m17.txt | 1 ] 
+
+5939  wanted  [ documentos/m02.txt | 4 ]   [ documentos/m15.txt | 1 ] 
+
+5941  heads  [ documentos/m08.txt | 2 ] 
+
+5943  holdin'  [ documentos/m12.txt | 1 ] 
+
+5947  street  [ documentos/m31.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m41.txt | 2 ] 
+
+5948  high  [ documentos/m08.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m45.txt | 1 ] 
+
+5950  bitch  [ documentos/m24.txt | 1 ] 
+
+5951  memories  [ documentos/m02.txt | 2 ] 
+
+5952  role  [ documentos/m30.txt | 1 ] 
+
+5953  exchange  [ documentos/m30.txt | 1 ] 
+
+5958  shoes  [ documentos/m09.txt | 1 ] 
+
+5960  missed  [ documentos/m31.txt | 7 ] 
+
+5961  sacred  [ documentos/m09.txt | 1 ] 
+
+5970  sparkle  [ documentos/m48.txt | 1 ] 
+
+5973  mousy  [ documentos/m37.txt | 1 ] 
+
+5976  lend  [ documentos/m34.txt | 1 ] 
+
+5979  yeah  [ documentos/m03.txt | 7 ]   [ documentos/m13.txt | 5 ]   [ documentos/m15.txt | 1 ]   [ documentos/m26.txt | 7 ]   [ documentos/m38.txt | 2 ]   [ documentos/m44.txt | 2 ]   [ documentos/m45.txt | 8 ]   [ documentos/m46.txt | 3 ]   [ documentos/m50.txt | 3 ] 
+
+5981  surf  [ documentos/m32.txt | 8 ] 
+
+5989  do  [ documentos/m01.txt | 2 ]   [ documentos/m05.txt | 7 ]   [ documentos/m06.txt | 1 ]   [ documentos/m10.txt | 3 ]   [ documentos/m15.txt | 5 ]   [ documentos/m22.txt | 5 ]   [ documentos/m26.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m30.txt | 1 ]   [ documentos/m33.txt | 2 ]   [ documentos/m38.txt | 3 ]   [ documentos/m43.txt | 2 ]   [ documentos/m45.txt | 3 ]   [ documentos/m46.txt | 9 ] 
+
+5990  flown  [ documentos/m11.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+5991  crying  [ documentos/m35.txt | 1 ]   [ documentos/m49.txt | 3 ] 
+
+5994  command  [ documentos/m05.txt | 2 ]   [ documentos/m07.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+5995  pleading  [ documentos/m13.txt | 1 ] 
+
+5998  ten  [ documentos/m37.txt | 2 ] 
+
+6004  punk  [ documentos/m43.txt | 2 ] 
+
+6006  kneel  [ documentos/m09.txt | 2 ]   [ documentos/m50.txt | 1 ] 
+
+6014  laughs  [ documentos/m17.txt | 1 ] 
+
+6015  drink  [ documentos/m42.txt | 1 ] 
+
+6021  than  [ documentos/m03.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m28.txt | 5 ]   [ documentos/m42.txt | 2 ]   [ documentos/m43.txt | 4 ]   [ documentos/m45.txt | 1 ]   [ documentos/m46.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+6023  hazy  [ documentos/m48.txt | 1 ] 
+
+6026  throw  [ documentos/m05.txt | 1 ] 
+
+6027  everything's  [ documentos/m08.txt | 2 ]   [ documentos/m38.txt | 2 ] 
+
+6031  marquee  [ documentos/m31.txt | 3 ] 
+
+6032  hounds  [ documentos/m38.txt | 1 ] 
+
+6034  strong  [ documentos/m12.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+6049  alderaan's  [ documentos/m27.txt | 1 ] 
+
+6052  after  [ documentos/m20.txt | 1 ]   [ documentos/m30.txt | 1 ]   [ documentos/m34.txt | 1 ] 
+
+6054  rings  [ documentos/m43.txt | 1 ] 
+
+6056  headlined  [ documentos/m16.txt | 1 ] 
+
+6065  late  [ documentos/m10.txt | 1 ]   [ documentos/m26.txt | 1 ]   [ documentos/m33.txt | 1 ] 
+
+6069  shake  [ documentos/m36.txt | 1 ] 
+
+6071  luck  [ documentos/m34.txt | 1 ] 
+
+6075  she  [ documentos/m03.txt | 5 ]   [ documentos/m15.txt | 9 ]   [ documentos/m22.txt | 4 ]   [ documentos/m24.txt | 4 ]   [ documentos/m28.txt | 1 ]   [ documentos/m37.txt | 2 ]   [ documentos/m41.txt | 2 ] 
+
+6095  a  [ documentos/m01.txt | 20 ]   [ documentos/m02.txt | 1 ]   [ documentos/m03.txt | 13 ]   [ documentos/m04.txt | 6 ]   [ documentos/m05.txt | 19 ]   [ documentos/m06.txt | 7 ]   [ documentos/m07.txt | 5 ]   [ documentos/m09.txt | 36 ]   [ documentos/m10.txt | 6 ]   [ documentos/m11.txt | 3 ]   [ documentos/m15.txt | 6 ]   [ documentos/m16.txt | 3 ]   [ documentos/m17.txt | 4 ]   [ documentos/m18.txt | 3 ]   [ documentos/m19.txt | 2 ]   [ documentos/m20.txt | 3 ]   [ documentos/m21.txt | 10 ]   [ documentos/m22.txt | 1 ]   [ documentos/m23.txt | 12 ]   [ documentos/m24.txt | 10 ]   [ documentos/m25.txt | 4 ]   [ documentos/m26.txt | 1 ]   [ documentos/m27.txt | 7 ]   [ documentos/m28.txt | 7 ]   [ documentos/m29.txt | 12 ]   [ documentos/m30.txt | 9 ]   [ documentos/m31.txt | 8 ]   [ documentos/m33.txt | 11 ]   [ documentos/m34.txt | 12 ]   [ documentos/m35.txt | 5 ]   [ documentos/m37.txt | 6 ]   [ documentos/m39.txt | 15 ]   [ documentos/m41.txt | 3 ]   [ documentos/m42.txt | 8 ]   [ documentos/m43.txt | 7 ]   [ documentos/m44.txt | 5 ]   [ documentos/m45.txt | 5 ]   [ documentos/m46.txt | 5 ]   [ documentos/m47.txt | 2 ]   [ documentos/m48.txt | 8 ]   [ documentos/m50.txt | 5 ] 
+
+6096  starting  [ documentos/m12.txt | 1 ]   [ documentos/m44.txt | 1 ] 
+
+6097  dark  [ documentos/m13.txt | 5 ]   [ documentos/m19.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m46.txt | 7 ]   [ documentos/m47.txt | 2 ]   [ documentos/m50.txt | 1 ] 
+
+6098  should  [ documentos/m10.txt | 1 ]   [ documentos/m22.txt | 3 ]   [ documentos/m39.txt | 1 ] 
+
+6099  aye  [ documentos/m05.txt | 8 ] 
+
+6100  kudos  [ documentos/m36.txt | 1 ] 
+
+6101  nothings  [ documentos/m38.txt | 1 ] 
+
+6102  happy  [ documentos/m43.txt | 1 ] 
+
+6107  ashh  [ documentos/m05.txt | 1 ] 
+
+6111  raise  [ documentos/m10.txt | 1 ]   [ documentos/m14.txt | 3 ] 
+
+6121  i'm-a  [ documentos/m09.txt | 1 ] 
+
+6122  tail  [ documentos/m28.txt | 1 ]   [ documentos/m31.txt | 1 ] 
+
+6124  crowd  [ documentos/m01.txt | 1 ]   [ documentos/m09.txt | 1 ]   [ documentos/m15.txt | 2 ] 
+
+6125  wandering  [ documentos/m09.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+6127  stumble  [ documentos/m43.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+6130  cos  [ documentos/m15.txt | 2 ] 
+
+6132  part  [ documentos/m30.txt | 1 ]   [ documentos/m43.txt | 4 ]   [ documentos/m46.txt | 6 ] 
+
+6140  grave  [ documentos/m20.txt | 2 ] 
+
+6153  tidal  [ documentos/m27.txt | 1 ] 
+
+6154  you've  [ documentos/m22.txt | 1 ]   [ documentos/m34.txt | 2 ] 
+
+6155  many  [ documentos/m09.txt | 2 ]   [ documentos/m41.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+6156  that  [ documentos/m01.txt | 11 ]   [ documentos/m02.txt | 1 ]   [ documentos/m03.txt | 1 ]   [ documentos/m06.txt | 1 ]   [ documentos/m11.txt | 5 ]   [ documentos/m12.txt | 2 ]   [ documentos/m13.txt | 8 ]   [ documentos/m15.txt | 1 ]   [ documentos/m16.txt | 2 ]   [ documentos/m17.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m24.txt | 3 ]   [ documentos/m25.txt | 2 ]   [ documentos/m27.txt | 1 ]   [ documentos/m30.txt | 2 ]   [ documentos/m31.txt | 7 ]   [ documentos/m33.txt | 9 ]   [ documentos/m34.txt | 4 ]   [ documentos/m36.txt | 2 ]   [ documentos/m37.txt | 1 ]   [ documentos/m39.txt | 9 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 5 ]   [ documentos/m44.txt | 4 ]   [ documentos/m45.txt | 8 ]   [ documentos/m46.txt | 3 ]   [ documentos/m48.txt | 2 ]   [ documentos/m50.txt | 1 ] 
+
+6159  relies  [ documentos/m16.txt | 1 ] 
+
+6161  dj  [ documentos/m31.txt | 1 ] 
+
+6169  heartache  [ documentos/m42.txt | 2 ] 
+
+6177  skys  [ documentos/m30.txt | 1 ] 
+
+6180  surgeon  [ documentos/m27.txt | 2 ] 
+
+6183  screaming  [ documentos/m17.txt | 2 ]   [ documentos/m28.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+6191  jack  [ documentos/m31.txt | 1 ] 
+
+6192  est  [ documentos/m50.txt | 3 ] 
+
+6193  rest  [ documentos/m03.txt | 4 ]   [ documentos/m27.txt | 1 ]   [ documentos/m36.txt | 1 ] 
+
+6200  terror  [ documentos/m17.txt | 2 ] 
+
+6204  year  [ documentos/m08.txt | 11 ]   [ documentos/m30.txt | 2 ] 
+
+6207  sound  [ documentos/m01.txt | 2 ]   [ documentos/m19.txt | 1 ]   [ documentos/m21.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m40.txt | 2 ]   [ documentos/m48.txt | 1 ] 
+
+6209  bring  [ documentos/m01.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m32.txt | 7 ]   [ documentos/m45.txt | 1 ] 
+
+6212  balls  [ documentos/m22.txt | 1 ] 
+
+6213  burns  [ documentos/m17.txt | 1 ] 
+
+6217  cracking  [ documentos/m17.txt | 1 ] 
+
+6231  just  [ documentos/m02.txt | 5 ]   [ documentos/m03.txt | 1 ]   [ documentos/m05.txt | 1 ]   [ documentos/m09.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m13.txt | 9 ]   [ documentos/m15.txt | 1 ]   [ documentos/m18.txt | 7 ]   [ documentos/m19.txt | 2 ]   [ documentos/m22.txt | 1 ]   [ documentos/m23.txt | 6 ]   [ documentos/m24.txt | 3 ]   [ documentos/m25.txt | 2 ]   [ documentos/m26.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m30.txt | 1 ]   [ documentos/m33.txt | 3 ]   [ documentos/m39.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m43.txt | 3 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 2 ]   [ documentos/m47.txt | 9 ]   [ documentos/m50.txt | 1 ] 
+
+6232  lucky  [ documentos/m14.txt | 20 ] 
+
+6233  realized  [ documentos/m01.txt | 1 ] 
+
+6234  slowly  [ documentos/m29.txt | 1 ] 
+
+6236  thousand  [ documentos/m29.txt | 3 ] 
+
+6237  spark  [ documentos/m46.txt | 1 ] 
+
+6239  payday  [ documentos/m24.txt | 1 ] 
+
+6240  stuck  [ documentos/m18.txt | 1 ]   [ documentos/m34.txt | 1 ] 
+
+6243  wide  [ documentos/m08.txt | 2 ]   [ documentos/m09.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+6244  advice  [ documentos/m07.txt | 1 ] 
+
+6245  pornstar  [ documentos/m09.txt | 1 ] 
+
+6247  eyes  [ documentos/m01.txt | 1 ]   [ documentos/m09.txt | 8 ]   [ documentos/m18.txt | 1 ]   [ documentos/m20.txt | 2 ]   [ documentos/m23.txt | 2 ]   [ documentos/m29.txt | 12 ]   [ documentos/m37.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m44.txt | 3 ]   [ documentos/m49.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+6254  like  [ documentos/m01.txt | 6 ]   [ documentos/m03.txt | 1 ]   [ documentos/m04.txt | 4 ]   [ documentos/m05.txt | 1 ]   [ documentos/m06.txt | 8 ]   [ documentos/m07.txt | 2 ]   [ documentos/m10.txt | 1 ]   [ documentos/m13.txt | 8 ]   [ documentos/m14.txt | 2 ]   [ documentos/m15.txt | 1 ]   [ documentos/m17.txt | 1 ]   [ documentos/m18.txt | 14 ]   [ documentos/m19.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m25.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m42.txt | 8 ]   [ documentos/m43.txt | 2 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 2 ]   [ documentos/m46.txt | 3 ]   [ documentos/m48.txt | 4 ] 
+
+6255  higher  [ documentos/m10.txt | 2 ]   [ documentos/m17.txt | 2 ]   [ documentos/m42.txt | 1 ] 
+
+6256  hears  [ documentos/m44.txt | 1 ] 
+
+6259  starts  [ documentos/m12.txt | 1 ] 
+
+6261  mourn  [ documentos/m03.txt | 1 ] 
+
+6272  stand  [ documentos/m07.txt | 1 ]   [ documentos/m44.txt | 1 ]   [ documentos/m47.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+6277  operations  [ documentos/m16.txt | 1 ] 
+
+6278  descend  [ documentos/m45.txt | 1 ] 
+
+6283  understand  [ documentos/m05.txt | 3 ] 
+
+6284  switch  [ documentos/m32.txt | 8 ]   [ documentos/m48.txt | 1 ] 
+
+6287  on  [ documentos/m01.txt | 6 ]   [ documentos/m03.txt | 2 ]   [ documentos/m04.txt | 2 ]   [ documentos/m05.txt | 3 ]   [ documentos/m06.txt | 1 ]   [ documentos/m07.txt | 1 ]   [ documentos/m08.txt | 6 ]   [ documentos/m09.txt | 7 ]   [ documentos/m10.txt | 2 ]   [ documentos/m11.txt | 1 ]   [ documentos/m14.txt | 1 ]   [ documentos/m15.txt | 2 ]   [ documentos/m16.txt | 5 ]   [ documentos/m17.txt | 11 ]   [ documentos/m18.txt | 11 ]   [ documentos/m19.txt | 5 ]   [ documentos/m20.txt | 4 ]   [ documentos/m23.txt | 2 ]   [ documentos/m24.txt | 1 ]   [ documentos/m25.txt | 6 ]   [ documentos/m26.txt | 1 ]   [ documentos/m27.txt | 3 ]   [ documentos/m30.txt | 1 ]   [ documentos/m31.txt | 6 ]   [ documentos/m33.txt | 2 ]   [ documentos/m34.txt | 1 ]   [ documentos/m35.txt | 9 ]   [ documentos/m36.txt | 1 ]   [ documentos/m37.txt | 6 ]   [ documentos/m38.txt | 2 ]   [ documentos/m41.txt | 2 ]   [ documentos/m42.txt | 3 ]   [ documentos/m43.txt | 6 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 8 ]   [ documentos/m46.txt | 3 ]   [ documentos/m47.txt | 1 ]   [ documentos/m48.txt | 5 ] 
+
+6289  conscripted  [ documentos/m16.txt | 1 ] 
+
+6292  dyke  [ documentos/m31.txt | 1 ] 
+
+6299  fly  [ documentos/m22.txt | 1 ] 
+
+6300  album  [ documentos/m47.txt | 1 ] 
+
+6302  vocally  [ documentos/m11.txt | 1 ] 
+
+6303  going  [ documentos/m23.txt | 2 ]   [ documentos/m25.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m43.txt | 2 ] 
+
+6306  comedy  [ documentos/m01.txt | 1 ] 
+
+6307  does  [ documentos/m03.txt | 1 ]   [ documentos/m09.txt | 1 ]   [ documentos/m35.txt | 1 ] 
+
+6343  spoke  [ documentos/m01.txt | 1 ] 
+
+6345  leeway  [ documentos/m31.txt | 1 ] 
+
+6352  celebration  [ documentos/m26.txt | 2 ] 
+
+6357  time  [ documentos/m01.txt | 4 ]   [ documentos/m06.txt | 4 ]   [ documentos/m11.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m26.txt | 27 ]   [ documentos/m29.txt | 1 ]   [ documentos/m33.txt | 4 ]   [ documentos/m38.txt | 2 ]   [ documentos/m39.txt | 2 ]   [ documentos/m43.txt | 4 ]   [ documentos/m44.txt | 4 ]   [ documentos/m45.txt | 2 ]   [ documentos/m46.txt | 2 ]   [ documentos/m48.txt | 1 ] 
+
+6358  set  [ documentos/m01.txt | 1 ] 
+
+6359  the  [ documentos/m01.txt | 33 ]   [ documentos/m02.txt | 8 ]   [ documentos/m03.txt | 13 ]   [ documentos/m05.txt | 2 ]   [ documentos/m06.txt | 1 ]   [ documentos/m07.txt | 60 ]   [ documentos/m08.txt | 8 ]   [ documentos/m09.txt | 22 ]   [ documentos/m10.txt | 8 ]   [ documentos/m11.txt | 24 ]   [ documentos/m12.txt | 47 ]   [ documentos/m13.txt | 28 ]   [ documentos/m14.txt | 18 ]   [ documentos/m15.txt | 7 ]   [ documentos/m16.txt | 2 ]   [ documentos/m17.txt | 7 ]   [ documentos/m18.txt | 35 ]   [ documentos/m19.txt | 7 ]   [ documentos/m20.txt | 9 ]   [ documentos/m21.txt | 7 ]   [ documentos/m22.txt | 5 ]   [ documentos/m23.txt | 4 ]   [ documentos/m24.txt | 2 ]   [ documentos/m25.txt | 11 ]   [ documentos/m26.txt | 6 ]   [ documentos/m27.txt | 15 ]   [ documentos/m28.txt | 2 ]   [ documentos/m29.txt | 17 ]   [ documentos/m30.txt | 5 ]   [ documentos/m31.txt | 20 ]   [ documentos/m33.txt | 13 ]   [ documentos/m34.txt | 17 ]   [ documentos/m35.txt | 5 ]   [ documentos/m36.txt | 4 ]   [ documentos/m37.txt | 21 ]   [ documentos/m38.txt | 6 ]   [ documentos/m39.txt | 3 ]   [ documentos/m40.txt | 6 ]   [ documentos/m41.txt | 7 ]   [ documentos/m42.txt | 4 ]   [ documentos/m43.txt | 45 ]   [ documentos/m44.txt | 7 ]   [ documentos/m45.txt | 23 ]   [ documentos/m46.txt | 20 ]   [ documentos/m47.txt | 18 ]   [ documentos/m48.txt | 18 ]   [ documentos/m49.txt | 4 ]   [ documentos/m50.txt | 9 ] 
+
+6360  shoulda  [ documentos/m03.txt | 1 ] 
+
+6361  moons  [ documentos/m46.txt | 1 ] 
+
+6368  sentimental  [ documentos/m25.txt | 6 ] 
+
+6372  small  [ documentos/m01.txt | 1 ]   [ documentos/m37.txt | 1 ] 
+
+6374  clouds  [ documentos/m01.txt | 1 ] 
+
+6381  gold  [ documentos/m43.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+6383  bye  [ documentos/m15.txt | 6 ] 
+
+6385  lookin  [ documentos/m03.txt | 1 ] 
+
+6390  bone  [ documentos/m24.txt | 1 ] 
+
+6391  anywhere  [ documentos/m34.txt | 1 ] 
+
+6393  watching  [ documentos/m01.txt | 1 ]   [ documentos/m08.txt | 2 ]   [ documentos/m17.txt | 2 ]   [ documentos/m19.txt | 2 ] 
+
+6394  worth  [ documentos/m02.txt | 1 ]   [ documentos/m21.txt | 5 ]   [ documentos/m43.txt | 1 ] 
+
+6399  hits  [ documentos/m01.txt | 1 ] 
+
+6400  nature  [ documentos/m43.txt | 1 ] 
+
+6404  click  [ documentos/m32.txt | 8 ] 
+
+6410  light  [ documentos/m01.txt | 1 ]   [ documentos/m06.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m11.txt | 2 ]   [ documentos/m29.txt | 1 ]   [ documentos/m31.txt | 5 ]   [ documentos/m34.txt | 1 ]   [ documentos/m38.txt | 4 ]   [ documentos/m46.txt | 2 ]   [ documentos/m48.txt | 1 ] 
+
+6412  ordinary  [ documentos/m36.txt | 2 ]   [ documentos/m43.txt | 1 ] 
+
+6414  dos  [ documentos/m50.txt | 1 ] 
+
+6420  promise  [ documentos/m02.txt | 2 ] 
+
+6421  into  [ documentos/m01.txt | 1 ]   [ documentos/m05.txt | 1 ]   [ documentos/m08.txt | 2 ]   [ documentos/m09.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m15.txt | 1 ]   [ documentos/m16.txt | 1 ]   [ documentos/m20.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m28.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m35.txt | 3 ]   [ documentos/m43.txt | 2 ]   [ documentos/m44.txt | 1 ] 
+
+6422  working  [ documentos/m18.txt | 1 ] 
+
+6423  corner  [ documentos/m33.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+6427  jamie  [ documentos/m41.txt | 1 ] 
+
+6429  hippie  [ documentos/m03.txt | 1 ] 
+
+6430  against  [ documentos/m29.txt | 1 ] 
+
+6433  rise  [ documentos/m20.txt | 1 ]   [ documentos/m27.txt | 1 ] 
+
+6441  mississippi  [ documentos/m03.txt | 1 ] 
+
+6444  tall  [ documentos/m09.txt | 1 ] 
+
+6445  turn  [ documentos/m05.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m32.txt | 7 ]   [ documentos/m33.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+6446  confess  [ documentos/m12.txt | 3 ] 
+
+6447  uhmmm  [ documentos/m26.txt | 2 ] 
+
+6449  bought  [ documentos/m50.txt | 1 ] 
+
+6450  craving  [ documentos/m27.txt | 1 ] 
+
+6453  weather's  [ documentos/m44.txt | 1 ] 
+
+6454  room  [ documentos/m01.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m38.txt | 2 ] 
+
+6458  nothing's  [ documentos/m41.txt | 3 ] 
+
+6459  beyond  [ documentos/m01.txt | 1 ] 
+
+6460  shared  [ documentos/m01.txt | 1 ] 
+
+6461  solo  [ documentos/m01.txt | 1 ] 
+
+6469  spies  [ documentos/m27.txt | 1 ] 
+
+6475  bleed  [ documentos/m36.txt | 1 ]   [ documentos/m39.txt | 1 ] 
+
+6476  stealing  [ documentos/m03.txt | 1 ] 
+
+6486  lepers  [ documentos/m10.txt | 1 ] 
+
+6488  bright  [ documentos/m06.txt | 1 ]   [ documentos/m41.txt | 1 ]   [ documentos/m43.txt | 2 ] 
+
+6490  boy  [ documentos/m13.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m39.txt | 6 ]   [ documentos/m42.txt | 2 ]   [ documentos/m43.txt | 2 ] 
+
+6492  up  [ documentos/m03.txt | 1 ]   [ documentos/m08.txt | 2 ]   [ documentos/m09.txt | 1 ]   [ documentos/m14.txt | 42 ]   [ documentos/m17.txt | 1 ]   [ documentos/m20.txt | 5 ]   [ documentos/m22.txt | 1 ]   [ documentos/m23.txt | 4 ]   [ documentos/m33.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m35.txt | 3 ]   [ documentos/m37.txt | 3 ]   [ documentos/m38.txt | 8 ]   [ documentos/m41.txt | 1 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 2 ]   [ documentos/m46.txt | 1 ]   [ documentos/m47.txt | 1 ]   [ documentos/m48.txt | 2 ] 
+
+6494  voices  [ documentos/m11.txt | 2 ] 
+
+6499  swinging  [ documentos/m50.txt | 2 ] 
+
+6502  unplug  [ documentos/m15.txt | 1 ] 
+
+6514  update  [ documentos/m32.txt | 8 ] 
+
+6516  weakness  [ documentos/m47.txt | 1 ] 
+
+6520  material  [ documentos/m16.txt | 1 ] 
+
+6521  says  [ documentos/m11.txt | 10 ]   [ documentos/m24.txt | 1 ]   [ documentos/m43.txt | 2 ] 
+
+6524  boat  [ documentos/m15.txt | 1 ] 
+
+6530  generator  [ documentos/m43.txt | 1 ] 
+
+6533  priest  [ documentos/m03.txt | 4 ] 
+
+6534  ink  [ documentos/m50.txt | 1 ] 
+
+6535  starman  [ documentos/m48.txt | 6 ] 
+
+6545  highly  [ documentos/m16.txt | 1 ] 
+
+6552  let's  [ documentos/m14.txt | 3 ]   [ documentos/m33.txt | 2 ]   [ documentos/m42.txt | 1 ] 
+
+6554  imitation  [ documentos/m43.txt | 2 ] 
+
+6558  learn  [ documentos/m01.txt | 1 ]   [ documentos/m06.txt | 4 ]   [ documentos/m07.txt | 1 ] 
+
+6559  climb  [ documentos/m08.txt | 1 ]   [ documentos/m42.txt | 1 ] 
+
+6560  pretty  [ documentos/m28.txt | 1 ] 
+
+6562  taking  [ documentos/m02.txt | 2 ]   [ documentos/m23.txt | 4 ] 
+
+6573  motivation  [ documentos/m01.txt | 1 ]   [ documentos/m25.txt | 1 ] 
+
+6576  line  [ documentos/m18.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m25.txt | 2 ]   [ documentos/m29.txt | 2 ]   [ documentos/m31.txt | 6 ] 
+
+6577  leave  [ documentos/m05.txt | 1 ]   [ documentos/m06.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m14.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m32.txt | 7 ]   [ documentos/m45.txt | 1 ]   [ documentos/m47.txt | 6 ] 
+
+6579  upon  [ documentos/m01.txt | 1 ]   [ documentos/m04.txt | 2 ]   [ documentos/m06.txt | 1 ]   [ documentos/m47.txt | 1 ] 
+
+6583  taste  [ documentos/m10.txt | 1 ]   [ documentos/m19.txt | 2 ]   [ documentos/m24.txt | 1 ] 
+
+6589  check  [ documentos/m22.txt | 1 ]   [ documentos/m32.txt | 8 ]   [ documentos/m50.txt | 1 ] 
+
+6591  sneak  [ documentos/m46.txt | 1 ] 
+
+6595  ringing  [ documentos/m25.txt | 1 ] 
+
+6598  'lotta  [ documentos/m48.txt | 1 ] 
+
+6599  fool  [ documentos/m12.txt | 2 ] 
+
+6600  where  [ documentos/m19.txt | 1 ]   [ documentos/m22.txt | 1 ]   [ documentos/m42.txt | 1 ]   [ documentos/m45.txt | 9 ]   [ documentos/m46.txt | 1 ] 
+
+6601  old  [ documentos/m13.txt | 2 ]   [ documentos/m17.txt | 1 ]   [ documentos/m30.txt | 4 ]   [ documentos/m41.txt | 1 ]   [ documentos/m42.txt | 2 ]   [ documentos/m49.txt | 1 ] 
+
+6603  butterfly  [ documentos/m43.txt | 1 ] 
+
+6621  fell  [ documentos/m40.txt | 2 ] 
+
+6624  beginnings  [ documentos/m14.txt | 1 ] 
+
+6636  am  [ documentos/m05.txt | 2 ]   [ documentos/m06.txt | 2 ]   [ documentos/m09.txt | 1 ]   [ documentos/m39.txt | 1 ] 
+
+6641  skies  [ documentos/m20.txt | 1 ]   [ documentos/m40.txt | 2 ]   [ documentos/m44.txt | 1 ] 
+
+6643  consumed  [ documentos/m19.txt | 3 ] 
+
+6652  asleep  [ documentos/m23.txt | 2 ]   [ documentos/m33.txt | 1 ]   [ documentos/m38.txt | 1 ] 
+
+6655  spun  [ documentos/m44.txt | 2 ] 
+
+6657  pay  [ documentos/m03.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m24.txt | 7 ]   [ documentos/m27.txt | 2 ]   [ documentos/m29.txt | 1 ]   [ documentos/m32.txt | 7 ]   [ documentos/m43.txt | 2 ] 
+
+6661  everybody's  [ documentos/m21.txt | 1 ]   [ documentos/m27.txt | 1 ] 
+
+6662  lately  [ documentos/m01.txt | 1 ] 
+
+6665  hold  [ documentos/m01.txt | 2 ]   [ documentos/m02.txt | 6 ]   [ documentos/m21.txt | 2 ]   [ documentos/m31.txt | 1 ]   [ documentos/m33.txt | 1 ]   [ documentos/m44.txt | 1 ] 
+
+6668  fish  [ documentos/m30.txt | 1 ] 
+
+6674  infiltration  [ documentos/m16.txt | 1 ] 
+
+6683  temporary  [ documentos/m13.txt | 2 ] 
+
+6690  certified  [ documentos/m07.txt | 1 ] 
+
+6694  might  [ documentos/m01.txt | 1 ]   [ documentos/m11.txt | 2 ]   [ documentos/m22.txt | 1 ]   [ documentos/m33.txt | 1 ] 
+
+6697  bar  [ documentos/m14.txt | 3 ] 
+
+6700  thinks  [ documentos/m48.txt | 3 ] 
+
+6703  good  [ documentos/m01.txt | 1 ]   [ documentos/m14.txt | 6 ]   [ documentos/m17.txt | 2 ]   [ documentos/m22.txt | 1 ]   [ documentos/m25.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m29.txt | 3 ] 
+
+6705  corrected  [ documentos/m28.txt | 3 ] 
+
+6709  streetlight  [ documentos/m06.txt | 1 ] 
+
+6712  drives  [ documentos/m06.txt | 1 ] 
+
+6719  devil  [ documentos/m11.txt | 1 ] 
+
+6720  vertigo  [ documentos/m50.txt | 3 ] 
+
+6725  ooo  [ documentos/m22.txt | 2 ] 
+
+6735  trick  [ documentos/m28.txt | 1 ]   [ documentos/m31.txt | 1 ]   [ documentos/m33.txt | 1 ] 
+
+6744  quietly  [ documentos/m01.txt | 1 ] 
+
+6745  knows  [ documentos/m15.txt | 2 ]   [ documentos/m48.txt | 3 ] 
+
+6746  rely  [ documentos/m45.txt | 2 ] 
+
+6752  runs  [ documentos/m08.txt | 2 ]   [ documentos/m38.txt | 2 ] 
+
+6753  step  [ documentos/m29.txt | 1 ]   [ documentos/m44.txt | 2 ]   [ documentos/m45.txt | 2 ] 
+
+6754  burning  [ documentos/m06.txt | 1 ]   [ documentos/m42.txt | 1 ] 
+
+6755  he'd  [ documentos/m48.txt | 6 ] 
+
+6758  women  [ documentos/m09.txt | 2 ] 
+
+6760  wheel  [ documentos/m13.txt | 1 ]   [ documentos/m33.txt | 1 ] 
+
+6761  test  [ documentos/m27.txt | 1 ] 
+
+6769  condition  [ documentos/m35.txt | 1 ] 
+
+6773  lipstick  [ documentos/m15.txt | 2 ] 
+
+6774  meditation  [ documentos/m43.txt | 1 ] 
+
+6780  mistake  [ documentos/m49.txt | 1 ] 
+
+6801  felt  [ documentos/m01.txt | 2 ] 
+
+6806  haven  [ documentos/m01.txt | 1 ] 
+
+6808  ah  [ documentos/m31.txt | 8 ] 
+
+6812  channel  [ documentos/m48.txt | 1 ] 
+
+6818  focus  [ documentos/m37.txt | 2 ] 
+
+6819  chin  [ documentos/m27.txt | 1 ] 
+
+6820  gimme  [ documentos/m35.txt | 10 ] 
+
+6824  picosecond  [ documentos/m44.txt | 1 ] 
+
+6828  puts  [ documentos/m17.txt | 1 ] 
+
+6831  pause  [ documentos/m32.txt | 8 ] 
+
+6836  with  [ documentos/m01.txt | 3 ]   [ documentos/m03.txt | 1 ]   [ documentos/m07.txt | 4 ]   [ documentos/m08.txt | 2 ]   [ documentos/m09.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m14.txt | 1 ]   [ documentos/m17.txt | 1 ]   [ documentos/m18.txt | 3 ]   [ documentos/m19.txt | 3 ]   [ documentos/m20.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m25.txt | 2 ]   [ documentos/m27.txt | 1 ]   [ documentos/m29.txt | 3 ]   [ documentos/m34.txt | 1 ]   [ documentos/m37.txt | 2 ]   [ documentos/m38.txt | 12 ]   [ documentos/m43.txt | 1 ]   [ documentos/m46.txt | 1 ]   [ documentos/m49.txt | 1 ]   [ documentos/m50.txt | 2 ] 
+
+6841  go  [ documentos/m01.txt | 1 ]   [ documentos/m02.txt | 2 ]   [ documentos/m09.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m13.txt | 1 ]   [ documentos/m15.txt | 3 ]   [ documentos/m18.txt | 6 ]   [ documentos/m21.txt | 1 ]   [ documentos/m23.txt | 2 ]   [ documentos/m29.txt | 2 ]   [ documentos/m33.txt | 1 ]   [ documentos/m35.txt | 3 ]   [ documentos/m37.txt | 3 ]   [ documentos/m42.txt | 1 ]   [ documentos/m43.txt | 3 ]   [ documentos/m44.txt | 1 ]   [ documentos/m45.txt | 9 ]   [ documentos/m46.txt | 4 ]   [ documentos/m50.txt | 2 ] 
+
+6848  people  [ documentos/m02.txt | 2 ]   [ documentos/m09.txt | 1 ]   [ documentos/m17.txt | 8 ]   [ documentos/m19.txt | 1 ]   [ documentos/m28.txt | 1 ] 
+
+6849  published  [ documentos/m16.txt | 1 ] 
+
+6851  atmosphere  [ documentos/m01.txt | 1 ] 
+
+6852  crime  [ documentos/m33.txt | 2 ] 
+
+6857  stomach  [ documentos/m23.txt | 2 ] 
+
+6860  mine  [ documentos/m33.txt | 2 ]   [ documentos/m46.txt | 1 ]   [ documentos/m49.txt | 3 ] 
+
+6868  beat  [ documentos/m01.txt | 4 ]   [ documentos/m31.txt | 1 ]   [ documentos/m41.txt | 1 ] 
+
+6869  bath  [ documentos/m31.txt | 1 ] 
+
+6871  simple  [ documentos/m01.txt | 1 ] 
+
+6872  chapter's  [ documentos/m43.txt | 1 ] 
+
+6876  firing  [ documentos/m22.txt | 1 ] 
+
+6879  singing  [ documentos/m01.txt | 1 ]   [ documentos/m31.txt | 3 ] 
+
+6881  cage  [ documentos/m23.txt | 2 ]   [ documentos/m30.txt | 1 ]   [ documentos/m31.txt | 1 ] 
+
+6882  return  [ documentos/m01.txt | 1 ]   [ documentos/m34.txt | 1 ] 
+
+6883  behind  [ documentos/m06.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m20.txt | 2 ]   [ documentos/m47.txt | 2 ] 
+
+6888  star-crossed  [ documentos/m11.txt | 1 ] 
+
+6889  tired  [ documentos/m12.txt | 1 ] 
+
+6891  died  [ documentos/m03.txt | 1 ]   [ documentos/m09.txt | 2 ]   [ documentos/m41.txt | 1 ] 
+
+6899  basement  [ documentos/m27.txt | 1 ] 
+
+6907  dissolve  [ documentos/m44.txt | 1 ] 
+
+6913  lie  [ documentos/m09.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m49.txt | 1 ] 
+
+6914  starlight  [ documentos/m02.txt | 2 ] 
+
+6915  tuna  [ documentos/m34.txt | 1 ] 
+
+6917  you're  [ documentos/m05.txt | 1 ]   [ documentos/m07.txt | 6 ]   [ documentos/m09.txt | 1 ]   [ documentos/m11.txt | 1 ]   [ documentos/m13.txt | 8 ]   [ documentos/m19.txt | 3 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 2 ]   [ documentos/m29.txt | 3 ]   [ documentos/m33.txt | 5 ]   [ documentos/m34.txt | 4 ]   [ documentos/m44.txt | 8 ]   [ documentos/m47.txt | 2 ] 
+
+6920  melancholy  [ documentos/m33.txt | 1 ] 
+
+6943  stole  [ documentos/m31.txt | 1 ] 
+
+6946  divided  [ documentos/m06.txt | 1 ]   [ documentos/m45.txt | 3 ] 
+
+6947  d  [ documentos/m48.txt | 1 ] 
+
+6957  mother  [ documentos/m22.txt | 12 ]   [ documentos/m37.txt | 1 ] 
+
+6958  done  [ documentos/m13.txt | 1 ]   [ documentos/m39.txt | 1 ]   [ documentos/m44.txt | 3 ] 
+
+6963  hesitation  [ documentos/m11.txt | 1 ] 
+
+6964  dancers  [ documentos/m43.txt | 1 ] 
+
+6965  anyway  [ documentos/m39.txt | 1 ] 
+
+6974  why  [ documentos/m09.txt | 2 ]   [ documentos/m17.txt | 5 ]   [ documentos/m24.txt | 8 ]   [ documentos/m43.txt | 1 ]   [ documentos/m44.txt | 1 ] 
+
+6976  world  [ documentos/m03.txt | 1 ]   [ documentos/m08.txt | 2 ]   [ documentos/m11.txt | 1 ]   [ documentos/m16.txt | 1 ]   [ documentos/m17.txt | 2 ]   [ documentos/m27.txt | 3 ]   [ documentos/m28.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m43.txt | 4 ]   [ documentos/m45.txt | 3 ]   [ documentos/m46.txt | 4 ] 
+
+6977  took  [ documentos/m09.txt | 2 ]   [ documentos/m11.txt | 1 ] 
+
+6978  night  [ documentos/m01.txt | 1 ]   [ documentos/m08.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m11.txt | 4 ]   [ documentos/m14.txt | 39 ]   [ documentos/m16.txt | 1 ]   [ documentos/m17.txt | 1 ]   [ documentos/m18.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m47.txt | 1 ]   [ documentos/m49.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+6979  cobain  [ documentos/m27.txt | 1 ] 
+
+6981  car  [ documentos/m33.txt | 7 ] 
+
+6986  everyday  [ documentos/m01.txt | 1 ] 
+
+6993  maze  [ documentos/m34.txt | 1 ] 
+
+6994  tips  [ documentos/m01.txt | 1 ] 
+
+7005  tune  [ documentos/m01.txt | 1 ]   [ documentos/m32.txt | 7 ] 
+
+7008  what  [ documentos/m01.txt | 6 ]   [ documentos/m03.txt | 2 ]   [ documentos/m05.txt | 1 ]   [ documentos/m07.txt | 1 ]   [ documentos/m10.txt | 2 ]   [ documentos/m11.txt | 1 ]   [ documentos/m13.txt | 24 ]   [ documentos/m14.txt | 2 ]   [ documentos/m15.txt | 5 ]   [ documentos/m17.txt | 2 ]   [ documentos/m20.txt | 4 ]   [ documentos/m27.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m30.txt | 2 ]   [ documentos/m34.txt | 3 ]   [ documentos/m38.txt | 3 ]   [ documentos/m41.txt | 4 ]   [ documentos/m43.txt | 2 ]   [ documentos/m44.txt | 2 ]   [ documentos/m45.txt | 8 ]   [ documentos/m46.txt | 4 ]   [ documentos/m47.txt | 1 ]   [ documentos/m48.txt | 1 ]   [ documentos/m49.txt | 1 ]   [ documentos/m50.txt | 1 ] 
+
+7009  man  [ documentos/m03.txt | 1 ]   [ documentos/m07.txt | 35 ]   [ documentos/m17.txt | 2 ]   [ documentos/m18.txt | 1 ]   [ documentos/m24.txt | 4 ]   [ documentos/m29.txt | 2 ]   [ documentos/m37.txt | 4 ] 
+
+7010  undecided  [ documentos/m45.txt | 3 ] 
+
+7015  limelight  [ documentos/m01.txt | 1 ] 
+
+7016  refuse  [ documentos/m12.txt | 2 ]   [ documentos/m13.txt | 1 ] 
+
+7018  station  [ documentos/m05.txt | 1 ]   [ documentos/m27.txt | 2 ] 
+
+7020  chest  [ documentos/m23.txt | 2 ] 
+
+7021  wave  [ documentos/m43.txt | 6 ]   [ documentos/m48.txt | 1 ] 
+
+7022  engineering  [ documentos/m43.txt | 1 ] 
+
+7029  release  [ documentos/m03.txt | 4 ] 
+
+7030  that's  [ documentos/m17.txt | 1 ]   [ documentos/m28.txt | 1 ]   [ documentos/m29.txt | 1 ]   [ documentos/m33.txt | 3 ]   [ documentos/m36.txt | 1 ]   [ documentos/m38.txt | 1 ]   [ documentos/m46.txt | 1 ]   [ documentos/m48.txt | 1 ] 
+
+7037  calling  [ documentos/m11.txt | 1 ]   [ documentos/m23.txt | 4 ]   [ documentos/m35.txt | 1 ] 
+
+7044  space  [ documentos/m01.txt | 1 ]   [ documentos/m27.txt | 1 ]   [ documentos/m34.txt | 1 ]   [ documentos/m43.txt | 1 ] 
+
+7054  ah-ah-ah  [ documentos/m09.txt | 3 ] 
+
+7055  afterthought  [ documentos/m46.txt | 1 ] 
+
+7074  beginning  [ documentos/m14.txt | 1 ] 
+
+7076  dead  [ documentos/m01.txt | 1 ]   [ documentos/m10.txt | 1 ]   [ documentos/m44.txt | 2 ] 
+
+7077  turned  [ documentos/m17.txt | 1 ]   [ documentos/m40.txt | 2 ] 
+
+7078  leads  [ documentos/m27.txt | 1 ] 
+
+7079  dance  [ documentos/m15.txt | 1 ]   [ documentos/m17.txt | 1 ]   [ documentos/m26.txt | 14 ]   [ documentos/m29.txt | 8 ]   [ documentos/m37.txt | 2 ]   [ documentos/m50.txt | 1 ] 
+
+7082  hordes  [ documentos/m37.txt | 1 ] 
+
+7083  must  [ documentos/m12.txt | 3 ]   [ documentos/m46.txt | 2 ] 
+
+7096  technologic  [ documentos/m32.txt | 15 ] 
+
+7097  decide  [ documentos/m45.txt | 2 ] 
+
+7108  alley  [ documentos/m19.txt | 1 ] 
+
+7110  they're  [ documentos/m11.txt | 1 ]   [ documentos/m19.txt | 2 ]   [ documentos/m23.txt | 2 ]   [ documentos/m27.txt | 1 ]   [ documentos/m46.txt | 1 ] 
+
+7118  force  [ documentos/m04.txt | 1 ]   [ documentos/m14.txt | 1 ] 
+
+7127  solitary  [ documentos/m09.txt | 3 ] 
+
+7131  suture  [ documentos/m33.txt | 1 ] 
+
+7142  legend  [ documentos/m14.txt | 1 ] 
+
+7143  porcelain  [ documentos/m18.txt | 1 ] 
+
