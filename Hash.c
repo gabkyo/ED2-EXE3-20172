@@ -1,5 +1,11 @@
 #include "Hash.h"
 #include "ExtraiPalavra.h"
+#include "lista.h"
+
+int compara(const void *a, const void *b){
+    return strcmp((*(TipoItem*)a).Chave,(*(TipoItem*)b).Chave);
+}
+
 
 void GeraPesos(TipoPesos p) { /* -Gera valores randomicos entre 1 e 10.000- */
 	int i;
@@ -78,38 +84,28 @@ void Retira(TipoChave Ch, TipoPesos p, TipoDicionario T) {
 		printf("Registro nao esta presente\n");
 }
 
-void ordenar(TipoDicionario tabela){
-	TipoItem aux;
-	for (int i = 0; i < M-1; ++i) {
-		for (int j = i+1; j < M; ++j) {
-			if(strcmp(tabela[i].Palavra,Tabela[j].Palavra)>0){
-				aux = tabela[j];
-				tabela[j]=tabela[i];
-				tabela[i]=aux;
-				i=-1;
-				j=0;
-			}
-		}
-	}
-}
 
 void Imprime(TipoDicionario tabela) {
 	int i, j, tam;
-	ordenar(tabela);
 	for (i = 1; i < M; i++) {
 		if(strcmp(tabela[i].Chave, VAZIO)){
-			printf("%d  ", i);
+			//printf("%d ", i);
 			tam = strlen(tabela[i].Chave);
 			for (j = 0; j < tam; j++){
 				putchar(tabela[i].Chave[j]);
 			}
+			printf(": ");
 			int qtdLista = ImprimeLista(tabela[i].listaOcorrencia);
 
 			//printf("->>>>>>>>>>>>>>>>>>>>> %d\n", qtdLista);
 			putchar('\n');
 		}
 	}
-} /* Imprime */
+} // Imprime
+
+
+
+
 
 void LerPalavra(char *p, int Tam) {
 	char c;

@@ -1,5 +1,6 @@
 #include "Hash.h"
 #include "ExtraiPalavra.h"
+#include "lista.h"
 #include <string.h>
 
 char documentos[50][256] = { "documentos/m01.txt", "documentos/m02.txt",
@@ -19,8 +20,6 @@ char documentos[50][256] = { "documentos/m01.txt", "documentos/m02.txt",
 		"documentos/m42.txt", "documentos/m43.txt", "documentos/m44.txt",
 		"documentos/m45.txt", "documentos/m46.txt", "documentos/m47.txt",
 		"documentos/m48.txt", "documentos/m49.txt", "documentos/m50.txt" };
-
-
 
 int main(int argc, char *argv[]) {
 	arq = NULL;
@@ -45,7 +44,8 @@ int main(int argc, char *argv[]) {
 		}
 	}
 
-	printf("Tabela apos insercao:\n");
+	//printf("Tabela apos insercao:\n");
+    qsort((TipoItem*)Tabela,M,sizeof(TipoItem),compara);
 	Imprime(Tabela);
 
 	if (arq != NULL)
